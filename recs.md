@@ -1,4 +1,4 @@
-A non-specific list of things we happen to find interesting. Not an endorsement of all of the content -- the criterion is "contained at least one thing we found interesting," which is not that difficult to meet. 
+A non-specific list of things we happen to find interesting. These are not endorsements -- the criterion for inclusion is "contained at least one thing we found interesting," which is not that difficult to meet. 
 
 Other personal blogs.  
 [Outside the Asylum.](https://outsidetheasylum.blog/)  
@@ -9,10 +9,13 @@ Other personal blogs.
 [girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination.  
 
 Blogs about social issues of importance to us.  
-[Talia Bhatt.](https://substack.com/@taliabhatt)  
+[Talia Bhatt.](https://taliabhattwrites.substack.com/)  
 [The Trans Dandy.](https://thetransdandy.substack.com/)  
 [Hammer or Anvil.](https://harpies.substack.com/)  
-[Trans Care 101.](https://transcare101.substack.com/)
+[Trans Care 101.](https://transcare101.substack.com/)  
+[Abortion, Every Day.](https://jessica.substack.com/)  
+[Matriarchal Blessing.](https://celestemdavis.substack.com/)  
+[from an evil woman.](https://catoochie.substack.com/)
 
 Text, short form.  
 [Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring)  
