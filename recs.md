@@ -8,7 +8,7 @@ Other personal blogs.
 [Human Invariant.](https://www.humaninvariant.com/)  
 [girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination.  
 
-Transfeminism. 
+Blogs about social issues of importance to us.  
 [Talia Bhatt.](https://substack.com/@taliabhatt)  
 [The Trans Dandy.](https://thetransdandy.substack.com/)  
 [Hammer or Anvil.](https://harpies.substack.com/)  
