@@ -31,11 +31,14 @@ Text, short form.
 [Person paper on purity in language.](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html)  
 [Common tech jobs described as cabals of Mesoamerican wizards.](https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals)  
 [Playing to win, Alice Maz.](https://www.alicemaz.com/writing/minecraft.html)  
-[95%-ile isn't that good.](https://danluu.com/p95-skill/#fnref:S)
+[95%-ile isn't that good.](https://danluu.com/p95-skill/#fnref:S)  
+[Action!](https://johnnyroccia.com/2020/06/27/action/)  
+[nohello.](https://nohello.net/en/)  
 
 Text, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
-[Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. 
+[Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term.  
+[Unsong.](https://unsongbook.com/)  
 
 Larger repositories.  
 [Strasbourg Observers.](https://strasbourgobservers.com)    
@@ -56,3 +59,12 @@ Video.
 [HGModernism.](https://www.youtube.com/@HGModernism)  
 [Jorbs.](https://www.youtube.com/@Jorbs)  
 [Neurotic Goose.](https://www.youtube.com/@NeuroticGoose)  
+
+Games.  
+[Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/)  
+[Primordialis.](https://store.steampowered.com/app/3011360/Primordialis/)  
+[Noita.](https://store.steampowered.com/app/881100/Noita/)  
+[Celeste.](https://store.steampowered.com/app/504230/Celeste/)  
+
+Music.  
+
