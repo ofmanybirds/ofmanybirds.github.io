@@ -27,6 +27,7 @@ Shorter things.
 
 Long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)
+[Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. 
 
 Larger repositories.  
 [Strasbourg Observers.](https://strasbourgobservers.com)    
@@ -38,4 +39,3 @@ Larger repositories.
 Fanfiction.  
 [Pokemon: The Origin of Species.](https://daystareld.com/pokemon/1)  
 [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man)  
-
