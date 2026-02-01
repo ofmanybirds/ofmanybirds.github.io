@@ -48,6 +48,7 @@ Nonfiction, short form.
 [Mythic vs folk values.](https://web.archive.org/web/20260104064352/https://www.tumblr.com/raggedjackscarlet/129312114638/mythic-valuesfolk-values)  
 [Things you should never do.](https://web.archive.org/web/20260125032021/https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)  
 [The problem with non-philosophers.](https://web.archive.org/web/20251112055308/https://www.philosophyetc.net/2006/05/problem-with-non-philosophers.html)  
+[List of atrocities committed by US authorities.](https://github.com/dessalines/essays/blob/main/us_atrocities.md)  
 
 Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
