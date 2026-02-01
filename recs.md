@@ -8,6 +8,12 @@ Other personal blogs.
 [Human Invariant.](https://www.humaninvariant.com/)  
 [girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination.  
 
+Transfeminism. 
+[Talia Bhatt.](https://substack.com/@taliabhatt)  
+[The Trans Dandy.](https://thetransdandy.substack.com/)  
+[Hammer or Anvil.](https://harpies.substack.com/)  
+[Trans Care 101.](https://transcare101.substack.com/)
+
 Text, short form.  
 [Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring)  
 [Salad theory.](https://saladtheory.github.io/)  
