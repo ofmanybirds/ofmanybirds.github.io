@@ -44,6 +44,7 @@ Nonfiction, short form.
 [Orchietectomy, part 2.](https://mesityl.substack.com/p/orchiectomy-part-2)  
 [How One Las Vegas ED Saved Hundreds of Lives After the Worst Mass Shooting in U.S. History.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)  
 [On being Rich-ish.](https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned)
+[Structured procrastination.](https://structuredprocrastination.com/)
 
 Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
