@@ -6,6 +6,7 @@ Other personal blogs.
 [Slate Star Codex.](https://slatestarcodex.com/)  
 [Astral Codex Ten.](https://www.astralcodexten.com/)  
 [Human Invariant.](https://www.humaninvariant.com/)  
+[girl.surgery.](https://girl.surgery/)  
 
 Shorter things.  
 [Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring)  
