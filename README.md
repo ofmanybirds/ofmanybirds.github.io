@@ -7,3 +7,4 @@ We happen to think that there's a correct way to do everything, that there's usu
 [Things we recommend.](recs.md)  
 [Kinky stuff.](kink.md)  
 [About me.](self.md)
+[Projects.](projects.md)
