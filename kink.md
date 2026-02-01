@@ -1,5 +1,3 @@
-# ofmanybirds.github.io
+We're into a lot of stuff. We've recently decided to start keeping track of it.
 
-We're into a lot of stuff. We've decided to start keeping track of it, on account of the fact that having that seems extremely convenient. 
-
-kink stuff google doc, look at that
+We're very interested in games that interact with sexuality in some way. We're not entirely sure why, but should probably give it some thought. 
