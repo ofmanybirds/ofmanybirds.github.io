@@ -43,6 +43,7 @@ Nonfiction, short form.
 [They write the right stuff.](https://archive.is/20251210221918/https://www.fastcompany.com/28121/they-write-right-stuff#selection-543.667-557.479)  
 [Orchietectomy, part 2.](https://mesityl.substack.com/p/orchiectomy-part-2)  
 [How One Las Vegas ED Saved Hundreds of Lives After the Worst Mass Shooting in U.S. History.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)  
+[On being Rich-ish.](https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned)
 
 Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
