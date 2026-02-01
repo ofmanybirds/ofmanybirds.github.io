@@ -26,7 +26,7 @@ Shorter things.
 [95%-ile isn't that good.](https://danluu.com/p95-skill/#fnref:S)
 
 Long form.  
-[Playing to win, David Sirlin.](https://www.sirlin.net/ptw)
+[Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
 [Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. 
 
 Larger repositories.  
