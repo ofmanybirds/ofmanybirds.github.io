@@ -1,7 +1,7 @@
 A non-specific list of things we happen to find interesting. These are not endorsements -- the criterion for inclusion is "contained at least one thing we found interesting," which is not that difficult to meet. 
 
 Other personal blogs.  
-[Outside the Asylum.](https://outsidetheasylum.blog/)  
+[Outside the Asylum.](https://outsidetheasylum.blog/) Also see [the archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/)  
 [Gwern.net.](https://gwern.net/index)  
 [Slate Star Codex.](https://slatestarcodex.com/)  
 [Astral Codex Ten.](https://www.astralcodexten.com/)  
@@ -17,7 +17,7 @@ Blogs about social issues of importance to us.
 [Matriarchal Blessing.](https://celestemdavis.substack.com/)  
 [from an evil woman.](https://catoochie.substack.com/)
 
-Text, short form.  
+Nonfiction, short form.  
 [Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring)  
 [Salad theory.](https://saladtheory.github.io/)  
 [The honesty tax.](https://www.theargumentmag.com/p/the-honesty-tax)  
@@ -29,16 +29,23 @@ Text, short form.
 [No one cared about my spreadsheets.](https://www.econlib.org/no-one-cared-about-my-spreadsheets/)  
 [List of common misconceptions.](https://en.wikipedia.org/wiki/List_of_common_misconceptions)  
 [Person paper on purity in language.](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html)  
-[Common tech jobs described as cabals of Mesoamerican wizards.](https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals)  
 [Playing to win, Alice Maz.](https://www.alicemaz.com/writing/minecraft.html)  
 [95%-ile isn't that good.](https://danluu.com/p95-skill/#fnref:S)  
 [Action!](https://johnnyroccia.com/2020/06/27/action/)  
 [nohello.](https://nohello.net/en/)  
+[In My Culture.](https://medium.com/@ThingMaker/in-my-culture-29c6464072b2)  
+[Who saved the most lives in history?](https://scienceheroes.com/)  
+[Silent Treatment, the troubling response to a memoir of incest.](https://harpers.org/archive/2018/03/silent-treatment/) 
+[Arguing with myself (and losing).](https://web.archive.org/web/20250622045850/https://life-in-a-monospace-typeface.tumblr.com/post/81503002891/arguing-with-myself-and-losing)
 
-Text, long form.  
+Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
 [Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term.  
-[Unsong.](https://unsongbook.com/)  
+
+Original fiction.  
+[Unsong.](https://unsongbook.com/)   
+[Exhalation.](https://www.lightspeedmagazine.com/fiction/exhalation/)  
+[Common tech jobs described as cabals of Mesoamerican wizards.](https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals)  
 
 Larger repositories.  
 [Strasbourg Observers.](https://strasbourgobservers.com)    
