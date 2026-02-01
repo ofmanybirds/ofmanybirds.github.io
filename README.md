@@ -3,4 +3,4 @@ We're also trans, though less trans than a lot of the people we know.
 
 We happen to think that there's a correct way to do everything, that there's usually only one correct way to do a thing, and that you should always do your best to do the correct thing. This is not as unhealthy as it sounds.
 
-[Things we recommend.](recs.md)  
+[Things we recommend -- a link repository.](recs.md)  
