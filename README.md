@@ -1,4 +1,3 @@
-# ofmanybirds.github.io
 Personal page. We put stuff here. Probably. 
 
 Anyway, hi. We're ofmanybirds. We happen to be plural. And female. And gay. (Our sexuality is complicated, but 'gay' has never felt incorrect.)
