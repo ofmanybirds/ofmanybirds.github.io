@@ -1,7 +1,11 @@
 A non-specific list of things we happen to find interesting. Not an endorsement of all of the content -- the criterion is "contained at least one thing we found interesting," which is not that difficult to meet. 
 
 Other personal blogs.  
-[Outside the Asylum.](https://outsidetheasylum.blog/)
+[Outside the Asylum.](https://outsidetheasylum.blog/)  
+[Gwern.net.](https://gwern.net/index)  
+[Slate Star Codex.](https://slatestarcodex.com/)  
+[Astral Codex Ten.](https://www.astralcodexten.com/)  
+[Human Invariant.](https://www.humaninvariant.com/)  
 
 Shorter things.  
 [Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring)  
@@ -18,6 +22,7 @@ Shorter things.
 [Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8)  
 [Common tech jobs described as cabals of Mesoamerican wizards.](https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals)  
 [Playing to win, Alice Maz.](https://www.alicemaz.com/writing/minecraft.html)  
+[95%-ile isn't that good.](https://danluu.com/p95-skill/#fnref:S)
 
 Long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)
