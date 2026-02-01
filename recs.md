@@ -1,5 +1,3 @@
-# ofmanybirds.github.io
-
 A non-specific list of things we happen to find interesting. Not an endorsement of all of the content -- the criterion is "contained at least one thing we found interesting," which is not that difficult to meet. 
 
 Other personal blogs.  
