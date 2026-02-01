@@ -29,7 +29,10 @@ Long form.
 
 Larger repositories.  
 [Strasbourg Observers.](https://strasbourgobservers.com)    
-[Verfassungsblog.](https://verfassungsblog.de)
+[Verfassungsblog.](https://verfassungsblog.de)  
+[Hacker News.](https://news.ycombinator.com/news)  
+[Anna's Archive.](https://annas-archive.li/)  
+[SLUM.](https://open-slum.org/)  
 
 Fanfiction.  
 [Pokemon: The Origin of Species.](https://daystareld.com/pokemon/1)  
