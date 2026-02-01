@@ -15,8 +15,8 @@ Sites about social issues of importance to us.
 [Trans Care 101.](https://transcare101.substack.com/)  
 [Abortion, Every Day.](https://jessica.substack.com/)  
 [Matriarchal Blessing.](https://celestemdavis.substack.com/)  
-[from an evil woman.](https://catoochie.substack.com/)
-[dessalines.](https://dessalines.github.io/essays/)
+[from an evil woman.](https://catoochie.substack.com/)  
+[dessalines.](https://dessalines.github.io/essays/)  
 
 Nonfiction, short form.  
 [Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring)  
