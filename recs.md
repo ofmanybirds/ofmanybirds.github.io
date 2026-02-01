@@ -1,6 +1,6 @@
 A non-specific list of things we happen to find interesting. These are not endorsements -- the criterion for inclusion is "contained at least one thing we found interesting," which is not that difficult to meet. 
 
-Other personal blogs.  
+Other personal sites.  
 [Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/)  
 [Gwern.net.](https://gwern.net/index)  
 [Slate Star Codex.](https://slatestarcodex.com/)  
@@ -8,7 +8,7 @@ Other personal blogs.
 [Human Invariant.](https://www.humaninvariant.com/)  
 [girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination.  
 
-Blogs about social issues of importance to us.  
+Sites about social issues of importance to us.  
 [Talia Bhatt.](https://taliabhattwrites.substack.com/)  
 [The Trans Dandy.](https://thetransdandy.substack.com/)  
 [Hammer or Anvil.](https://harpies.substack.com/)  
@@ -16,6 +16,7 @@ Blogs about social issues of importance to us.
 [Abortion, Every Day.](https://jessica.substack.com/)  
 [Matriarchal Blessing.](https://celestemdavis.substack.com/)  
 [from an evil woman.](https://catoochie.substack.com/)
+[dessalines.](https://dessalines.github.io/essays/)
 
 Nonfiction, short form.  
 [Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring)  
