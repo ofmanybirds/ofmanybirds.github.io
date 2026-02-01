@@ -46,6 +46,8 @@ Nonfiction, short form.
 [On being Rich-ish.](https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned)  
 [Structured procrastination.](https://structuredprocrastination.com/)  
 [Mythic vs folk values.](https://web.archive.org/web/20260104064352/https://www.tumblr.com/raggedjackscarlet/129312114638/mythic-valuesfolk-values)  
+[Things you should never do.](https://web.archive.org/web/20260125032021/https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)  
+[The problem with non-philosophers.](https://web.archive.org/web/20251112055308/https://www.philosophyetc.net/2006/05/problem-with-non-philosophers.html)  
 
 Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
