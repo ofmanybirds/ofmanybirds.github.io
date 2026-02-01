@@ -71,7 +71,7 @@ Video.
 [HGModernism.](https://www.youtube.com/@HGModernism)  
 [Jorbs.](https://www.youtube.com/@Jorbs)  
 [Neurotic Goose.](https://www.youtube.com/@NeuroticGoose)  
-[Every Frame a Painting.](https://www.youtube.com/@everyframeapainting)
+[Every Frame a Painting.](https://www.youtube.com/@everyframeapainting)  
 [Folding Ideas.](https://www.youtube.com/@FoldingIdeas)  
 
 Games.  
