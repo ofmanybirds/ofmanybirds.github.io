@@ -8,7 +8,7 @@ Other personal blogs.
 [Human Invariant.](https://www.humaninvariant.com/)  
 [girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination.  
 
-Shorter things.  
+Text, short form.  
 [Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring)  
 [Salad theory.](https://saladtheory.github.io/)  
 [The honesty tax.](https://www.theargumentmag.com/p/the-honesty-tax)  
@@ -20,12 +20,11 @@ Shorter things.
 [No one cared about my spreadsheets.](https://www.econlib.org/no-one-cared-about-my-spreadsheets/)  
 [List of common misconceptions.](https://en.wikipedia.org/wiki/List_of_common_misconceptions)  
 [Person paper on purity in language.](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html)  
-[Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8)  
 [Common tech jobs described as cabals of Mesoamerican wizards.](https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals)  
 [Playing to win, Alice Maz.](https://www.alicemaz.com/writing/minecraft.html)  
 [95%-ile isn't that good.](https://danluu.com/p95-skill/#fnref:S)
 
-Long form.  
+Text, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
 [Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. 
 
@@ -39,3 +38,12 @@ Larger repositories.
 Fanfiction.  
 [Pokemon: The Origin of Species.](https://daystareld.com/pokemon/1)  
 [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man)  
+
+Video.
+[Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8)  
+[Tom7.](https://www.youtube.com/@tom7)  
+[DoshDoshington.](https://www.youtube.com/@DoshDoshington)  
+[Moon Channel.](https://www.youtube.com/@moon-channel)  
+[HGModernism.](https://www.youtube.com/@HGModernism)  
+[Jorbs.](https://www.youtube.com/@Jorbs)  
+[Neurotic Goose.](https://www.youtube.com/@NeuroticGoose)  
