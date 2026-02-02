@@ -62,6 +62,7 @@ Nonfiction, short form.
 [DM's Esoteric Programming Languages](https://www.dangermouse.net/esoteric/)  
 [500 million, but not a single one more.](https://laneless.substack.com/p/500-million-but-not-a-single-one-more)  
 [Isaac Newton, his eye, and his bodkin.](http://web.archive.org/web/20220524083846/https://jsaulburton.com/2014/07/27/isaac-newton-his-eye-and-his-bodkin/)  
+[Why ~everyone should take creatine forever.](https://vishalblog.substack.com/p/why-everyone-should-take-creatine)  
 
 Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
