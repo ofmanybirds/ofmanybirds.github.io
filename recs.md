@@ -51,6 +51,8 @@ Nonfiction, short form.
 [The problem with non-philosophers.](https://web.archive.org/web/20251112055308/https://www.philosophyetc.net/2006/05/problem-with-non-philosophers.html)  
 [List of atrocities committed by US authorities.](https://github.com/dessalines/essays/blob/main/us_atrocities.md)  
 [Academic urban legends.](academic_urban_legends.pdf)  
+[What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23)  
+[Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval)  
 
 Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
@@ -95,6 +97,9 @@ Interactive.
 Music.  
 
 Poetry.  
+[If I Told Him, A Completed Portrait of Picasso.](https://www.poetryfoundation.org/poems/55215/if-i-told-him-a-completed-portrait-of-picasso)  
+[Fire and Ice.](https://www.poetryfoundation.org/poems/44263/fire-and-ice)  
+[seventh heaven.](https://www.poetryfoundation.org/poems/50433/seventh-heaven-56d22d8ceae8b)  
 
 Tools.   
 [Paywall remover.](https://www.removepaywall.com/)  
