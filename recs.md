@@ -60,6 +60,8 @@ Nonfiction, short form.
 [The seven deadly speaks of politi-speak.](https://www.yesmagazine.org/opinion/2021/06/28/bridging-political-divides-progressive-jargon) Has interesting implications.  
 [What's the matter with India?](https://nicholasdecker.substack.com/p/whats-the-matter-with-india)  
 [DM's Esoteric Programming Languages](https://www.dangermouse.net/esoteric/)  
+[500 million, but not a single one more.](https://laneless.substack.com/p/500-million-but-not-a-single-one-more)  
+[Isaac Newton, his eye, and his bodkin.](http://web.archive.org/web/20220524083846/https://jsaulburton.com/2014/07/27/isaac-newton-his-eye-and-his-bodkin/)  
 
 Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
