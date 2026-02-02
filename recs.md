@@ -58,6 +58,7 @@ Nonfiction, short form.
 [I put a toaster in the dishwasher.](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html)  
 [6 lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)  
 [The seven deadly speaks of politi-speak.](https://www.yesmagazine.org/opinion/2021/06/28/bridging-political-divides-progressive-jargon) Has interesting implications.  
+[What's the matter with India?](https://nicholasdecker.substack.com/p/whats-the-matter-with-india)  
 
 Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
