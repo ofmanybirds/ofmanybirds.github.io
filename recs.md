@@ -53,6 +53,11 @@ Nonfiction, short form.
 [Academic urban legends.](academic_urban_legends.pdf)  
 [What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23)  
 [Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval)  
+[No, it’s not The Incentives—it’s you](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)  
+[The online business of (animal) torture.](https://meghanboilard.substack.com/p/the-online-business-of-torture)  
+[I put a toaster in the dishwasher.](https://web.archive.org/web/20260115154018/https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html)  
+[6 lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)  
+[The seven deadly speaks of politi-speak.](https://www.yesmagazine.org/opinion/2021/06/28/bridging-political-divides-progressive-jargon) Has interesting implications.  
 
 Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
