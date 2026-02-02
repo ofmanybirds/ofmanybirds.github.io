@@ -59,6 +59,7 @@ Nonfiction, short form.
 [6 lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)  
 [The seven deadly speaks of politi-speak.](https://www.yesmagazine.org/opinion/2021/06/28/bridging-political-divides-progressive-jargon) Has interesting implications.  
 [What's the matter with India?](https://nicholasdecker.substack.com/p/whats-the-matter-with-india)  
+[DM's Esoteric Programming Languages](https://www.dangermouse.net/esoteric/)  
 
 Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
@@ -101,6 +102,9 @@ Interactive.
 [neal.fun.](https://neal.fun/)
 
 Music.  
+[Discipline.](https://www.youtube.com/watch?v=LOBvIGBlUvc)  
+[The Wall.](https://www.youtube.com/watch?v=r48BLz42NuI)  
+[Sgt. Pepper's Lonely Hearts Club Band.](https://www.youtube.com/watch?v=Fh3Hpx9YfJ4)  
 
 Poetry.  
 [If I Told Him, A Completed Portrait of Picasso.](https://www.poetryfoundation.org/poems/55215/if-i-told-him-a-completed-portrait-of-picasso)  
