@@ -2,7 +2,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 
 ##### Other personal sites.  
 [Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/) (tags: mtg, security, statistics)  
-[Gwern.net.](https://gwern.net/index) (tags: rationality)  
+[Gwern.net.](https://gwern.net/index) (tags: rationality, medicine)  
 [Slate Star Codex.](https://slatestarcodex.com/) (tags: rationality)  
 [Astral Codex Ten.](https://www.astralcodexten.com/) (tags: rationality)  
 [Human Invariant.](https://www.humaninvariant.com/) (tags: rationality, economics)  
@@ -13,14 +13,12 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Talia Bhatt.](https://taliabhattwrites.substack.com/) (tags: trans, feminism, endorsed)  
 [The Trans Dandy.](https://thetransdandy.substack.com/) (tags: trans, feminism)  
 [Hammer or Anvil.](https://harpies.substack.com/) (tags: trans, feminism)  
-[Trans Care 101.](https://transcare101.substack.com/) (tags: trans, feminism)  
+[Trans Care 101.](https://transcare101.substack.com/) (tags: trans, feminism, medicine)  
 [Abortion, Every Day.](https://jessica.substack.com/) (tags: trans, feminism)  
-[Matriarchal Blessing.](https://celestemdavis.substack.com/) (tags: feminism)  
-[from an evil woman.](https://catoochie.substack.com/) (tags: feminism)  
 [dessalines.](https://dessalines.github.io/essays/) (tags: communism)  
 
 ##### Nonfiction, short form.  
-[Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring) (tags: philosophy, economics, rationality)  
+[Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring) (tags: social, economics, rationality)  
 [Salad theory.](https://saladtheory.github.io/) (tags: fun)  
 [The honesty tax.](https://www.theargumentmag.com/p/the-honesty-tax) (tags: social, US)  
 [The security mindset.](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) (tags: security)  
@@ -42,7 +40,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Programming sucks.](https://www.stilldrinking.org/programming-sucks) (tags: programming)  
 [A comprehensive reboot of law reinforcement.](https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3) (tags: rationality, legal, US)  
 [They write the right stuff.](https://archive.is/20251210221918/https://www.fastcompany.com/28121/they-write-right-stuff#selection-543.667-557.479) (tags: programming)  
-[Orchietectomy, part 2.](https://mesityl.substack.com/p/orchiectomy-part-2) (tags: trans, cw)  
+[Orchietectomy, part 2.](https://mesityl.substack.com/p/orchiectomy-part-2) (tags: trans, medicine, cw)  
 [How One Las Vegas ED Saved Hundreds of Lives After the Worst Mass Shooting in U.S. History.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/) (tags: cw)  
 [On being Rich-ish.](https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned) (tags: social)  
 [Structured procrastination.](https://structuredprocrastination.com/) (tags: productivity, fun)  
@@ -52,7 +50,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 [List of atrocities committed by US authorities.](https://github.com/dessalines/essays/blob/main/us_atrocities.md) (tags: communism, US)   
 [Academic urban legends.](academic_urban_legends.pdf) (tags: academia)   
 [What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23) (tags: programming, legal)  
-[Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval) (tags: legal, economics, US)  
+[Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval) (tags: legal, economics, medicine, US)  
 [No, it’s not The Incentives—it’s you](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/) (tags: academia)  
 [The online business of (animal) torture.](https://meghanboilard.substack.com/p/the-online-business-of-torture) (tags: cw, social)  
 [I put a toaster in the dishwasher.](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html) (tags: rationality, fun)  
@@ -62,7 +60,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 [DM's Esoteric Programming Languages.](https://www.dangermouse.net/esoteric/) (tags: programming, fun)  
 [500 million, but not a single one more.](https://laneless.substack.com/p/500-million-but-not-a-single-one-more) (tags: essay, social, historical)  
 [Isaac Newton, his eye, and his bodkin.](http://web.archive.org/web/20220524083846/https://jsaulburton.com/2014/07/27/isaac-newton-his-eye-and-his-bodkin/) (tags: essay, historical, fun)  
-[Why ~everyone should take creatine forever.](https://vishalblog.substack.com/p/why-everyone-should-take-creatine) (tags: medical, rationality)  
+[Why ~everyone should take creatine forever.](https://vishalblog.substack.com/p/why-everyone-should-take-creatine) (tags: medicine, rationality)  
 [The satanic panic is incredibly weird.](https://thingofthings.substack.com/p/the-satanic-panic-is-incredibly-weird) (tags: legal, US)  
 [Algorithms interviews: theory vs practice](https://danluu.com/algorithms-interviews/) (tags: programming, productivity)  
 
@@ -119,6 +117,6 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Paywall remover.](https://www.removepaywall.com/) (tags: piracy)  
 [Anna's Archive.](https://annas-archive.li/) (tags: piracy)  
 [SLUM.](https://open-slum.org/) (tags: piracy)   
-[Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans)  
+[Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine)  
 
 
