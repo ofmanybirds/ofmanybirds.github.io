@@ -63,6 +63,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Isaac Newton, his eye, and his bodkin.](http://web.archive.org/web/20220524083846/https://jsaulburton.com/2014/07/27/isaac-newton-his-eye-and-his-bodkin/) (tags: essay, historical, fun)  
 [Why ~everyone should take creatine forever.](https://vishalblog.substack.com/p/why-everyone-should-take-creatine) (tags: medical, rationality)  
 [The satanic panic is incredibly weird.](https://thingofthings.substack.com/p/the-satanic-panic-is-incredibly-weird) (tags: legal, US)  
+[Algorithms interviews: theory vs practice](https://danluu.com/algorithms-interviews/) (tags: programming, productivity)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
