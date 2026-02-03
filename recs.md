@@ -1,41 +1,40 @@
 A non-specific list of things we happen to find interesting. These are not endorsements -- the criterion for inclusion is "contained at least one thing we found interesting," which is not that difficult to meet. 
 
-Other personal sites.  
-[Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/)  
-[Gwern.net.](https://gwern.net/index)  
-[Slate Star Codex.](https://slatestarcodex.com/)  
-[Astral Codex Ten.](https://www.astralcodexten.com/)  
-[Human Invariant.](https://www.humaninvariant.com/)  
-[girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination.  
+##### Other personal sites.  
+[Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/) (tags: mtg, security, statistics)  
+[Gwern.net.](https://gwern.net/index) (tags: rationality)  
+[Slate Star Codex.](https://slatestarcodex.com/) (tags: rationality)  
+[Astral Codex Ten.](https://www.astralcodexten.com/) (tags: rationality)  
+[Human Invariant.](https://www.humaninvariant.com/) (tags: rationality, economics)  
+[girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, rationality, cw, misc)
 
-Sites about social issues of importance to us.  
-[Talia Bhatt.](https://taliabhattwrites.substack.com/)  
-[The Trans Dandy.](https://thetransdandy.substack.com/)  
-[Hammer or Anvil.](https://harpies.substack.com/)  
-[Trans Care 101.](https://transcare101.substack.com/)  
-[Abortion, Every Day.](https://jessica.substack.com/)  
-[Matriarchal Blessing.](https://celestemdavis.substack.com/)  
-[from an evil woman.](https://catoochie.substack.com/)  
-[dessalines.](https://dessalines.github.io/essays/)  
+##### Sites about social issues of importance to us.  
+[Talia Bhatt.](https://taliabhattwrites.substack.com/) (tags: trans, feminism, endorsed)  
+[The Trans Dandy.](https://thetransdandy.substack.com/) (tags: trans, feminism)  
+[Hammer or Anvil.](https://harpies.substack.com/) (tags: trans, feminism)  
+[Trans Care 101.](https://transcare101.substack.com/) (tags: trans, feminism)  
+[Abortion, Every Day.](https://jessica.substack.com/) (tags: trans, feminism)  
+[Matriarchal Blessing.](https://celestemdavis.substack.com/) (tags: feminism)  
+[from an evil woman.](https://catoochie.substack.com/) (tags: feminism)  
+[dessalines.](https://dessalines.github.io/essays/) (tags: communism)  
 
-Nonfiction, short form.  
-[Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring)  
-[Salad theory.](https://saladtheory.github.io/)  
-[The honesty tax.](https://www.theargumentmag.com/p/the-honesty-tax)  
-[The security mindset.](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)  
-[A mathematician's lament.](worrydream.com/refs/Lockhart_2002_-_A_Mathematician's_Lament.pdf)  
-[Credit card debt collection.](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)  
-[Things you're allowed to do.](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)  
-[Twelve recursive explanations.](https://www.spencergreenberg.com/2021/03/twelve-recursive-explanations/)  
-[No one cared about my spreadsheets.](https://www.econlib.org/no-one-cared-about-my-spreadsheets/)  
+##### Nonfiction, short form.  
+[Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring) (tags: ethics)  
+[Salad theory.](https://saladtheory.github.io/) (tags: fun)  
+[The honesty tax.](https://www.theargumentmag.com/p/the-honesty-tax) (tags: social, US)  
+[The security mindset.](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) (tags: security)  
+[A mathematician's lament.](worrydream.com/refs/Lockhart_2002_-_A_Mathematician's_Lament.pdf) (tags: mathematics, social)  
+[Credit card debt collection.](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/) (tags: economics)  
+[Things you're allowed to do.](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) (tags: fun)
+[Twelve recursive explanations.](https://www.spencergreenberg.com/2021/03/twelve-recursive-explanations/) (tags: fun)  
+[No one cared about my spreadsheets.](https://www.econlib.org/no-one-cared-about-my-spreadsheets/) 
 [List of common misconceptions.](https://en.wikipedia.org/wiki/List_of_common_misconceptions)  
-[Person paper on purity in language.](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html)  
+[Person paper on purity in language.](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html) (feminism)  
 [Playing to win, Alice Maz.](https://www.alicemaz.com/writing/minecraft.html)  
 [95%-ile isn't that good.](https://danluu.com/p95-skill/#fnref:S)  
 [Action!](https://johnnyroccia.com/2020/06/27/action/)  
 [nohello.](https://nohello.net/en/)  
-[In My Culture.](https://medium.com/@ThingMaker/in-my-culture-29c6464072b2)  
-[Who saved the most lives in history?](https://scienceheroes.com/)   
+[In My Culture.](https://medium.com/@ThingMaker/in-my-culture-29c6464072b2) (social)  
 [Silent Treatment, the troubling response to a memoir of incest.](https://harpers.org/archive/2018/03/silent-treatment/)   
 [Arguing with myself (and losing).](https://web.archive.org/web/20250622045850/https://life-in-a-monospace-typeface.tumblr.com/post/81503002891/arguing-with-myself-and-losing)   
 [Nobody gives a shit.](https://radleybalko.substack.com/p/nobody-gives-a-shit)    
@@ -44,47 +43,47 @@ Nonfiction, short form.
 [They write the right stuff.](https://archive.is/20251210221918/https://www.fastcompany.com/28121/they-write-right-stuff#selection-543.667-557.479)  
 [Orchietectomy, part 2.](https://mesityl.substack.com/p/orchiectomy-part-2)  
 [How One Las Vegas ED Saved Hundreds of Lives After the Worst Mass Shooting in U.S. History.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/)  
-[On being Rich-ish.](https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned)  
-[Structured procrastination.](https://structuredprocrastination.com/)  
+[On being Rich-ish.](https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned) (tags: social)  
+[Structured procrastination.](https://structuredprocrastination.com/) (tags: productivity, fun)  
 [Mythic vs folk values.](https://web.archive.org/web/20260104064352/https://www.tumblr.com/raggedjackscarlet/129312114638/mythic-valuesfolk-values)  
 [Things you should never do.](https://web.archive.org/web/20260125032021/https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)  
 [The problem with non-philosophers.](https://web.archive.org/web/20251112055308/https://www.philosophyetc.net/2006/05/problem-with-non-philosophers.html)  
-[List of atrocities committed by US authorities.](https://github.com/dessalines/essays/blob/main/us_atrocities.md)  
+[List of atrocities committed by US authorities.](https://github.com/dessalines/essays/blob/main/us_atrocities.md) (tags: communism, US) 
 [Academic urban legends.](academic_urban_legends.pdf)  
-[What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23)  
+[What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23) (tags: programming, legal)  
 [Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval)  
 [No, it’s not The Incentives—it’s you](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)  
-[The online business of (animal) torture.](https://meghanboilard.substack.com/p/the-online-business-of-torture)  
-[I put a toaster in the dishwasher.](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html)  
-[6 lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)  
-[The seven deadly speaks of politi-speak.](https://www.yesmagazine.org/opinion/2021/06/28/bridging-political-divides-progressive-jargon) Has interesting implications.  
-[What's the matter with India?](https://nicholasdecker.substack.com/p/whats-the-matter-with-india)  
-[DM's Esoteric Programming Languages.](https://www.dangermouse.net/esoteric/)  
-[500 million, but not a single one more.](https://laneless.substack.com/p/500-million-but-not-a-single-one-more)  
-[Isaac Newton, his eye, and his bodkin.](http://web.archive.org/web/20220524083846/https://jsaulburton.com/2014/07/27/isaac-newton-his-eye-and-his-bodkin/)  
-[Why ~everyone should take creatine forever.](https://vishalblog.substack.com/p/why-everyone-should-take-creatine)  
-[The satanic panic is incredibly weird.](https://thingofthings.substack.com/p/the-satanic-panic-is-incredibly-weird)  
+[The online business of (animal) torture.](https://meghanboilard.substack.com/p/the-online-business-of-torture) (tags: cw, social)  
+[I put a toaster in the dishwasher.](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html) (tags: rationality, fun)  
+[6 lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery) (tags: productivity, economics)  
+[The seven deadly speaks of politi-speak.](https://www.yesmagazine.org/opinion/2021/06/28/bridging-political-divides-progressive-jargon) (tags: 
+[What's the matter with India?](https://nicholasdecker.substack.com/p/whats-the-matter-with-india) (tags: legal)  
+[DM's Esoteric Programming Languages.](https://www.dangermouse.net/esoteric/) (tags: programming, fun)  
+[500 million, but not a single one more.](https://laneless.substack.com/p/500-million-but-not-a-single-one-more) (tags: essay, social, historical)  
+[Isaac Newton, his eye, and his bodkin.](http://web.archive.org/web/20220524083846/https://jsaulburton.com/2014/07/27/isaac-newton-his-eye-and-his-bodkin/) (tags: essay, historical, fun)  
+[Why ~everyone should take creatine forever.](https://vishalblog.substack.com/p/why-everyone-should-take-creatine) (tags: medical, rationality)  
+[The satanic panic is incredibly weird.](https://thingofthings.substack.com/p/the-satanic-panic-is-incredibly-weird) (tags: legal, US)  
 
-Nonfiction, long form.  
+##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw)  
 [Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term.  
 
-Original fiction.  
+##### Original fiction.  
 [Unsong.](https://unsongbook.com/)   
 [Exhalation.](https://www.lightspeedmagazine.com/fiction/exhalation/)  
 [Common tech jobs described as cabals of Mesoamerican wizards.](https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals)  
 [MMAcevedo.](https://qntm.org/mmacevedo)  
 
-Larger repositories.  
+##### Larger repositories.  
 [Strasbourg Observers.](https://strasbourgobservers.com)    
 [Verfassungsblog.](https://verfassungsblog.de)  
 [Hacker News.](https://news.ycombinator.com/news)  
 
-Fanfiction.  
+##### Fanfiction.  
 [Pokemon: The Origin of Species.](https://daystareld.com/pokemon/1)  
 [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man)  
 
-Video.  
+##### Video.  
 [Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8)  
 [Tom7.](https://www.youtube.com/@tom7)  
 [DoshDoshington.](https://www.youtube.com/@DoshDoshington)  
@@ -95,27 +94,27 @@ Video.
 [Every Frame a Painting.](https://www.youtube.com/@everyframeapainting)  
 [Folding Ideas.](https://www.youtube.com/@FoldingIdeas)  
 
-Games.  
+##### Games.  
 [Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/)  
 [Primordialis.](https://store.steampowered.com/app/3011360/Primordialis/)  
 [Noita.](https://store.steampowered.com/app/881100/Noita/)  
 [Celeste.](https://store.steampowered.com/app/504230/Celeste/)  
 
-Interactive.  
+##### Interactive.  
 [The evolution of trust.](https://ncase.me/trust/)  
 [neal.fun.](https://neal.fun/)
 
-Music.  
+##### Music.  
 [Discipline.](https://www.youtube.com/watch?v=LOBvIGBlUvc)  
 [The Wall.](https://www.youtube.com/watch?v=r48BLz42NuI)  
 [Sgt. Pepper's Lonely Hearts Club Band.](https://www.youtube.com/watch?v=Fh3Hpx9YfJ4)  
 
-Poetry.  
+##### Poetry.  
 [If I Told Him, A Completed Portrait of Picasso.](https://www.poetryfoundation.org/poems/55215/if-i-told-him-a-completed-portrait-of-picasso)  
 [Fire and Ice.](https://www.poetryfoundation.org/poems/44263/fire-and-ice)  
 [seventh heaven.](https://www.poetryfoundation.org/poems/50433/seventh-heaven-56d22d8ceae8b)  
 
-Tools.   
+##### Tools.   
 [Paywall remover.](https://www.removepaywall.com/)  
 [Anna's Archive.](https://annas-archive.li/)   
 [SLUM.](https://open-slum.org/)   
