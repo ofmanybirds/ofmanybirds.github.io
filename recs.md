@@ -92,6 +92,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Neurotic Goose.](https://www.youtube.com/@NeuroticGoose)  
 [Every Frame a Painting.](https://www.youtube.com/@everyframeapainting)  
 [Folding Ideas.](https://www.youtube.com/@FoldingIdeas)  
+[Everything new in Stockfish 18.](https://www.youtube.com/watch?v=lBpQvu20nj0) We were surprised to learn some of those features are so recent, considering how essential they seem. (tags: programming)  
 
 ##### Games.  
 [Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/) (tags: puzzle)  
