@@ -6,7 +6,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Slate Star Codex.](https://slatestarcodex.com/) (tags: rationality)  
 [Astral Codex Ten.](https://www.astralcodexten.com/) (tags: rationality)  
 [Human Invariant.](https://www.humaninvariant.com/) (tags: rationality, economics)  
-[girl.surgery.](https://girl.surgery/) (tags: trans, rationality, cw, misc) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination.  
+[girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, rationality, cw, misc)  
 
 ##### Sites about social issues of importance to us.  
 [Talia Bhatt.](https://taliabhattwrites.substack.com/) (tags: trans, feminism, endorsed)  
@@ -35,8 +35,8 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Action!](https://johnnyroccia.com/2020/06/27/action/) (tags: productivity, rationality)  
 [nohello.](https://nohello.net/en/) (tags: productivity, social)  
 [In My Culture.](https://medium.com/@ThingMaker/in-my-culture-29c6464072b2) (tags: social)  
-[Silent Treatment, the troubling response to a memoir of incest.](https://harpers.org/archive/2018/03/silent-treatment/) 
-[Arguing with myself (and losing).](https://web.archive.org/web/20250622045850/https://life-in-a-monospace-typeface.tumblr.com/post/81503002891/arguing-with-myself-and-losing)   
+[Silent Treatment, the troubling response to a memoir of incest.](https://harpers.org/archive/2018/03/silent-treatment/) (tags: social, feminism, cw)  
+[Arguing with myself (and losing).](https://web.archive.org/web/20250622045850/https://life-in-a-monospace-typeface.tumblr.com/post/81503002891/arguing-with-myself-and-losing) (tags: social)  
 [Nobody gives a shit.](https://radleybalko.substack.com/p/nobody-gives-a-shit) (tags: legal, cw)  
 [Programming sucks.](https://www.stilldrinking.org/programming-sucks) (tags: programming)  
 [A comprehensive reboot of law reinforcement.](https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3) (tags: rationality, legal, US)  
@@ -45,11 +45,11 @@ A non-specific list of things we happen to find interesting. These are not endor
 [How One Las Vegas ED Saved Hundreds of Lives After the Worst Mass Shooting in U.S. History.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/) (tags: cw)  
 [On being Rich-ish.](https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned) (tags: social)  
 [Structured procrastination.](https://structuredprocrastination.com/) (tags: productivity, fun)  
-[Mythic vs folk values.](https://web.archive.org/web/20260104064352/https://www.tumblr.com/raggedjackscarlet/129312114638/mythic-valuesfolk-values) (tags:  
+[Mythic vs folk values.](https://web.archive.org/web/20260104064352/https://www.tumblr.com/raggedjackscarlet/129312114638/mythic-valuesfolk-values) (tags: social)  
 [Things you should never do.](https://web.archive.org/web/20260125032021/https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) (tags: programming, economics)  
-[The problem with non-philosophers.](https://web.archive.org/web/20251112055308/https://www.philosophyetc.net/2006/05/problem-with-non-philosophers.html) (tags: philosophy)  
-[List of atrocities committed by US authorities.](https://github.com/dessalines/essays/blob/main/us_atrocities.md) (tags: communism, US) 
-[Academic urban legends.](academic_urban_legends.pdf) (tags: academia)  
+[The problem with non-philosophers.](https://web.archive.org/web/20251112055308/https://www.philosophyetc.net/2006/05/problem-with-non-philosophers.html) (tags: philosophy)   
+[List of atrocities committed by US authorities.](https://github.com/dessalines/essays/blob/main/us_atrocities.md) (tags: communism, US)   
+[Academic urban legends.](academic_urban_legends.pdf) (tags: academia)   
 [What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23) (tags: programming, legal)  
 [Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval) (tags: legal, economics, US)  
 [No, it’s not The Incentives—it’s you](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/) (tags: academia)  
