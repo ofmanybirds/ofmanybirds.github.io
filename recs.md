@@ -6,7 +6,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Slate Star Codex.](https://slatestarcodex.com/) (tags: rationality)  
 [Astral Codex Ten.](https://www.astralcodexten.com/) (tags: rationality)  
 [Human Invariant.](https://www.humaninvariant.com/) (tags: rationality, economics)  
-[girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, rationality, cw, misc)  
+[girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, programming, cw, misc)  
 [danluu.com.](https://danluu.com/) (tags: programming, productivity)  
 
 ##### Sites about social issues of importance to us.  
