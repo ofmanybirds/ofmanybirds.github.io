@@ -7,6 +7,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Astral Codex Ten.](https://www.astralcodexten.com/) (tags: rationality)  
 [Human Invariant.](https://www.humaninvariant.com/) (tags: rationality, economics)  
 [girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, rationality, cw, misc)  
+[danluu.com.](https://danluu.com/) (tags: programming, productivity)  
 
 ##### Sites about social issues of importance to us.  
 [Talia Bhatt.](https://taliabhattwrites.substack.com/) (tags: trans, feminism, endorsed)  
