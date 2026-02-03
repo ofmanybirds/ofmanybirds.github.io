@@ -36,9 +36,9 @@ A non-specific list of things we happen to find interesting. These are not endor
 [In My Culture.](https://medium.com/@ThingMaker/in-my-culture-29c6464072b2) (tags: social)  
 [Silent Treatment, the troubling response to a memoir of incest.](https://harpers.org/archive/2018/03/silent-treatment/) (tags: social, feminism, cw)  
 [Arguing with myself (and losing).](https://web.archive.org/web/20250622045850/https://life-in-a-monospace-typeface.tumblr.com/post/81503002891/arguing-with-myself-and-losing) (tags: social)  
-[Nobody gives a shit.](https://radleybalko.substack.com/p/nobody-gives-a-shit) (tags: legal, cw)  
+[Nobody gives a shit.](https://radleybalko.substack.com/p/nobody-gives-a-shit) (tags: law, cw)  
 [Programming sucks.](https://www.stilldrinking.org/programming-sucks) (tags: programming)  
-[A comprehensive reboot of law reinforcement.](https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3) (tags: rationality, legal, US)  
+[A comprehensive reboot of law reinforcement.](https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3) (tags: rationality, law, US)  
 [They write the right stuff.](https://archive.is/20251210221918/https://www.fastcompany.com/28121/they-write-right-stuff#selection-543.667-557.479) (tags: programming)  
 [Orchietectomy, part 2.](https://mesityl.substack.com/p/orchiectomy-part-2) (tags: trans, medicine, cw)  
 [How One Las Vegas ED Saved Hundreds of Lives After the Worst Mass Shooting in U.S. History.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/) (tags: cw)  
@@ -49,19 +49,19 @@ A non-specific list of things we happen to find interesting. These are not endor
 [The problem with non-philosophers.](https://web.archive.org/web/20251112055308/https://www.philosophyetc.net/2006/05/problem-with-non-philosophers.html) (tags: philosophy)   
 [List of atrocities committed by US authorities.](https://github.com/dessalines/essays/blob/main/us_atrocities.md) (tags: communism, US)   
 [Academic urban legends.](academic_urban_legends.pdf) (tags: academia)   
-[What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23) (tags: programming, legal)  
-[Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval) (tags: legal, economics, medicine, US)  
+[What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23) (tags: programming, law)  
+[Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval) (tags: law, economics, medicine, US)  
 [No, it’s not The Incentives—it’s you](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/) (tags: academia)  
 [The online business of (animal) torture.](https://meghanboilard.substack.com/p/the-online-business-of-torture) (tags: cw, social)  
 [I put a toaster in the dishwasher.](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html) (tags: rationality, fun)  
 [6 lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery) (tags: productivity, economics)  
 [The seven deadly speaks of politi-speak.](https://www.yesmagazine.org/opinion/2021/06/28/bridging-political-divides-progressive-jargon) (tags: social)  
-[What's the matter with India?](https://nicholasdecker.substack.com/p/whats-the-matter-with-india) (tags: legal)  
+[What's the matter with India?](https://nicholasdecker.substack.com/p/whats-the-matter-with-india) (tags: law)  
 [DM's Esoteric Programming Languages.](https://www.dangermouse.net/esoteric/) (tags: programming, fun)  
 [500 million, but not a single one more.](https://laneless.substack.com/p/500-million-but-not-a-single-one-more) (tags: essay, social, historical)  
 [Isaac Newton, his eye, and his bodkin.](http://web.archive.org/web/20220524083846/https://jsaulburton.com/2014/07/27/isaac-newton-his-eye-and-his-bodkin/) (tags: essay, historical, fun)  
 [Why ~everyone should take creatine forever.](https://vishalblog.substack.com/p/why-everyone-should-take-creatine) (tags: medicine, rationality)  
-[The satanic panic is incredibly weird.](https://thingofthings.substack.com/p/the-satanic-panic-is-incredibly-weird) (tags: legal, US)  
+[The satanic panic is incredibly weird.](https://thingofthings.substack.com/p/the-satanic-panic-is-incredibly-weird) (tags: law, US)  
 [Algorithms interviews: theory vs practice](https://danluu.com/algorithms-interviews/) (tags: programming, productivity)  
 
 ##### Nonfiction, long form.  
@@ -74,8 +74,8 @@ A non-specific list of things we happen to find interesting. These are not endor
 [MMAcevedo.](https://qntm.org/mmacevedo) (tags: philosophy, cw)  
 
 ##### Larger repositories.  
-[Strasbourg Observers.](https://strasbourgobservers.com) (tags: legal)  
-[Verfassungsblog.](https://verfassungsblog.de) (tags: legal)  
+[Strasbourg Observers.](https://strasbourgobservers.com) (tags: law)  
+[Verfassungsblog.](https://verfassungsblog.de) (tags: law)  
 [Hacker News.](https://news.ycombinator.com/news) (tags: programming)  
 
 ##### Fanfiction.  
