@@ -77,6 +77,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Morality is accidental and self-congratulatory.](https://www.ymeskhout.com/p/morality-is-accidental-and-self-congratulatory) (tags: social, historical)  
 [NSA, NIST, and post-quantum cryptography.](https://blog.cr.yp.to/20220805-nsa.html) (tags: programming, security, US)  
 [No silver bullet solutions to the werewolf problem.](https://progressandpoverty.substack.com/p/no-silver-bullets-to-the-werewolf) (tags: social)  
+[Two Americas, one bank branch, and $50,000 cash.](https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/) (tags: US, security)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
