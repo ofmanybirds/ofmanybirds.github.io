@@ -1,5 +1,14 @@
 A non-specific list of things we happen to find interesting. These are not endorsements -- the criterion for inclusion is "contained at least one thing we found interesting," which is not that difficult to meet. The entries tagged as endorsed are an exception.  
 
+##### Charities. 
+I'm only putting the most efficient ones I'm familiar with here. Some charities are simply more effective than others, and if you're donating, it's orders of magnitude better to donate to the good ones.  
+[Against Malaria Foundation.](https://www.againstmalaria.com/Default.aspx) (tag: charity, medicine)  
+[Malaria Consortium.](https://www.malariaconsortium.org/) (tag: charity, medicine)  
+[Hellen Keller Intl.](https://helenkellerintl.org/) (tag: charity, medicine)  
+[New Incentives.](https://www.newincentives.org/) (tag: charity, medicine)  
+[GiveWell.](https://www.givewell.org/charities/top-charities) Not a charity, but an independent charity evaluator. There's a couple of them. See here if you want to figure out where our claims about charity efficiency discrepancies come from. (tag: rationality)  
+
+
 ##### Other personal sites.  
 [Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/) (tags: mtg, security, statistics)  
 [Gwern.net.](https://gwern.net/index) (tags: rationality, medicine)  
@@ -123,5 +132,3 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Anna's Archive.](https://annas-archive.li/) (tags: piracy)  
 [SLUM.](https://open-slum.org/) (tags: piracy)   
 [Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine)  
-
-
