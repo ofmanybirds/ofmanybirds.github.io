@@ -63,6 +63,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Why ~everyone should take creatine forever.](https://vishalblog.substack.com/p/why-everyone-should-take-creatine) (tags: medicine, rationality)  
 [The satanic panic is incredibly weird.](https://thingofthings.substack.com/p/the-satanic-panic-is-incredibly-weird) (tags: law, US)  
 [Algorithms interviews: theory vs practice](https://danluu.com/algorithms-interviews/) (tags: programming, productivity)  
+[The Copenhagen interpretation of ethics.](https://laneless.substack.com/p/the-copenhagen-interpretation-of-ethics) (tags: social, rationality, philosophy)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
