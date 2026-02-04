@@ -64,6 +64,9 @@ A non-specific list of things we happen to find interesting. These are not endor
 [The satanic panic is incredibly weird.](https://thingofthings.substack.com/p/the-satanic-panic-is-incredibly-weird) (tags: law, US)  
 [Algorithms interviews: theory vs practice](https://danluu.com/algorithms-interviews/) (tags: programming, productivity)  
 [The Copenhagen interpretation of ethics.](https://laneless.substack.com/p/the-copenhagen-interpretation-of-ethics) (tags: social, rationality, philosophy)  
+[Why cross-examination is so damn great.](https://www.ymeskhout.com/p/why-cross-examination-is-so-damn) (tags: social)  
+[Morality is accidental and self-congratulatory.](https://www.ymeskhout.com/p/morality-is-accidental-and-self-congratulatory) (tags: social, historical)  
+[NSA, NIST, and post-quantum cryptography.](https://blog.cr.yp.to/20220805-nsa.html) (tags: programming, security, US)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
@@ -95,7 +98,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 [Folding Ideas.](https://www.youtube.com/@FoldingIdeas)  
 [Everything new in Stockfish 18.](https://www.youtube.com/watch?v=lBpQvu20nj0) We were surprised to learn some of those features are so recent, considering how essential they seem. (tags: programming)  
 
-##### Games.  
+##### Games.    
 [Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/) (tags: puzzle)  
 [Primordialis.](https://store.steampowered.com/app/3011360/Primordialis/) (tags: roguelike)  
 [Noita.](https://store.steampowered.com/app/881100/Noita/) (tags: roguelike)  
