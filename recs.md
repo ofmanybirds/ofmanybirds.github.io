@@ -98,16 +98,18 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man) (tags: rationality)  
 
 ##### Video.  
-[Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8)  
-[Tom7.](https://www.youtube.com/@tom7)  
-[DoshDoshington.](https://www.youtube.com/@DoshDoshington)  
-[Moon Channel.](https://www.youtube.com/@moon-channel)  
-[HGModernism.](https://www.youtube.com/@HGModernism)  
-[Jorbs.](https://www.youtube.com/@Jorbs)  
-[Neurotic Goose.](https://www.youtube.com/@NeuroticGoose)  
-[Every Frame a Painting.](https://www.youtube.com/@everyframeapainting)  
-[Folding Ideas.](https://www.youtube.com/@FoldingIdeas)  
+[Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8) (tags: security)  
+[Tom7.](https://www.youtube.com/@tom7) (tags: channel, fun, programming)  
+[DoshDoshington.](https://www.youtube.com/@DoshDoshington) (tags: channel, fun)  
+[Moon Channel.](https://www.youtube.com/@moon-channel) (tags: channel, law)  
+[HGModernism.](https://www.youtube.com/@HGModernism) (tags: channel, fun, rationality)  
+[Jorbs.](https://www.youtube.com/@Jorbs) (tags: channel, fun, rationality)  
+[Neurotic Goose.](https://www.youtube.com/@NeuroticGoose) (tags: channel, fun)  
+[Every Frame a Painting.](https://www.youtube.com/@everyframeapainting) (tags: channel, cinematography)  
+[Folding Ideas.](https://www.youtube.com/@FoldingIdeas) (tags: channel, social, economy)  
 [Everything new in Stockfish 18.](https://www.youtube.com/watch?v=lBpQvu20nj0) We were surprised to learn some of those features are so recent, considering how essential they seem. (tags: programming)  
+[A guide to consent.](https://www.youtube.com/watch?v=emfqzme8Z0Q) (tags: social)
+
 
 ##### Games.    
 [Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/) (tags: puzzle)  
