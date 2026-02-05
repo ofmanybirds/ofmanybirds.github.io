@@ -98,7 +98,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Academic urban legends.](academic_urban_legends.pdf) (tags: linguistics, society, academia)  
 [What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23) (tags: programming, law)  
 [Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval) (tags: law, economics, medicine, US)  
-[No, it’s not The Incentives—it’s you](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/) (tags: academia)  
+[No, it’s not The Incentives—it’s you.](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/) (tags: academia)  
 [The online business of (animal) torture.](https://meghanboilard.substack.com/p/the-online-business-of-torture) (tags: cw, society)  
 [I put a toaster in the dishwasher.](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html) (tags: rationality, fun)  
 [6 lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery) (tags: productivity, economics)  
