@@ -44,7 +44,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Malaria Consortium.](https://www.malariaconsortium.org/) (tag: charity, medicine, endorsed)  
 [Hellen Keller Intl.](https://helenkellerintl.org/) (tag: charity, medicine, endorsed)  
 [New Incentives.](https://www.newincentives.org/) (tag: charity, medicine, endorsed)  
-[GiveWell.](https://www.givewell.org/charities/top-charities) Not a charity, but an independent charity evaluator. There's a couple of them. See here if you want to figure out where our claims about charity efficiency discrepancies come from. (tag: rationality)  
+[GiveWell.](https://www.givewell.org/charities/top-charities) Not a charity, but an independent charity evaluator. There's a couple of them. See here if you want to figure out where our claims about charity efficiency discrepancies come from. (tag: rationality, trans)  
 
 ##### Other personal sites.  
 [Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/) (tags: mtg, security, statistics)  
