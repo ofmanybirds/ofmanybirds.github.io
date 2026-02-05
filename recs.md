@@ -8,7 +8,6 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [New Incentives.](https://www.newincentives.org/) (tag: charity, medicine)  
 [GiveWell.](https://www.givewell.org/charities/top-charities) Not a charity, but an independent charity evaluator. There's a couple of them. See here if you want to figure out where our claims about charity efficiency discrepancies come from. (tag: rationality)  
 
-
 ##### Other personal sites.  
 [Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/) (tags: mtg, security, statistics)  
 [Gwern.net.](https://gwern.net/index) (tags: rationality, medicine)  
@@ -108,8 +107,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Every Frame a Painting.](https://www.youtube.com/@everyframeapainting) (tags: channel, cinematography)  
 [Folding Ideas.](https://www.youtube.com/@FoldingIdeas) (tags: channel, social, economy)  
 [Everything new in Stockfish 18.](https://www.youtube.com/watch?v=lBpQvu20nj0) We were surprised to learn some of those features are so recent, considering how essential they seem. (tags: programming)  
-[A guide to consent.](https://www.youtube.com/watch?v=emfqzme8Z0Q) (tags: social)
-
+[A guide to consent.](https://www.youtube.com/watch?v=emfqzme8Z0Q) (tags: social)  
 
 ##### Games.    
 [Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/) (tags: puzzle)  
