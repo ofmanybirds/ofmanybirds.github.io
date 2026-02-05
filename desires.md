@@ -21,14 +21,3 @@ Communicating with people.
 
 ##### Things we think we'd enjoy:  
 Sex. 
-
-##### Things we enjoy sexually:   
-Receiving pain.  
-Inflicting pain.  
-Exhibitionism. (People seeing our naked body is hot. This is because we're hot.)  
-Knowing that people find us hot. 
-Knowing that people are masturbating or have masturbated to us. 
-Being vaginally penetrated with silicone.  
-
-##### Things we think we'd enjoy sexually:   
-Being vaginally penetrated with a penis.  
