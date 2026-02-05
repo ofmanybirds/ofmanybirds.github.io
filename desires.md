@@ -1,4 +1,4 @@
-Things we would like to get good at:  
+##### Things we would like to get good at:  
 Tying people up sexually.  
 Sex.  
 Cooking.  
@@ -13,17 +13,15 @@ Communicating with people who agree with me, but are unaware of this. Also for t
 Moving in ways which are efficient.  
 Sharing stuff we enjoy.  
 
-Things we enjoy:   
+##### Things we enjoy:   
 Magic: the Gathering.  
 Reading.  
 
-Things we think we'd enjoy:  
+##### Things we think we'd enjoy:  
 
-Things we enjoy sexually:   
+##### Things we enjoy sexually:   
 Receiving pain.  
 Inflicting pain.
 Exhibitionism. (People seeing our naked body is hot. This is because we're hot.)  
 
-  
-Things we think we'd enjoy sexually:   
-
+##### Things we think we'd enjoy sexually:   
