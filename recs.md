@@ -8,10 +8,10 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'disputed' is content we actively disapprove of in some way, but still consider to have valuable points.  
 'disputed-author' has an author we actively disapprove of in some ways, independent of the value of the content.  
 'speculative' is applied to content that doesn't have particularly strong evidentiary backing, but we think is neat nevertheless.  
-'US' is content that is unusually US-centric, to its detriment.  
+'US' is content that is written from a strongly US-centric perspective, and not always aware of this.  
 
-'programming' concerns anything to do with computers.   
-'society' concerns content that relates to how humans act in groups. (Occasionally, an article obtains  this tag through the behaviour of the author.)    
+'programming' concerns anything to do with hardware, software, or the ways they're used in the real world.  
+'society' concerns content that relates to how humans act in groups. (Occasionally, an article obtains  this tag through the behaviour of the author.)   
 'economics' talks about how value flows through large systems.   
 'law' concerns legal matters.   
 'medicine' is applied to things to do with health.   
@@ -31,7 +31,7 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'piracy' handles the topic of accessing content through means outside the ones explicitly proscribed by law. 
 'academia' concerns the structures of academic publishing, and everything that sprawls off from that. 
 
-'influential' is applied to content we found unusually valuable long-term.    
+'influential' is applied to content we found unusually valuable long-term or that significantly changed how we conceptualise a given domain.  
 
 'cw' has things we expect to be unpleasant in a non-negligible fraction of readers if seen without preparation. Doesn't necessarily imply graphic content.   
 'nsfw' contains sexual content.  
@@ -102,7 +102,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [I put a toaster in the dishwasher.](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html) (tags: rationality, fun)  
 [6 lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery) (tags: productivity, economics)  
 [The seven deadly speaks of politi-speak.](https://www.yesmagazine.org/opinion/2021/06/28/bridging-political-divides-progressive-jargon) (tags: society)  
-[What's the matter with India?](https://nicholasdecker.substack.com/p/whats-the-matter-with-india) (tags: law)  
+[What's the matter with India?](https://nicholasdecker.substack.com/p/whats-the-matter-with-india) (tags: law, society)  
 [DM's Esoteric Programming Languages.](https://www.dangermouse.net/esoteric/) (tags: programming, fun)  
 [500 million, but not a single one more.](https://laneless.substack.com/p/500-million-but-not-a-single-one-more) (tags: society, history)  
 [Isaac Newton, his eye, and his bodkin.](http://web.archive.org/web/20220524083846/https://jsaulburton.com/2014/07/27/isaac-newton-his-eye-and-his-bodkin/) (tags: history, fun)  
@@ -145,7 +145,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Folding Ideas.](https://www.youtube.com/@FoldingIdeas) (tags: channel, cinematography, society, economy)  
 [Everything new in Stockfish 18.](https://www.youtube.com/watch?v=lBpQvu20nj0) We were surprised to learn some of those features are so recent, considering how essential they seem. (tags: programming)  
 [A guide to consent.](https://www.youtube.com/watch?v=emfqzme8Z0Q) (tags: society)  
-[Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8) (tags: security)  
+[Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8) (tags: security, influential)  
 
 
 ##### Games.    
@@ -172,4 +172,4 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Paywall remover.](https://www.removepaywall.com/) (tags: piracy)  
 [Anna's Archive.](https://annas-archive.li/) (tags: piracy)  
 [SLUM.](https://open-slum.org/) (tags: piracy)   
-[Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine, endorsed)  
+[Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine, endorsed, influential)  
