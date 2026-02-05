@@ -1,6 +1,6 @@
+This list is non-exhaustive, and limited to non-sexual items by design.  
+
 ##### Things we would like to get good at:  
-Tying people up sexually.  
-Sex.  
 Cooking.  
 Programming.   
 Talking about legal systems.  
@@ -18,6 +18,3 @@ Singing.
 Magic: the Gathering.  
 Reading.  
 Communicating with people.  
-
-##### Things we think we'd enjoy:  
-Sex. 
