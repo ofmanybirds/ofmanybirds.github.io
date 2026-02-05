@@ -6,3 +6,5 @@ We happen to think that there's a correct way to do everything, that there's usu
 [Things we recommend -- a link repository.](recs.md)  
 [Some very low-effort ways to make your life better.](high_ev.md)  
 [Things we want.](desires.md)  
+[How we think about the world, and our opinions on some topics.](philosophy.md)  
+[About us.](about_us.md)  
