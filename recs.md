@@ -54,6 +54,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Human Invariant.](https://www.humaninvariant.com/) (tags: rationality, economics)  
 [girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, programming, cw, fun)  
 [danluu.com.](https://danluu.com/) (tags: programming, productivity)  
+[Thing of Things.](https://thingofthings.substack.com/archive?sort=top) (tags: rationality)  
 
 ##### Sites about social issues of importance to us.  
 [Talia Bhatt.](https://taliabhattwrites.substack.com/) (tags: trans, feminism, endorsed)  
