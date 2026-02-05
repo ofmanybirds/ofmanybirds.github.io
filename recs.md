@@ -9,12 +9,12 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [GiveWell.](https://www.givewell.org/charities/top-charities) Not a charity, but an independent charity evaluator. There's a couple of them. See here if you want to figure out where our claims about charity efficiency discrepancies come from. (tags: rationality)
 
 ##### Other personal sites.  
-[Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/) (tags: mtg, security, statistics)  
+[Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/) (tags: mtg, security, statistics, disputed-author)  
 [Gwern.net.](https://gwern.net/index) (tags: rationality, medicine)  
-[Slate Star Codex.](https://slatestarcodex.com/) (tags: rationality)  
-[Astral Codex Ten.](https://www.astralcodexten.com/) (tags: rationality)  
+[Slate Star Codex.](https://slatestarcodex.com/) (tags: rationality, disputed-author)  
+[Astral Codex Ten.](https://www.astralcodexten.com/) (tags: rationality, disputed-author)  
 [Human Invariant.](https://www.humaninvariant.com/) (tags: rationality, economics)  
-[girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, programming, cw, fun)  
+[girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, fun, programming, disputed, cw)  
 [danluu.com.](https://danluu.com/) (tags: programming, productivity)  
 [Thing of Things.](https://thingofthings.substack.com/archive?sort=top) (tags: rationality, trans)  
 
@@ -47,7 +47,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Arguing with myself (and losing).](https://web.archive.org/web/20250622045850/https://life-in-a-monospace-typeface.tumblr.com/post/81503002891/arguing-with-myself-and-losing) (tags: society)  
 [Nobody gives a shit.](https://radleybalko.substack.com/p/nobody-gives-a-shit) (tags: law, cw)  
 [Programming sucks.](https://www.stilldrinking.org/programming-sucks) (tags: programming)  
-[A comprehensive reboot of law reinforcement.](https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3) (tags: rationality, law, US)  
+[A comprehensive reboot of law reinforcement.](https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3) (tags: rationality, law, US, disputed-author)  
 [They write the right stuff.](https://archive.is/20251210221918/https://www.fastcompany.com/28121/they-write-right-stuff#selection-543.667-557.479) (tags: programming)  
 [Orchietectomy, part 2.](https://mesityl.substack.com/p/orchiectomy-part-2) (tags: trans, medicine, cw)  
 [How one Las Vegas ED saved hundreds of lives after the worst mass shooting in U.S. history.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/) (tags: cw, medicine)  
@@ -83,7 +83,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
 
 ##### Original fiction.  
-[Unsong.](https://unsongbook.com/) (tags: fun, US)  
+[Unsong.](https://unsongbook.com/) (tags: fun, US, disputed-author)  
 [Exhalation.](https://www.lightspeedmagazine.com/fiction/exhalation/) (tags: philosophy)  
 [Common tech jobs described as cabals of Mesoamerican wizards.](https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals) (tags: fun, programming)  
 [MMAcevedo.](https://qntm.org/mmacevedo) (tags: philosophy, cw)  
