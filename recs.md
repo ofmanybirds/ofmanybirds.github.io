@@ -37,7 +37,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Twelve recursive explanations.](https://www.spencergreenberg.com/2021/03/twelve-recursive-explanations/) (tags: fun)  
 [No one cared about my spreadsheets.](https://www.econlib.org/no-one-cared-about-my-spreadsheets/) (tags: society, economics)  
 [List of common misconceptions.](https://en.wikipedia.org/wiki/List_of_common_misconceptions) (tags: history, science)  
-[Person paper on purity in language.](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html) (tags: feminism)  
+[Person paper on purity in language.](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html) (tags: feminism, cw)  
 [Playing to win, Alice Maz.](https://www.alicemaz.com/writing/minecraft.html) (tags: competition, economics, fun)  
 [95%-ile isn't that good.](https://danluu.com/p95-skill/#fnref:S) (tags: productivity, society, competition)  
 [Action!](https://johnnyroccia.com/2020/06/27/action/) (tags: productivity, rationality)  
