@@ -1,43 +1,5 @@
 A non-specific list of things we happen to find interesting. These are not endorsements -- the criterion for inclusion is "contained at least one thing we found interesting," which is not that difficult to meet. The entries tagged as endorsed are an exception.  
 
-#### The tagging system. 
-Tags are descriptive, not exhaustive. The absence of a tag does not imply the absence of relevant content, just that we didn't consider such content central. 
-
-'endorsed' denotes content we actively approve of.  
-'interesting' is the unused implicit tag, for content that is interesting we have no obvious significant disagremeents with. Anything that doesn't have another epistemic status tag is this.  
-'disputed' is content we actively disapprove of in some way, but still consider to have valuable points.  
-'disputed-author' has an author we actively disapprove of in some ways, independent of the value of the content.  
-'speculative' is applied to content that doesn't have particularly strong evidentiary backing, but we think is neat nevertheless.  
-'US' is content that is written from a strongly US-centric perspective, and not always aware of this.  
-
-'programming' concerns anything to do with hardware, software, or the ways they're used in the real world.  
-'society' concerns content that relates to how humans act in groups. (Occasionally, an article obtains  this tag through the behaviour of the author.)   
-'economics' talks about how value flows through large systems.   
-'law' concerns legal matters.   
-'medicine' is applied to things to do with health.   
-'security' is to do with safety of all types, physical and digital and everything else.  
-'fun' are things made for fun, and likely to induce fun in people who are similar to us.   
-'mtg' concerns specifically the game of Magic: the Gathering.    
-'linguistics' deals with language, and all the fun surrounding that.   
-'rationality' has to do with decision-making, and specifically getting better at decision-making.   
-'productivity' either aims to increase your ability to do stuff in the real world, or is very likely to do so by accident.  
-'philosophy' is effusive and nebulous. We'll put a better description of what gets tagged this once we figure it out.  
-'feminism' deals with the philosophy of feminism.  
-'communism' concerns the project of communism.  
-'trans' applies to transgender issues.   
-'history' has to do with stuff that happened in the past, but not of the very recent kind.   
-'mathematics' pokes at mathematics.    
-'cinematography' is for thinking about movies.   
-'piracy' handles the topic of accessing content through means outside the ones explicitly proscribed by law. 
-'academia' concerns the structures of academic publishing, and everything that sprawls off from that. 
-
-'influential' is applied to content we found unusually valuable long-term or that significantly changed how we conceptualise a given domain.  
-
-'cw' has things we expect to be unpleasant in a non-negligible fraction of readers if seen without preparation. Doesn't necessarily imply graphic content.   
-'nsfw' contains sexual content.  
-
-Some tags disambiguate the form a piece of content takes -- e.g. 'album,' 'channel.' These are untracked here. 
-
 ##### Charities. 
 I'm only putting the most efficient ones I'm familiar with here. Some charities are simply more effective than others, and if you're donating, it's orders of magnitude better to donate to the good ones.  
 [Against Malaria Foundation.](https://www.againstmalaria.com/Default.aspx) (tags: charity, medicine, endorsed)  
@@ -148,7 +110,6 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [A guide to consent.](https://www.youtube.com/watch?v=emfqzme8Z0Q) (tags: society)  
 [Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8) (tags: security, influential)  
 
-
 ##### Games.    
 [Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/) (tags: puzzle)  
 [Primordialis.](https://store.steampowered.com/app/3011360/Primordialis/) (tags: roguelike)  
@@ -174,3 +135,42 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Anna's Archive.](https://annas-archive.li/) (tags: piracy)  
 [SLUM.](https://open-slum.org/) (tags: piracy)   
 [Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine, endorsed, influential)  
+
+
+#### The tagging system. 
+Tags are descriptive, not exhaustive. The absence of a tag does not imply the absence of relevant content, just that we didn't consider such content central. 
+
+'endorsed' denotes content we actively approve of.  
+'interesting' is the unused implicit tag, for content that is interesting we have no obvious significant disagremeents with. Anything that doesn't have another epistemic status tag is this.  
+'disputed' is content we actively disapprove of in some way, but still consider to have valuable points.  
+'disputed-author' has an author we actively disapprove of in some ways, independent of the value of the content.  
+'speculative' is applied to content that doesn't have particularly strong evidentiary backing, but we think is neat nevertheless.  
+'US' is content that is written from a strongly US-centric perspective, and not always aware of this.  
+
+'programming' concerns anything to do with hardware, software, or the ways they're used in the real world.  
+'society' concerns content that relates to how humans act in groups. (Occasionally, an article obtains  this tag through the behaviour of the author.)   
+'economics' talks about how value flows through large systems.   
+'law' concerns legal matters.   
+'medicine' is applied to things to do with health.   
+'security' is to do with safety of all types, physical and digital and everything else.  
+'fun' are things made for fun, and likely to induce fun in people who are similar to us.   
+'mtg' concerns specifically the game of Magic: the Gathering.    
+'linguistics' deals with language, and all the fun surrounding that.   
+'rationality' has to do with decision-making, and specifically getting better at decision-making.   
+'productivity' either aims to increase your ability to do stuff in the real world, or is very likely to do so by accident.  
+'philosophy' is effusive and nebulous. We'll put a better description of what gets tagged this once we figure it out.  
+'feminism' deals with the philosophy of feminism.  
+'communism' concerns the project of communism.  
+'trans' applies to transgender issues.   
+'history' has to do with stuff that happened in the past, but not of the very recent kind.   
+'mathematics' pokes at mathematics.    
+'cinematography' is for thinking about movies.   
+'piracy' handles the topic of accessing content through means outside the ones explicitly proscribed by law. 
+'academia' concerns the structures of academic publishing, and everything that sprawls off from that. 
+
+'influential' is applied to content we found unusually valuable long-term or that significantly changed how we conceptualise a given domain.  
+
+'cw' has things we expect to be unpleasant in a non-negligible fraction of readers if seen without preparation. Doesn't necessarily imply graphic content.   
+'nsfw' contains sexual content.  
+
+Some tags disambiguate the form a piece of content takes -- e.g. 'album,' 'channel.' These are untracked here. 
