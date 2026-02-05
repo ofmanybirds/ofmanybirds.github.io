@@ -40,11 +40,11 @@ Some tags disambiguate the form a piece of content takes -- e.g. 'album,' 'chann
 
 ##### Charities. 
 I'm only putting the most efficient ones I'm familiar with here. Some charities are simply more effective than others, and if you're donating, it's orders of magnitude better to donate to the good ones.  
-[Against Malaria Foundation.](https://www.againstmalaria.com/Default.aspx) (tag: charity, medicine, endorsed)  
-[Malaria Consortium.](https://www.malariaconsortium.org/) (tag: charity, medicine, endorsed)  
-[Hellen Keller Intl.](https://helenkellerintl.org/) (tag: charity, medicine, endorsed)  
-[New Incentives.](https://www.newincentives.org/) (tag: charity, medicine, endorsed)  
-[GiveWell.](https://www.givewell.org/charities/top-charities) Not a charity, but an independent charity evaluator. There's a couple of them. See here if you want to figure out where our claims about charity efficiency discrepancies come from. (tag: rationality, trans)  
+[Against Malaria Foundation.](https://www.againstmalaria.com/Default.aspx) (tags: charity, medicine, endorsed)  
+[Malaria Consortium.](https://www.malariaconsortium.org/) (tags: charity, medicine, endorsed)  
+[Hellen Keller Intl.](https://helenkellerintl.org/) (tags: charity, medicine, endorsed)  
+[New Incentives.](https://www.newincentives.org/) (tags: charity, medicine, endorsed)  
+[GiveWell.](https://www.givewell.org/charities/top-charities) Not a charity, but an independent charity evaluator. There's a couple of them. See here if you want to figure out where our claims about charity efficiency discrepancies come from. (tags: rationality)
 
 ##### Other personal sites.  
 [Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/) (tags: mtg, security, statistics)  
@@ -54,7 +54,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Human Invariant.](https://www.humaninvariant.com/) (tags: rationality, economics)  
 [girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, programming, cw, fun)  
 [danluu.com.](https://danluu.com/) (tags: programming, productivity)  
-[Thing of Things.](https://thingofthings.substack.com/archive?sort=top) (tags: rationality)  
+[Thing of Things.](https://thingofthings.substack.com/archive?sort=top) (tags: rationality, trans)  
 
 ##### Sites about social issues of importance to us.  
 [Talia Bhatt.](https://taliabhattwrites.substack.com/) (tags: trans, feminism, endorsed)  
