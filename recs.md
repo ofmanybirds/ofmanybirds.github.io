@@ -4,7 +4,7 @@ A non-specific list of things we happen to find interesting. These are not endor
 Tags are descriptive, not exhaustive. The absence of a tag does not imply the absence of relevant content, just that we didn't consider such content central. 
 
 'endorsed' denotes content we actively approve of.  
-'interesting' is the unused an implicit tag, for content that is interesting we have no obvious significant disagremeents with. Anything that doesn't have another epistemic status tag is this.  
+'interesting' is the unused implicit tag, for content that is interesting we have no obvious significant disagremeents with. Anything that doesn't have another epistemic status tag is this.  
 'disputed' is content we actively disapprove of in some way, but still consider to have valuable points.  
 'disputed-author' has an author we actively disapprove of in some ways, independent of the value of the content.  
 'speculative' is applied to content that doesn't have particularly strong evidentiary backing, but we think is neat nevertheless.  
