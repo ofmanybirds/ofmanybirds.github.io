@@ -1,24 +1,42 @@
 A non-specific list of things we happen to find interesting. These are not endorsements -- the criterion for inclusion is "contained at least one thing we found interesting," which is not that difficult to meet. The entries tagged as endorsed are an exception.  
 
 #### The tagging system. 
-Tags are descriptive, not exhaustive. The absence of a tag does not imply the absence of relevant content, just that we didn't consider it central. 
+Tags are descriptive, not exhaustive. The absence of a tag does not imply the absence of relevant content, just that we didn't consider such content central. 
 
-'endorsed' denotes content we actively approve of. 
-'interesting' is the unused an implicit tag, for content that is interesting we have no obvious significant disagremeents with. Anything that doesn't have another epistemic status tag is this. 
+'endorsed' denotes content we actively approve of.  
+'interesting' is the unused an implicit tag, for content that is interesting we have no obvious significant disagremeents with. Anything that doesn't have another epistemic status tag is this.  
 'disputed' is content we actively disapprove of in some way, but still consider to have valuable points.  
-'
+'disputed-author' has an author we actively disapprove of in some ways, independent of the value of the content.  
+'speculative' is applied to content that doesn't have particularly strong evidentiary backing, but we think is neat nevertheless.  
+'US' is content that is unusually US-centric, to its detriment.  
 
-'programming' concerns anything to do with computers, or 
-'society' concerns content that deals with  
-'law' concerns legal matters.  
-'security' conc
-'fun' are things made for fun, and likely to induce fun in people who are similar to us.  
-'mtg' concerns specifically the game of Magic: the Gathering.  
+'programming' concerns anything to do with computers.   
+'society' concerns content that relates to how humans act in groups. (Occasionally, an article obtains  this tag through the behaviour of the author.)    
+'economics' talks about how value flows through large systems.   
+'law' concerns legal matters.   
+'medicine' is applied to things to do with health.   
+'security' is to do with safety of all types, physical and digital and everything else.  
+'fun' are things made for fun, and likely to induce fun in people who are similar to us.   
+'mtg' concerns specifically the game of Magic: the Gathering.    
+'linguistics' deals with language, and all the fun surrounding that.   
+'rationality' has to do with decision-making, and specifically getting better at decision-making.   
+'productivity' either aims to increase your ability to do stuff in the real world, or is very likely to do so by accident.  
+'philosophy' is effusive and nebulous. We'll put a better description of what gets tagged this once we figure it out.  
+'feminism' deals with the philosophy of feminism.  
+'communism' concerns the project of communism.  
+'trans' applies to transgender issues.   
+'history' has to do with stuff that happened in the past, but not of the very recent kind.   
+'mathematics' pokes at mathematics.    
+'cinematography' is for thinking about movies.   
+'piracy' handles the topic of accessing content through means outside the ones explicitly proscribed by law. 
+'academia' concerns the structures of academic publishing, and everything that sprawls off from that. 
 
-'speculative' concerns 
+'influential' is applied to content we found unusually valuable long-term.    
 
-'cw' has things we expect to be unpleasant in a non-negligible fraction of readers if seen without preparation. Doesn't necessarily imply graphic content.  
+'cw' has things we expect to be unpleasant in a non-negligible fraction of readers if seen without preparation. Doesn't necessarily imply graphic content.   
 'nsfw' contains sexual content.  
+
+Some tags disambiguate the form a piece of content takes -- e.g. 'album,' 'channel.' These are untracked here. 
 
 ##### Charities. 
 I'm only putting the most efficient ones I'm familiar with here. Some charities are simply more effective than others, and if you're donating, it's orders of magnitude better to donate to the good ones.  
@@ -55,9 +73,9 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Things you're allowed to do.](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) (tags: fun)  
 [Twelve recursive explanations.](https://www.spencergreenberg.com/2021/03/twelve-recursive-explanations/) (tags: fun)  
 [No one cared about my spreadsheets.](https://www.econlib.org/no-one-cared-about-my-spreadsheets/) (tags: society, economics)  
-[List of common misconceptions.](https://en.wikipedia.org/wiki/List_of_common_misconceptions) (tags: history, science, lists)  
+[List of common misconceptions.](https://en.wikipedia.org/wiki/List_of_common_misconceptions) (tags: history, science)  
 [Person paper on purity in language.](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html) (tags: feminism)  
-[Playing to win, Alice Maz.](https://www.alicemaz.com/writing/minecraft.html) (tags: competition, fun)  
+[Playing to win, Alice Maz.](https://www.alicemaz.com/writing/minecraft.html) (tags: competition, economics, fun)  
 [95%-ile isn't that good.](https://danluu.com/p95-skill/#fnref:S) (tags: productivity, society, competition)  
 [Action!](https://johnnyroccia.com/2020/06/27/action/) (tags: productivity, rationality)  
 [nohello.](https://nohello.net/en/) (tags: productivity, society)  
@@ -70,13 +88,13 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [They write the right stuff.](https://archive.is/20251210221918/https://www.fastcompany.com/28121/they-write-right-stuff#selection-543.667-557.479) (tags: programming)  
 [Orchietectomy, part 2.](https://mesityl.substack.com/p/orchiectomy-part-2) (tags: trans, medicine, cw)  
 [How one Las Vegas ED saved hundreds of lives after the worst mass shooting in U.S. history.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/) (tags: cw, medicine)  
-[On being Rich-ish.](https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned) (tags: society)  
+[On being Rich-ish.](https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned) (tags: society, economics)  
 [Structured procrastination.](https://structuredprocrastination.com/) (tags: productivity, fun)  
 [Mythic vs folk values.](https://web.archive.org/web/20260104064352/https://www.tumblr.com/raggedjackscarlet/129312114638/mythic-valuesfolk-values) (tags: society)  
 [Things you should never do.](https://web.archive.org/web/20260125032021/https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) (tags: programming, economics)  
 [The problem with non-philosophers.](https://web.archive.org/web/20251112055308/https://www.philosophyetc.net/2006/05/problem-with-non-philosophers.html) (tags: philosophy)   
 [List of atrocities committed by US authorities.](https://github.com/dessalines/essays/blob/main/us_atrocities.md) (tags: communism, US)   
-[Academic urban legends.](academic_urban_legends.pdf) (tags: academia)  
+[Academic urban legends.](academic_urban_legends.pdf) (tags: linguistics, society, academia)  
 [What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23) (tags: programming, law)  
 [Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval) (tags: law, economics, medicine, US)  
 [No, it’s not The Incentives—it’s you](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/) (tags: academia)  
@@ -86,14 +104,14 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [The seven deadly speaks of politi-speak.](https://www.yesmagazine.org/opinion/2021/06/28/bridging-political-divides-progressive-jargon) (tags: society)  
 [What's the matter with India?](https://nicholasdecker.substack.com/p/whats-the-matter-with-india) (tags: law)  
 [DM's Esoteric Programming Languages.](https://www.dangermouse.net/esoteric/) (tags: programming, fun)  
-[500 million, but not a single one more.](https://laneless.substack.com/p/500-million-but-not-a-single-one-more) (tags: society, historical)  
+[500 million, but not a single one more.](https://laneless.substack.com/p/500-million-but-not-a-single-one-more) (tags: society, history)  
 [Isaac Newton, his eye, and his bodkin.](http://web.archive.org/web/20220524083846/https://jsaulburton.com/2014/07/27/isaac-newton-his-eye-and-his-bodkin/) (tags: history, fun)  
 [Why ~everyone should take creatine forever.](https://vishalblog.substack.com/p/why-everyone-should-take-creatine) (tags: medicine, rationality)  
 [The satanic panic is incredibly weird.](https://thingofthings.substack.com/p/the-satanic-panic-is-incredibly-weird) (tags: law, US)  
 [Algorithms interviews: theory vs practice](https://danluu.com/algorithms-interviews/) (tags: programming, productivity)  
 [The Copenhagen interpretation of ethics.](https://laneless.substack.com/p/the-copenhagen-interpretation-of-ethics) (tags: society, rationality, philosophy)  
 [Why cross-examination is so damn great.](https://www.ymeskhout.com/p/why-cross-examination-is-so-damn) (tags: society)  
-[Morality is accidental and self-congratulatory.](https://www.ymeskhout.com/p/morality-is-accidental-and-self-congratulatory) (tags: society, historical)  
+[Morality is accidental and self-congratulatory.](https://www.ymeskhout.com/p/morality-is-accidental-and-self-congratulatory) (tags: society, history)  
 [NSA, NIST, and post-quantum cryptography.](https://blog.cr.yp.to/20220805-nsa.html) (tags: programming, security, US)  
 [No silver bullet solutions to the werewolf problem.](https://progressandpoverty.substack.com/p/no-silver-bullets-to-the-werewolf) (tags: society)  
 [Two Americas, one bank branch, and $50,000 cash.](https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/) (tags: US, security)  
@@ -117,7 +135,6 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man) (tags: rationality)  
 
 ##### Video.  
-[Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8) (tags: security)  
 [Tom7.](https://www.youtube.com/@tom7) (tags: channel, fun, programming)  
 [DoshDoshington.](https://www.youtube.com/@DoshDoshington) (tags: channel, fun)  
 [Moon Channel.](https://www.youtube.com/@moon-channel) (tags: channel, law)  
@@ -125,9 +142,11 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Jorbs.](https://www.youtube.com/@Jorbs) (tags: channel, fun, rationality)  
 [Neurotic Goose.](https://www.youtube.com/@NeuroticGoose) (tags: channel, fun)  
 [Every Frame a Painting.](https://www.youtube.com/@everyframeapainting) (tags: channel, cinematography)  
-[Folding Ideas.](https://www.youtube.com/@FoldingIdeas) (tags: channel, society, economy)  
+[Folding Ideas.](https://www.youtube.com/@FoldingIdeas) (tags: channel, cinematography, society, economy)  
 [Everything new in Stockfish 18.](https://www.youtube.com/watch?v=lBpQvu20nj0) We were surprised to learn some of those features are so recent, considering how essential they seem. (tags: programming)  
 [A guide to consent.](https://www.youtube.com/watch?v=emfqzme8Z0Q) (tags: society)  
+[Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8) (tags: security)  
+
 
 ##### Games.    
 [Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/) (tags: puzzle)  
@@ -145,8 +164,8 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Sgt. Pepper's Lonely Hearts Club Band.](https://www.youtube.com/watch?v=Fh3Hpx9YfJ4) (tags: album)  
 
 ##### Poetry.  
-[If I Told Him, A Completed Portrait of Picasso.](https://www.poetryfoundation.org/poems/55215/if-i-told-him-a-completed-portrait-of-picasso)  
-[Fire and Ice.](https://www.poetryfoundation.org/poems/44263/fire-and-ice)  
+[If I Told Him, A Completed Portrait of Picasso.](https://www.poetryfoundation.org/poems/55215/if-i-told-him-a-completed-portrait-of-picasso) (tags: fun)
+[Fire and Ice.](https://www.poetryfoundation.org/poems/44263/fire-and-ice) 
 [seventh heaven.](https://www.poetryfoundation.org/poems/50433/seventh-heaven-56d22d8ceae8b)  
 
 ##### Tools.   
