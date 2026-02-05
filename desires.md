@@ -21,7 +21,7 @@ Reading.
 
 ##### Things we enjoy sexually:   
 Receiving pain.  
-Inflicting pain.
+Inflicting pain.  
 Exhibitionism. (People seeing our naked body is hot. This is because we're hot.)  
 
 ##### Things we think we'd enjoy sexually:   
