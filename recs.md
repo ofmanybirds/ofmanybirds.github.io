@@ -80,6 +80,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [No silver bullet solutions to the werewolf problem.](https://progressandpoverty.substack.com/p/no-silver-bullets-to-the-werewolf) (tags: society)  
 [Two Americas, one bank branch, and $50,000 cash.](https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/) (tags: US, security)  
 [Frequently asked questions about PEPFAR.](https://thingofthings.substack.com/p/frequently-asked-questions-about-480) (tags: medicine, society)  
+[When will AGI arrive?](https://80000hours.org/agi/guide/when-will-agi-arrive/) (tags: programming)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
