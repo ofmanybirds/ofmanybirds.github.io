@@ -81,6 +81,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Two Americas, one bank branch, and $50,000 cash.](https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/) (tags: US, security)  
 [Frequently asked questions about PEPFAR.](https://thingofthings.substack.com/p/frequently-asked-questions-about-480) (tags: medicine, society)  
 [When will AGI arrive?](https://80000hours.org/agi/guide/when-will-agi-arrive/) (tags: programming)  
+[In defense of compensated kidney donation.](https://thingofthings.substack.com/p/in-defense-of-compensated-kidney) (tags: medicine, economics | surprising)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
@@ -110,9 +111,9 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Neurotic Goose.](https://www.youtube.com/@NeuroticGoose) (tags: channel, fun)  
 [Every Frame a Painting.](https://www.youtube.com/@everyframeapainting) (tags: channel, cinematography)  
 [Folding Ideas.](https://www.youtube.com/@FoldingIdeas) (tags: channel, cinematography, society, economy)  
-[Everything new in Stockfish 18.](https://www.youtube.com/watch?v=lBpQvu20nj0) We were surprised to learn some of those features are so recent, considering how essential they seem. (tags: programming)  
+[Everything new in Stockfish 18.](https://www.youtube.com/watch?v=lBpQvu20nj0) (tags: programming | surprising)  
 [A guide to consent.](https://www.youtube.com/watch?v=emfqzme8Z0Q) (tags: society)  
-[Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8) (tags: security, influential)  
+[Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8) (tags: security | influential)  
 
 ##### Games.    
 [Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/) (tags: puzzle)  
@@ -138,7 +139,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Paywall remover.](https://www.removepaywall.com/) (tags: piracy)  
 [Anna's Archive.](https://annas-archive.li/) (tags: piracy)  
 [SLUM.](https://open-slum.org/) (tags: piracy)   
-[Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine, endorsed, influential)  
+[Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine | endorsed | influential)  
 
 
 #### The tagging system. 
@@ -172,7 +173,8 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'piracy' handles the topic of accessing content through means outside the ones explicitly proscribed by law. 
 'academia' concerns the structures of academic publishing, and everything that sprawls off from that. 
 
-'influential' is applied to content we found unusually valuable long-term or that significantly changed how we conceptualise a given domain.  
+'influential' is applied to content we found unusually valuable long-term or that significantly changed how we conceptualise a given domain.
+'surprising' is content that some or all of significantly surprised us. 
 
 'cw' has things we expect to be unpleasant in a non-negligible fraction of readers if seen without preparation. Doesn't necessarily imply graphic content.   
 'nsfw' contains sexual content.  
