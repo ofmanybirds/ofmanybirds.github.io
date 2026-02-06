@@ -87,6 +87,8 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Grayed out options.](https://thingofthings.substack.com/p/grayed-out-options) (tags: rationality)  
 [Some prelimiary notes towards a real cost-benefit analysis of prisons.](https://philosophybear.substack.com/p/some-preliminary-notes-towards-a) (tags: economics, academia)  
 [Most of what you read on the internet is written by insane people.](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/) (tags: society)  
+[Growth of photovoltaics.](https://en.wikipedia.org/wiki/Growth_of_photovoltaics) Also see [solar power by country.](https://en.wikipedia.org/wiki/Solar_power_by_country) (tags: industry | surprising)  
+[A few rough, random, and spicy thoughts on crime and justice systems.](https://philosophybear.substack.com/p/a-few-rough-random-and-spicy-thoughts) (tags: 
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
@@ -184,6 +186,7 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'literature' is about writing. 
 'altruism' is about helping people you don't need to help.  
 'journalism' refers to stuff that was news at the time of publishing. 
+'industry' is to do with some large industry. 
 
 'influential' is applied to content we found unusually valuable long-term or that significantly changed how we conceptualise a given domain.
 'surprising' is content that some or all of significantly surprised us. 
