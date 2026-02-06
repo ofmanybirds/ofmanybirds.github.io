@@ -18,6 +18,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [danluu.com.](https://danluu.com/) (tags: programming, productivity)  
 [Thing of Things.](https://thingofthings.substack.com/archive?sort=top) (tags: rationality, trans)  
 [Andrea Long Chu author archive.](https://www.vulture.com/author/andrea-long-chu/) (tags: feminism, trans)  
+[Alexander Wales.](https://alexanderwales.tumblr.com/) (tags: rationality, philosophy, literature)  
 
 ##### Sites about social issues of importance to us.  
 [Talia Bhatt.](https://taliabhattwrites.substack.com/) (tags: trans, feminism | endorsed)  
@@ -175,7 +176,8 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'cinematography' is for thinking about movies.   
 'piracy' handles the topic of accessing content through means outside the ones explicitly proscribed by law. 
 'academia' concerns the structures of academic publishing, and everything that sprawls off from that. 
-'US' is content that is written from a strongly US-centric perspective. 
+'US' is content that is written from a US-centric perspective. 
+'literature' is about writing. 
 
 'influential' is applied to content we found unusually valuable long-term or that significantly changed how we conceptualise a given domain.
 'surprising' is content that some or all of significantly surprised us. 
