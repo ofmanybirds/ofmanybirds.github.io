@@ -88,7 +88,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Some prelimiary notes towards a real cost-benefit analysis of prisons.](https://philosophybear.substack.com/p/some-preliminary-notes-towards-a) (tags: economics, academia)  
 [Most of what you read on the internet is written by insane people.](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/) (tags: society)  
 [Growth of photovoltaics.](https://en.wikipedia.org/wiki/Growth_of_photovoltaics) Also see [solar power by country.](https://en.wikipedia.org/wiki/Solar_power_by_country) (tags: industry | surprising)  
-[A few rough, random, and spicy thoughts on crime and justice systems.](https://philosophybear.substack.com/p/a-few-rough-random-and-spicy-thoughts) (tags: 
+[The story of VaccinateCA.](https://worksinprogress.co/issue/the-story-of-vaccinateca/) (tags: medicine)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
@@ -136,6 +136,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 ##### Interactive.  
 [The evolution of trust.](https://ncase.me/trust/) (tags: society, mathematics, fun)  
 [neal.fun.](https://neal.fun/) (tags: fun)   
+[monkeytype.com](https://monkeytype.com/) (tags: productivity)  
 
 ##### Music.  
 [Discipline.](https://www.youtube.com/watch?v=LOBvIGBlUvc) (tags: album)  
