@@ -87,6 +87,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
+[The sequences.](https://www.readthesequences.com/) (tags: rationality | disputed-author)  
 
 ##### Original fiction.  
 [Unsong.](https://unsongbook.com/) (tags: fun, US | disputed-author)  
