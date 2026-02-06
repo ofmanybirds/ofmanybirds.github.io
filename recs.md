@@ -52,7 +52,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [A comprehensive reboot of law reinforcement.](https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3) (tags: rationality, law | US, disputed-author)  
 [They write the right stuff.](https://archive.is/20251210221918/https://www.fastcompany.com/28121/they-write-right-stuff#selection-543.667-557.479) (tags: programming)  
 [Orchietectomy, part 2.](https://mesityl.substack.com/p/orchiectomy-part-2) (tags: trans, medicine |  cw)  
-[How one Las Vegas ED saved hundreds of lives after the worst mass shooting in U.S. history.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/) (tags: medicine | cw)  
+[How one Las Vegas ED saved hundreds of lives after the worst mass shooting in U.S. history.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/) (tags: medicine, journalism | cw)  
 [On being Rich-ish.](https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned) (tags: society, economics)  
 [Structured procrastination.](https://structuredprocrastination.com/) (tags: productivity, fun)  
 [Mythic vs folk values.](https://web.archive.org/web/20260104064352/https://www.tumblr.com/raggedjackscarlet/129312114638/mythic-valuesfolk-values) (tags: society)  
@@ -85,6 +85,8 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [In defense of compensated kidney donation.](https://thingofthings.substack.com/p/in-defense-of-compensated-kidney) (tags: medicine, economics | surprising)  
 [Confidence all the way up.](https://mindingourway.com/confidence-all-the-way-up/) (tags: rationality)  
 [Grayed out options.](https://thingofthings.substack.com/p/grayed-out-options) (tags: rationality)  
+[Some prelimiary notes towards a real cost-benefit analysis of prisons.](https://philosophybear.substack.com/p/some-preliminary-notes-towards-a) (tags: economics, academia)  
+[Most of what you read on the internet is written by insane people.](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/) (tags: society)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
@@ -107,6 +109,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Pokemon: The Origin of Species.](https://daystareld.com/pokemon/1) (tags: rationality)  
 [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man) (tags: rationality)  
 [A Common Sense Guide to Doing the Most Good.](https://archiveofourown.org/works/30351690) (tags: rationality, altruism)  
+[17 last words from Hunger Games tributes that are STILL echoing in our heads. Yes, still.](https://archiveofourown.org/works/60813430) (tags: society | cw)  
 
 ##### Video.  
 [Tom7.](https://www.youtube.com/@tom7) (tags: channel | fun, programming)  
@@ -180,6 +183,7 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'US' is content that is written from a US-centric perspective. 
 'literature' is about writing. 
 'altruism' is about helping people you don't need to help.  
+'journalism' refers to stuff that was news at the time of publishing. 
 
 'influential' is applied to content we found unusually valuable long-term or that significantly changed how we conceptualise a given domain.
 'surprising' is content that some or all of significantly surprised us. 
