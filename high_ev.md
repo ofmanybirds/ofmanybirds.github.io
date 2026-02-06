@@ -1,4 +1,4 @@
-This is a list of interventions which have an extremely high expected value to cost ratio in many lives. They do this mainly by:  
+This is a list of interventions which have an extremely high expected value to cost ratio. They do this mainly by:  
 a) being really cheap to implement,  
 b) having a reasonably high impact in some lives.  
 
