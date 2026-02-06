@@ -2,25 +2,25 @@ A non-specific list of things we happen to find interesting. These are not endor
 
 ##### Charities. 
 I'm only putting the most efficient ones I'm familiar with here. Some charities are simply more effective than others, and if you're donating, it's orders of magnitude better to donate to the good ones.  
-[Against Malaria Foundation.](https://www.againstmalaria.com/Default.aspx) (tags: charity, medicine, endorsed)  
-[Malaria Consortium.](https://www.malariaconsortium.org/) (tags: charity, medicine, endorsed)  
-[Hellen Keller Intl.](https://helenkellerintl.org/) (tags: charity, medicine, endorsed)  
-[New Incentives.](https://www.newincentives.org/) (tags: charity, medicine, endorsed)  
-[GiveWell.](https://www.givewell.org/) Not a charity, but an independent charity evaluator. There's a couple of them. See here if you want to figure out where our claims about charity efficiency discrepancies come from. (tags: rationality)
+[Against Malaria Foundation.](https://www.againstmalaria.com/Default.aspx) (tags: charity, medicine | endorsed)  
+[Malaria Consortium.](https://www.malariaconsortium.org/) (tags: charity, medicine | endorsed)  
+[Hellen Keller Intl.](https://helenkellerintl.org/) (tags: charity, medicine | endorsed)  
+[New Incentives.](https://www.newincentives.org/) (tags: charity, medicine | endorsed)  
+[GiveWell.](https://www.givewell.org/) Not a charity, but an independent charity evaluator. There's a couple of them. See here if you want to figure out where our claims about charity efficiency discrepancies come from. (tags: rationality | endorsed)
 
 ##### Other personal sites or content repositories. 
 [Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/) (tags: mtg, security, statistics, disputed-author)  
 [Gwern.net.](https://gwern.net/index) (tags: rationality, medicine)  
-[Slate Star Codex.](https://slatestarcodex.com/) (tags: rationality, disputed-author)  
-[Astral Codex Ten.](https://www.astralcodexten.com/) (tags: rationality, disputed-author)  
+[Slate Star Codex.](https://slatestarcodex.com/) (tags: rationality | disputed-author)  
+[Astral Codex Ten.](https://www.astralcodexten.com/) (tags: rationality | disputed-author)  
 [Human Invariant.](https://www.humaninvariant.com/) (tags: rationality, economics)  
-[girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, fun, programming, disputed, cw)  
+[girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, fun, programming | disputed, cw)  
 [danluu.com.](https://danluu.com/) (tags: programming, productivity)  
 [Thing of Things.](https://thingofthings.substack.com/archive?sort=top) (tags: rationality, trans)  
 [Andrea Long Chu author archive.](https://www.vulture.com/author/andrea-long-chu/) (tags: feminism, trans)  
 
 ##### Sites about social issues of importance to us.  
-[Talia Bhatt.](https://taliabhattwrites.substack.com/) (tags: trans, feminism, endorsed)  
+[Talia Bhatt.](https://taliabhattwrites.substack.com/) (tags: trans, feminism | endorsed)  
 [The Trans Dandy.](https://thetransdandy.substack.com/) (tags: trans, feminism)  
 [Hammer or Anvil.](https://harpies.substack.com/) (tags: trans, feminism)  
 [Trans Care 101.](https://transcare101.substack.com/) (tags: trans, feminism, medicine)  
@@ -38,20 +38,20 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Twelve recursive explanations.](https://www.spencergreenberg.com/2021/03/twelve-recursive-explanations/) (tags: fun)  
 [No one cared about my spreadsheets.](https://www.econlib.org/no-one-cared-about-my-spreadsheets/) (tags: society, economics)  
 [List of common misconceptions.](https://en.wikipedia.org/wiki/List_of_common_misconceptions) (tags: history, science)  
-[Person paper on purity in language.](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html) (tags: feminism, cw)  
+[Person paper on purity in language.](https://www.cs.virginia.edu/~evans/cs655/readings/purity.html) (tags: feminism | cw)  
 [Playing to win, Alice Maz.](https://www.alicemaz.com/writing/minecraft.html) (tags: competition, economics, fun)  
 [95%-ile isn't that good.](https://danluu.com/p95-skill/#fnref:S) (tags: productivity, society, competition)  
 [Action!](https://johnnyroccia.com/2020/06/27/action/) (tags: productivity, rationality)  
 [nohello.](https://nohello.net/en/) (tags: productivity, society)  
 [In My Culture.](https://medium.com/@ThingMaker/in-my-culture-29c6464072b2) (tags: society)  
-[Silent Treatment, the troubling response to a memoir of incest.](https://harpers.org/archive/2018/03/silent-treatment/) (tags: society, feminism, cw)  
+[Silent Treatment, the troubling response to a memoir of incest.](https://harpers.org/archive/2018/03/silent-treatment/) (tags: society, feminism | cw)  
 [Arguing with myself (and losing).](https://web.archive.org/web/20250622045850/https://life-in-a-monospace-typeface.tumblr.com/post/81503002891/arguing-with-myself-and-losing) (tags: society)  
-[Nobody gives a shit.](https://radleybalko.substack.com/p/nobody-gives-a-shit) (tags: law, cw)  
+[Nobody gives a shit.](https://radleybalko.substack.com/p/nobody-gives-a-shit) (tags: law | cw)  
 [Programming sucks.](https://www.stilldrinking.org/programming-sucks) (tags: programming)  
-[A comprehensive reboot of law reinforcement.](https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3) (tags: rationality, law, US, disputed-author)  
+[A comprehensive reboot of law reinforcement.](https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3) (tags: rationality, law | US, disputed-author)  
 [They write the right stuff.](https://archive.is/20251210221918/https://www.fastcompany.com/28121/they-write-right-stuff#selection-543.667-557.479) (tags: programming)  
-[Orchietectomy, part 2.](https://mesityl.substack.com/p/orchiectomy-part-2) (tags: trans, medicine, cw)  
-[How one Las Vegas ED saved hundreds of lives after the worst mass shooting in U.S. history.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/) (tags: cw, medicine)  
+[Orchietectomy, part 2.](https://mesityl.substack.com/p/orchiectomy-part-2) (tags: trans, medicine |  cw)  
+[How one Las Vegas ED saved hundreds of lives after the worst mass shooting in U.S. history.](https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/) (tags: medicine | cw)  
 [On being Rich-ish.](https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned) (tags: society, economics)  
 [Structured procrastination.](https://structuredprocrastination.com/) (tags: productivity, fun)  
 [Mythic vs folk values.](https://web.archive.org/web/20260104064352/https://www.tumblr.com/raggedjackscarlet/129312114638/mythic-valuesfolk-values) (tags: society)  
@@ -62,7 +62,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23) (tags: programming, law)  
 [Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval) (tags: law, economics, medicine, US)  
 [No, it’s not The Incentives—it’s you.](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/) (tags: academia)  
-[The online business of (animal) torture.](https://meghanboilard.substack.com/p/the-online-business-of-torture) (tags: cw, society)  
+[The online business of (animal) torture.](https://meghanboilard.substack.com/p/the-online-business-of-torture) (tags: society | cw)  
 [I put a toaster in the dishwasher.](https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html) (tags: rationality, fun)  
 [6 lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery) (tags: productivity, economics)  
 [The seven deadly speaks of politi-speak.](https://www.yesmagazine.org/opinion/2021/06/28/bridging-political-divides-progressive-jargon) (tags: society)  
@@ -78,7 +78,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Morality is accidental and self-congratulatory.](https://www.ymeskhout.com/p/morality-is-accidental-and-self-congratulatory) (tags: society, history)  
 [NSA, NIST, and post-quantum cryptography.](https://blog.cr.yp.to/20220805-nsa.html) (tags: programming, security, US)  
 [No silver bullet solutions to the werewolf problem.](https://progressandpoverty.substack.com/p/no-silver-bullets-to-the-werewolf) (tags: society)  
-[Two Americas, one bank branch, and $50,000 cash.](https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/) (tags: US, security)  
+[Two Americas, one bank branch, and $50,000 cash.](https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/) (tags: security, US)  
 [Frequently asked questions about PEPFAR.](https://thingofthings.substack.com/p/frequently-asked-questions-about-480) (tags: medicine, society)  
 [When will AGI arrive?](https://80000hours.org/agi/guide/when-will-agi-arrive/) (tags: programming)  
 [In defense of compensated kidney donation.](https://thingofthings.substack.com/p/in-defense-of-compensated-kidney) (tags: medicine, economics | surprising)  
@@ -88,10 +88,10 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
 
 ##### Original fiction.  
-[Unsong.](https://unsongbook.com/) (tags: fun, US, disputed-author)  
+[Unsong.](https://unsongbook.com/) (tags: fun, US | disputed-author)  
 [Exhalation.](https://www.lightspeedmagazine.com/fiction/exhalation/) (tags: philosophy)  
 [Common tech jobs described as cabals of Mesoamerican wizards.](https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals) (tags: fun, programming)  
-[MMAcevedo.](https://qntm.org/mmacevedo) (tags: philosophy, cw)  
+[MMAcevedo.](https://qntm.org/mmacevedo) (tags: philosophy | cw)  
 [Chaser 6.](https://alicorn.elcenia.com/stories/chaser6.shtml) (tags: philosophy, society)  
 
 ##### Larger repositories.  
@@ -104,14 +104,14 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man) (tags: rationality)  
 
 ##### Video.  
-[Tom7.](https://www.youtube.com/@tom7) (tags: channel, fun, programming)  
-[DoshDoshington.](https://www.youtube.com/@DoshDoshington) (tags: channel, fun)  
-[Moon Channel.](https://www.youtube.com/@moon-channel) (tags: channel, law)  
-[HGModernism.](https://www.youtube.com/@HGModernism) (tags: channel, fun, rationality)  
-[Jorbs.](https://www.youtube.com/@Jorbs) (tags: channel, fun, rationality)  
-[Neurotic Goose.](https://www.youtube.com/@NeuroticGoose) (tags: channel, fun)  
-[Every Frame a Painting.](https://www.youtube.com/@everyframeapainting) (tags: channel, cinematography)  
-[Folding Ideas.](https://www.youtube.com/@FoldingIdeas) (tags: channel, cinematography, society, economy)  
+[Tom7.](https://www.youtube.com/@tom7) (tags: channel | fun, programming)  
+[DoshDoshington.](https://www.youtube.com/@DoshDoshington) (tags: channel | fun)  
+[Moon Channel.](https://www.youtube.com/@moon-channel) (tags: channel | law)  
+[HGModernism.](https://www.youtube.com/@HGModernism) (tags: channel | fun, rationality)  
+[Jorbs.](https://www.youtube.com/@Jorbs) (tags: channel | fun, rationality)  
+[Neurotic Goose.](https://www.youtube.com/@NeuroticGoose) (tags: channel | fun)  
+[Every Frame a Painting.](https://www.youtube.com/@everyframeapainting) (tags: channel | cinematography)  
+[Folding Ideas.](https://www.youtube.com/@FoldingIdeas) (tags: channel | cinematography, society, economy)  
 [Everything new in Stockfish 18.](https://www.youtube.com/watch?v=lBpQvu20nj0) (tags: programming | surprising)  
 [A guide to consent.](https://www.youtube.com/watch?v=emfqzme8Z0Q) (tags: society)  
 [Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8) (tags: security | influential)  
@@ -140,7 +140,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Paywall remover.](https://www.removepaywall.com/) (tags: piracy)  
 [Anna's Archive.](https://annas-archive.li/) (tags: piracy)  
 [SLUM.](https://open-slum.org/) (tags: piracy)   
-[Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine | endorsed | influential)  
+[Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine | endorsed, influential)  
 
 
 #### The tagging system. 
@@ -151,7 +151,6 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'disputed' is content we actively disapprove of in some way, but still consider to have valuable points.  
 'disputed-author' has an author we actively disapprove of in some ways, independent of the value of the content.  
 'speculative' is applied to content that doesn't have particularly strong evidentiary backing, but we think is neat nevertheless.  
-'US' is content that is written from a strongly US-centric perspective, and not always aware of this.  
 
 'programming' concerns anything to do with hardware, software, or the ways they're used in the real world.  
 'society' concerns content that relates to how humans act in groups. (Occasionally, an article obtains  this tag through the behaviour of the author.)   
@@ -173,6 +172,7 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'cinematography' is for thinking about movies.   
 'piracy' handles the topic of accessing content through means outside the ones explicitly proscribed by law. 
 'academia' concerns the structures of academic publishing, and everything that sprawls off from that. 
+'US' is content that is written from a strongly US-centric perspective. 
 
 'influential' is applied to content we found unusually valuable long-term or that significantly changed how we conceptualise a given domain.
 'surprising' is content that some or all of significantly surprised us. 
