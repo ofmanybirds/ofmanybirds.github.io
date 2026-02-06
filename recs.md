@@ -8,7 +8,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [New Incentives.](https://www.newincentives.org/) (tags: charity, medicine, endorsed)  
 [GiveWell.](https://www.givewell.org/) Not a charity, but an independent charity evaluator. There's a couple of them. See here if you want to figure out where our claims about charity efficiency discrepancies come from. (tags: rationality)
 
-##### Other personal sites.  
+##### Other personal sites or content repositories. 
 [Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/) (tags: mtg, security, statistics, disputed-author)  
 [Gwern.net.](https://gwern.net/index) (tags: rationality, medicine)  
 [Slate Star Codex.](https://slatestarcodex.com/) (tags: rationality, disputed-author)  
@@ -17,6 +17,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, fun, programming, disputed, cw)  
 [danluu.com.](https://danluu.com/) (tags: programming, productivity)  
 [Thing of Things.](https://thingofthings.substack.com/archive?sort=top) (tags: rationality, trans)  
+[Andrea Long Chu author archive.](https://www.vulture.com/author/andrea-long-chu/) (tags: feminism, trans)  
 
 ##### Sites about social issues of importance to us.  
 [Talia Bhatt.](https://taliabhattwrites.substack.com/) (tags: trans, feminism, endorsed)  
