@@ -131,6 +131,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Primordialis.](https://store.steampowered.com/app/3011360/Primordialis/) (tags: roguelike)  
 [Noita.](https://store.steampowered.com/app/881100/Noita/) (tags: roguelike)  
 [Celeste.](https://store.steampowered.com/app/504230/Celeste/) (tags: platformer, trans)   
+[catfishing.net.](https://catfishing.net/) Fun little game about Wikipedia categories. 
 
 ##### Interactive.  
 [The evolution of trust.](https://ncase.me/trust/) (tags: society, mathematics, fun)  
