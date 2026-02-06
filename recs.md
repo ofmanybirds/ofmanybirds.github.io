@@ -106,6 +106,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 ##### Fanfiction.  
 [Pokemon: The Origin of Species.](https://daystareld.com/pokemon/1) (tags: rationality)  
 [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man) (tags: rationality)  
+[A Common Sense Guide to Doing the Most Good.](https://archiveofourown.org/works/30351690) (tags: rationality, altruism)  
 
 ##### Video.  
 [Tom7.](https://www.youtube.com/@tom7) (tags: channel | fun, programming)  
@@ -178,6 +179,7 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'academia' concerns the structures of academic publishing, and everything that sprawls off from that. 
 'US' is content that is written from a US-centric perspective. 
 'literature' is about writing. 
+'altruism' is about helping people you don't need to help.  
 
 'influential' is applied to content we found unusually valuable long-term or that significantly changed how we conceptualise a given domain.
 'surprising' is content that some or all of significantly surprised us. 
