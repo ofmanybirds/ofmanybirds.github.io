@@ -82,6 +82,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Frequently asked questions about PEPFAR.](https://thingofthings.substack.com/p/frequently-asked-questions-about-480) (tags: medicine, society)  
 [When will AGI arrive?](https://80000hours.org/agi/guide/when-will-agi-arrive/) (tags: programming)  
 [In defense of compensated kidney donation.](https://thingofthings.substack.com/p/in-defense-of-compensated-kidney) (tags: medicine, economics | surprising)  
+[Confidence all the way up.](https://mindingourway.com/confidence-all-the-way-up/) (tags: rationality)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
