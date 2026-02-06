@@ -18,3 +18,9 @@ Get some earplugs.
 Get a water bottle and keep it close to yoursef at all times.  
 Try cold showers.  
 Try preparing your meals in advance.  
+Try always using subtitles.  
+Add a footrest under your desk.  
+Adjust the height of your monitor.  
+Try noise-cancelling headphones. 
+Experiment with browser extensions.  
+Use the custom search engine feature.  
