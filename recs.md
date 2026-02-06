@@ -90,6 +90,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Exhalation.](https://www.lightspeedmagazine.com/fiction/exhalation/) (tags: philosophy)  
 [Common tech jobs described as cabals of Mesoamerican wizards.](https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals) (tags: fun, programming)  
 [MMAcevedo.](https://qntm.org/mmacevedo) (tags: philosophy, cw)  
+[Chaser 6.](https://alicorn.elcenia.com/stories/chaser6.shtml) (tags: philosophy, society)  
 
 ##### Larger repositories.  
 [Strasbourg Observers.](https://strasbourgobservers.com) (tags: law)  
