@@ -19,13 +19,13 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Thing of Things.](https://thingofthings.substack.com/archive?sort=top) (tags: rationality, trans)  
 [Andrea Long Chu author archive.](https://www.vulture.com/author/andrea-long-chu/) (tags: feminism, trans)  
 [Alexander Wales.](https://alexanderwales.tumblr.com/) (tags: rationality, philosophy, literature)  
+[Matt Levine.](https://archive.is/20260205202207/https://www.bloomberg.com/authors/ARbTQlRLRjE/matthew-s-levine) (tags: economics)  
 
 ##### Sites about social issues of importance to us.  
 [Talia Bhatt.](https://taliabhattwrites.substack.com/) (tags: trans, feminism | endorsed)  
 [The Trans Dandy.](https://thetransdandy.substack.com/) (tags: trans, feminism)  
 [Hammer or Anvil.](https://harpies.substack.com/) (tags: trans, feminism)  
 [Trans Care 101.](https://transcare101.substack.com/) (tags: trans, feminism, medicine)  
-[Abortion, Every Day.](https://jessica.substack.com/) (tags: trans, feminism)  
 [dessalines.](https://dessalines.github.io/essays/) (tags: communism)  
 
 ##### Nonfiction, short form.  
