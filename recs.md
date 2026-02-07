@@ -90,6 +90,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Growth of photovoltaics.](https://en.wikipedia.org/wiki/Growth_of_photovoltaics) Also see [solar power by country.](https://en.wikipedia.org/wiki/Solar_power_by_country) (tags: industry | surprising)  
 [The story of VaccinateCA.](https://worksinprogress.co/issue/the-story-of-vaccinateca/) (tags: medicine)  
 [Comphetitive transwomanhood.](https://agepachristie.substack.com/p/comphetative-transwomanhood) (tags: trans, feminism, medicine | cw)  
+[They/them pronouns & conflicting access needs.](https://substack.com/@jessothomson/p-154368110) (tags: society, trans | influential)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
@@ -158,7 +159,6 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [bitwarden.](https://bitwarden.com/) It's a password manager.  
 [Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine | endorsed, influential)  
 
-
 #### The tagging system. 
 Tags are descriptive, not exhaustive. The absence of a tag does not imply the absence of relevant content, just that we didn't consider such content central. 
 
@@ -167,9 +167,10 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'disputed' is content we actively disapprove of in some way, but still consider to have valuable points.  
 'disputed-author' has an author we actively disapprove of in some ways, independent of the value of the content.  
 'speculative' is applied to content that doesn't have particularly strong evidentiary backing, but we think is neat nevertheless.  
+'identifying-problem' is applied to content that identifies a problem without proposing a concrete solution. (This is still potentially very valuable.)  
 
 'programming' concerns anything to do with hardware, software, or the ways they're used in the real world.  
-'society' concerns content that relates to how humans act in groups. (Occasionally, an article obtains  this tag through the behaviour of the author.)   
+'society' concerns content that relates to how humans act in groups.  
 'economics' talks about how value flows through large systems.   
 'law' concerns legal matters.   
 'medicine' is applied to things to do with health.   
@@ -201,3 +202,8 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'nsfw' contains sexual content.  
 
 Some tags disambiguate the form a piece of content takes -- e.g. 'album,' 'channel.' These are untracked here. 
+
+Potential tags: 
+identifying-problem
+observation
+policy-proposal
