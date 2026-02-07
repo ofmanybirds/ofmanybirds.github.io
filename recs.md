@@ -131,6 +131,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Everything new in Stockfish 18.](https://www.youtube.com/watch?v=lBpQvu20nj0) (tags: programming | surprising)  
 [A guide to consent.](https://www.youtube.com/watch?v=emfqzme8Z0Q) (tags: society)  
 [Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8) (tags: security | influential)  
+[Beating every possible game of Pokemon Platinum at the same time.](https://www.youtube.com/watch?v=jNMWkD5VsZ8) (tags: fun, programming | surprising)  
 
 ##### Games.    
 [Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/) (tags: puzzle)  
