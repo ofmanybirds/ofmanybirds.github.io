@@ -92,6 +92,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Comphetitive transwomanhood.](https://agepachristie.substack.com/p/comphetative-transwomanhood) (tags: trans, feminism, medicine | cw)  
 [They/them pronouns & conflicting access needs.](https://substack.com/@jessothomson/p-154368110) (tags: society, trans)  
 [The man who saved a billion lives.](https://justinkuiper.substack.com/p/the-man-who-saved-a-billion-lives) (tags: industry)  
+[How to win at board games as a novice.](https://inchpin.substack.com/p/board-game-strategy) (tags: competition, fun)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
