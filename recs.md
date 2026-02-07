@@ -93,6 +93,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [They/them pronouns & conflicting access needs.](https://substack.com/@jessothomson/p-154368110) (tags: society, trans)  
 [The man who saved a billion lives.](https://justinkuiper.substack.com/p/the-man-who-saved-a-billion-lives) (tags: industry)  
 [How to win at board games as a novice.](https://inchpin.substack.com/p/board-game-strategy) (tags: competition, fun)  
+[Why milk costs $9 per gallon in Hawaii.](https://justinkuiper.substack.com/p/why-milk-costs-9gallion-in-hawaii) (tags: law, US)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
