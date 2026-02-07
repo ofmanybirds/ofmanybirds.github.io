@@ -88,7 +88,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Some prelimiary notes towards a real cost-benefit analysis of prisons.](https://philosophybear.substack.com/p/some-preliminary-notes-towards-a) (tags: economics, academia)  
 [Most of what you read on the internet is written by insane people.](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/) (tags: society)  
 [Growth of photovoltaics.](https://en.wikipedia.org/wiki/Growth_of_photovoltaics) Also see [solar power by country.](https://en.wikipedia.org/wiki/Solar_power_by_country) (tags: industry | surprising)  
-[The story of VaccinateCA.](https://worksinprogress.co/issue/the-story-of-vaccinateca/) (tags: medicine)  
+[The story of VaccinateCA.](https://worksinprogress.co/issue/the-story-of-vaccinateca/) (tags: medicine, industry, US)  
 [Comphetitive transwomanhood.](https://agepachristie.substack.com/p/comphetative-transwomanhood) (tags: trans, feminism, medicine | cw)  
 [They/them pronouns & conflicting access needs.](https://substack.com/@jessothomson/p-154368110) (tags: society, trans)  
 [The man who saved a billion lives.](https://justinkuiper.substack.com/p/the-man-who-saved-a-billion-lives) (tags: industry)  
