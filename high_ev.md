@@ -25,3 +25,4 @@ Try noise-cancelling headphones.
 Experiment with browser extensions.  
 Use the custom search engine feature.  
 Try watching or listening to things at higher speeds.  
+Keep a few doses of your meds in your wallet or similar.  
