@@ -151,9 +151,9 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Sgt. Pepper's Lonely Hearts Club Band.](https://www.youtube.com/watch?v=Fh3Hpx9YfJ4) (tags: album)  
 
 ##### Poetry.  
-[If I Told Him, A Completed Portrait of Picasso.](https://www.poetryfoundation.org/poems/55215/if-i-told-him-a-completed-portrait-of-picasso) (tags: fun)
-[Fire and Ice.](https://www.poetryfoundation.org/poems/44263/fire-and-ice) 
-[seventh heaven.](https://www.poetryfoundation.org/poems/50433/seventh-heaven-56d22d8ceae8b)  
+[If I Told Him, A Completed Portrait of Picasso.](https://www.poetryfoundation.org/poems/55215/if-i-told-him-a-completed-portrait-of-picasso) (tags: fun)    
+[Fire and Ice.](https://www.poetryfoundation.org/poems/44263/fire-and-ice)   
+[seventh heaven.](https://www.poetryfoundation.org/poems/50433/seventh-heaven-56d22d8ceae8b)   
 
 ##### Tools.   
 [Paywall remover.](https://www.removepaywall.com/) (tags: piracy)  
@@ -163,6 +163,8 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [uBlock Origin.](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/) (tags: browser-extension)  
 [bitwarden.](https://bitwarden.com/) It's a password manager.  
 [Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine | endorsed, influential)  
+[Wiktionary.](https://www.wiktionary.org/)  
+[Wikipedia.](https://en.wikipedia.org/wiki/Main_Page)  
 
 #### The tagging system. 
 Tags are descriptive, not exhaustive. The absence of a tag does not imply the absence of relevant content, just that we didn't consider such content central. 
