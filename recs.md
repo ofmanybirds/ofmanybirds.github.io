@@ -165,6 +165,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine | endorsed, influential)  
 [Wiktionary.](https://www.wiktionary.org/)  
 [Wikipedia.](https://en.wikipedia.org/wiki/Main_Page)  
+[Anydice.](https://anydice.com/) It's a very good way to figure out what you're doing when rolling dice.  
 
 #### The tagging system. 
 Tags are descriptive, not exhaustive. The absence of a tag does not imply the absence of relevant content, just that we didn't consider such content central. 
