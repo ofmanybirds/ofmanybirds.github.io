@@ -33,7 +33,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [The security mindset.](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html) (tags: security)  
 [A mathematician's lament.](worrydream.com/refs/Lockhart_2002_-_A_Mathematician's_Lament.pdf) (tags: mathematics, society)  
 [Credit card debt collection.](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/) (tags: economics)  
-[Things you're allowed to do.](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) Often, you're not considering all of your options. We found this after we started making [our own list.](high_ev.md).  
+[Things you're allowed to do.](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) Often, you're not considering all of your options. We found this after we started making [our own list.](high_ev.md)  
 [Twelve recursive explanations.](https://www.spencergreenberg.com/2021/03/twelve-recursive-explanations/) (tags: fun)  
 [No one cared about my spreadsheets.](https://www.econlib.org/no-one-cared-about-my-spreadsheets/) (tags: society, economics)  
 [List of common misconceptions.](https://en.wikipedia.org/wiki/List_of_common_misconceptions) (tags: history, science)  
