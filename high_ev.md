@@ -29,6 +29,7 @@ Keep a few doses of your meds in your wallet or similar.
 Tape over annoying LED lights.  
 
 Related lists. Things you're allowed to do is our favourite out of these.   
+[Barbell strategies.](https://web.archive.org/web/20220309155302/https://dwarkeshpatel.com/barbell-strategies/)  
 [Things you're allowed to do.](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)  
 [How to trade money and time.](https://meteuphoric.com/2014/03/25/how-to-trade-money-and-time/)  
 Sam Bowman's [things I recommend you buy and use, third edition.](https://www.sambowman.co/p/things-i-recommend-you-buy-and-use)  
