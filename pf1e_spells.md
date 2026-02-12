@@ -41,6 +41,9 @@ Eighth-level spell slot, sixth-level for summoner. 10 person-days per level squa
 The lesser variation is either seventh-level or fifth-level. If initiated with a normal casting, 3 person-days per level squared.  
 The greater variation can double speed of production with a single casting and otherwise produces 20 person-days per level squared. 
 
+[Mage's Magnificent Mansion.](https://www.d20pfsrd.com/magic/all-spells/m/mage-s-magnificent-mansion/) Sorcerer/wizard. 
+Seventh-level spell slot, 9 courses to 12 person-days per caster level. Up to 108 person-days per caster level, depends on interpretation.  
+
 For gaining information. 
 
 [Create Treasure Map.](https://www.d20pfsrd.com/magic/all-spells/c/create-treasure-map/) Bard, druid, psychic, ranger, sorcerer/wizard. 100gp.  
