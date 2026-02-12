@@ -55,8 +55,8 @@ Third-level for wizard, second-level for the others. For making stuff like Creat
 [Abadar's Truthelling.](https://aonprd.com/SpellDisplay.aspx?ItemName=Abadar%27s%20Truthtelling) Cleric, inquisitor, oracle, paladin, warpriest.  
 First-level spell slot, compel anyone to tell the truth. Except it has a visual effect, so you can see if someone failed the spell.  
 
-[Akashic Communion.](https://aonprd.com/SpellDisplay.aspx?ItemName=Akashic%20Communion) 100gp for non-divine casters. 
-Third-level or fourth-level. +10 insight bonus to up to 1 Knowledge check per three caster levels, always treated as trained.  
+[Akashic Communion.](https://aonprd.com/SpellDisplay.aspx?ItemName=Akashic%20Communion) arcanist 4, bard 3, medium 3, mesmerist 4, occultist 3, psychic 3, shaman 3, skald 3, sorcerer 4, spiritualist 4, witch 3, wizard 4. 100gp for non-divine casters. 
++10 insight bonus to up to 1 Knowledge check per three caster levels, always treated as trained.  
 
 [Ancestral Communion.](https://aonprd.com/SpellDisplay.aspx?ItemName=Ancestral%20Communion) bard 2, cleric 2, oracle 2, skald 2, warpriest 2.
 +4 to +8 insight, depending on level, on up to 10 Knowledge checks per level. 
