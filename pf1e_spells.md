@@ -27,7 +27,7 @@ Second-level spell slot, 1 person-day per caster level.
 [Bountiful Banquet.](https://www.d20pfsrd.com/magic/all-spells/b/bountiful-banquet/) Bard, cleric, druid, shaman.  
 Fourth-level spell slot, 2 person-day per caster level. But it mentions four courses, so potentially more than that in practice.  
 
-[Dream Feast.](https://www.d20pfsrd.com/magic/all-spells/d/dream-feast/) Cleric/oracle, druid, ranger, shaman. 
+[Dream Feast.](https://www.d20pfsrd.com/magic/all-spells/d/dream-feast/) Cleric/oracle, druid, ranger, shaman.   
 First-level spell slot, 1 person-day. Notable for being a way for casters to trade off one first-level spell slot for never having to eat again. Better than Abstemiousness in most situations.  
 
 [Alpha Instinct.](https://www.d20pfsrd.com/magic/all-spells/a/alpha-instinct/) Bard, druid, medium, mesmerist, ranger, shaman.  
@@ -41,7 +41,7 @@ Eighth-level spell slot, sixth-level for summoner. 10 person-days per level squa
 The lesser variation is either seventh-level or fifth-level. If initiated with a normal casting, 3 person-days per level squared.  
 The greater variation can double speed of production with a single casting and otherwise produces 20 person-days per level squared. 
 
-[Mage's Magnificent Mansion.](https://www.d20pfsrd.com/magic/all-spells/m/mage-s-magnificent-mansion/) Sorcerer/wizard. 
+[Mage's Magnificent Mansion.](https://www.d20pfsrd.com/magic/all-spells/m/mage-s-magnificent-mansion/) Sorcerer/wizard.   
 Seventh-level spell slot, 9 courses to 12 person-days per caster level. Up to 108 person-days per caster level, depends on interpretation.  
 
 For gaining information. 
@@ -66,6 +66,9 @@ Learn weal/woe/weal and woe/nothing about the next half-hour. Can't be retried b
 
 [Blood Biography.](https://aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Biography) arcanist 3, bard 2, bloodrager 3, cleric 3, inquisitor 3, medium 2, occultist 2, oracle 3, psychic 3, skald 2, sorcerer 3, warpriest 3, wizard 3. 
 Identify anyone from a drop of blood. They only get a save if they're still alive or undead. Also tells you how the blood was shed.  
+
+[Speak with Dead.](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-dead/) cleric/oracle 3, inquisitor 3, medium 2, psychic 3, shaman 3, spiritualist 3, witch 3.  
+One question per two caster levels, guarantee of truthfullness if they're the exact same alignment.  
 
 
 
