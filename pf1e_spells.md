@@ -51,3 +51,22 @@ Third-level for druid, second-level for the others. Requires a dead creature, bu
 
 [Gentle Repose.](https://www.d20pfsrd.com/magic/all-spells/g/gentle-repose) Cleric/oracle, shaman, sorcerer/wizard, witch. 
 Third-level for wizard, second-level for the others. For making stuff like Create Treasure Map more useful.  
+
+[Abadar's Truthelling.](https://aonprd.com/SpellDisplay.aspx?ItemName=Abadar%27s%20Truthtelling) Cleric, inquisitor, oracle, paladin, warpriest.  
+First-level spell slot, compel anyone to tell the truth. Except it has a visual effect, so you can see if someone failed the spell.  
+
+[Akashic Communion.](https://aonprd.com/SpellDisplay.aspx?ItemName=Akashic%20Communion) 100gp for non-divine casters. 
+Third-level or fourth-level. +10 insight bonus to up to 1 Knowledge check per three caster levels, always treated as trained.  
+
+[Ancestral Communion.](https://aonprd.com/SpellDisplay.aspx?ItemName=Ancestral%20Communion) bard 2, cleric 2, oracle 2, skald 2, warpriest 2.
++4 to +8 insight, depending on level, on up to 10 Knowledge checks per level. 
+
+[Augury.](https://aonprd.com/SpellDisplay.aspx?ItemName=Augury) cleric 2, medium 2, occultist 2, oracle 2, psychic 2, sahirafiyun 2, shaman 2, spiritualist 2, warpriest 2, witch 2.
+Learn weal/woe/weal and woe/nothing about the next half-hour. Can't be retried by the same caster.  
+
+[Blood Biography.](https://aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Biography) arcanist 3, bard 2, bloodrager 3, cleric 3, inquisitor 3, medium 2, occultist 2, oracle 3, psychic 3, skald 2, sorcerer 3, warpriest 3, wizard 3. 
+Identify anyone from a drop of blood. They only get a save if they're still alive or undead. Also tells you how the blood was shed.  
+
+
+
+For boosting skill checks.  
