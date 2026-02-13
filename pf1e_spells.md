@@ -101,4 +101,23 @@ Identify anyone from a drop of blood. They only get a save if they're still aliv
 Cleric/oracle 3, inquisitor 3, medium 2, psychic 3, shaman 3, spiritualist 3, witch 3.  
 One question per two caster levels, guarantees truthfullness if they're the exact same alignment you are. (So only prefer this in cases where alignment is certain.)  
 
+[Commune.](https://aonprd.com/SpellDisplay.aspx?ItemName=Commune)  
+Adept 5, cleric 5, inquisitor 5, occultist 5, oracle 5, shaman 5, warpriest 5. 500gp.   
+Ask yes/no questions of your deity. Extraordinarily powerful. See [here](https://glowfic.com/posts/25222) for an in-universe explanation of how to best use it, though it's not like you *need* to learn Huffman coding to do it.  
+
+[Commune with Birds.](https://aonprd.com/SpellDisplay.aspx?ItemName=Commune%20with%20Birds)    
+Arcanist 2, bard 2, druid 1, hunter 1, mesmerist 2, psychic 2, ranger 1, shaman 2, skald 2, sorcerer 2, witch 2, wizard 2 (tengu).  
+Learn anything that a bird within a mile of you would know. Very good if you need to know something and there's birds in the area, which there usually are.  
+
+[Commune with Nature.](https://aonprd.com/SpellDisplay.aspx?ItemName=Commune%20with%20Nature)   
+Druid 5, hunter 4, psychic 5, ranger 4, shaman 5.  
+Learn a lot of things in a very, very large area. Signs of the Land is a third-level variation that doesn't give the most useful bits of information, but can still be very convenient.   
+
+[Commune with Plane.](https://aonprd.com/SpellDisplay.aspx?ItemName=Commune%20with%20Plane)  
+Cleric 5, hunter 4, oracle 5, psychic 5, ranger 4, summoner 5, summoner (unchained) 5, warpriest 5, witch 5.  
+
+
+
+
+
 ##### For boosting skill checks.  
