@@ -16,5 +16,6 @@ Singing.
 
 ##### Things we enjoy:   
 Magic: the Gathering.  
+TTRPGs, and thinking abot TTRPGs.  
 Reading.  
 Communicating with people.  
