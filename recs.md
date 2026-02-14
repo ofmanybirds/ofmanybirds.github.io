@@ -107,7 +107,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Common tech jobs described as cabals of Mesoamerican wizards.](https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals) (tags: fun, programming)  
 [MMAcevedo.](https://qntm.org/mmacevedo) (tags: philosophy | cw)  
 [Chaser 6.](https://alicorn.elcenia.com/stories/chaser6.shtml) (tags: philosophy, society)  
-[Game review: Rabbit Simulator.](https://alexanderwales.tumblr.com/post/790086547161645056/game-review-rabbit-simulator)
+[Game review: Rabbit Simulator.](https://alexanderwales.tumblr.com/post/790086547161645056/game-review-rabbit-simulator) (tags: cw)  
 
 ##### Larger repositories.  
 [Strasbourg Observers.](https://strasbourgobservers.com) (tags: law)  
@@ -180,7 +180,7 @@ Tags are descriptive, not exhaustive. The absence of a tag does not imply the ab
 'identifying-problem' is applied to content that identifies a problem without proposing a concrete solution. (This is still potentially very valuable.)  
 
 'programming' concerns anything to do with hardware, software, or the ways they're used in the real world.  
-'society' concerns content that relates to how humans act in groups.  
+'society' concerns content that relates to how humans act in groups. It can also be about social interaction, and how to handle that well -- content that aims to inform the audience about how to interact with other people by necessity makes specific assumptions, and this says things about the environment the writer is in.  
 'economics' talks about how value flows through large systems.   
 'law' concerns legal matters.   
 'medicine' is applied to things to do with health.   
