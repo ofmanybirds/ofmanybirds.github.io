@@ -189,7 +189,7 @@ Alchemist 1, arcanist 1, bard 1, investigator 1, magus 1, medium 1, psychic 1, s
 Insight bonus equal to 1/2 caster level on a single skill check.  
 
 [Adoration.](https://aonprd.com/SpellDisplay.aspx?ItemName=Adoration)  
-Arcanist 2, bard 1, mesmerist 1, psychic 2, skald 1, sorcerer 2, witch 2, wizard 2. 
+Arcanist 2, bard 1, mesmerist 1, psychic 2, skald 1, sorcerer 2, witch 2, wizard 2.   
 +2 morale on Diplomacy checks made to influence creatures.  
 
 [Seducer's Eyes.](https://aonprd.com/SpellDisplay.aspx?ItemName=Seducer%27s%20Eyes)  
@@ -204,8 +204,8 @@ Alchemist 2, arcanist 2, bard 2, investigator 2, medium 2, psychic 2, redmantisa
 Arcanist 2, bard 2, cleric 3, inquisitor 2, medium 2, mesmerist 2, oracle 3, psychic 2, skald 2, sorcerer 2, warpriest 3, witch 2, wizard 2 (human).  
 +2 to +6 insight, and you get to reroll and take the higher roll once. Hire someone else to use it on you if you want to be considered trained -- some cleric will have ranks in whatever skil it is you need. Otherwise, you can just cast this on yourself.  
 
-[Cleromancy.](https://aonprd.com/SpellDisplay.aspx?ItemName=Cleromancy)  
-Arcanist 3, cleric 2, druid 3, hunter 3, inquisitor 3, oracle 2, sorcerer 3, warpriest 2, wizard 3
+[Cleromancy.](https://aonprd.com/SpellDisplay.aspx?ItemName=Cleromancy)   
+Arcanist 3, cleric 2, druid 3, hunter 3, inquisitor 3, oracle 2, sorcerer 3, warpriest 2, wizard 3.   
 Up to +4 luck to any d20 roll. A bit clunky to use, the duration is quite low.  
 
 [Heroism.](https://aonprd.com/SpellDisplay.aspx?ItemName=Heroism)  
