@@ -114,6 +114,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Strasbourg Observers.](https://strasbourgobservers.com) (tags: law)  
 [Verfassungsblog.](https://verfassungsblog.de) (tags: law)  
 [Hacker News.](https://news.ycombinator.com/news) (tags: programming)  
+[Falsehoods programmers believe.](https://github.com/kdeldycke/awesome-falsehood) Turns out, there's a lot of them. (tags: fun, programming, society)  
 
 ##### Fanfiction.  
 [Pokemon: The Origin of Species.](https://daystareld.com/pokemon/1) (tags: rationality)  
