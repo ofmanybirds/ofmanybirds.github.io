@@ -91,7 +91,7 @@ Cleric 2, druid 1, hunter 1, medium 1, oracle 2, psychic 1, ranger 1, warpriest 
 +4 insight to Knowledge checks depending on terrain. 
 
 [Page-Bound Epiphany.](https://aonprd.com/SpellDisplay.aspx?ItemName=Page-Bound%20Epiphany)  
-Arcanist 2, bard 2, cleric 2, magus 2, oracle 2, skald 2, sorcerer 2, warpriest 2, wizard 2. 
+Arcanist 2, bard 2, cleric 2, magus 2, oracle 2, skald 2, sorcerer 2, warpriest 2, wizard 2.    
 +1 circumstance to a Knowledge check per caster level, up to 10. 
 
 [Commune with Birds.](https://aonprd.com/SpellDisplay.aspx?ItemName=Commune%20with%20Birds)    
@@ -123,7 +123,7 @@ Cleric/oracle 2, shaman 2, sorcerer/wizard 3, witch 2.
 For making stuff like Create Treasure Map more useful.  
 
 [Blood Biography.](https://aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Biography)  
-Arcanist 3, bard 2, bloodrager 3, cleric 3, inquisitor 3, medium 2, occultist 2, oracle 3, psychic 3, skald 2, sorcerer 3, warpriest 3, wizard 3. 
+Arcanist 3, bard 2, bloodrager 3, cleric 3, inquisitor 3, medium 2, occultist 2, oracle 3, psychic 3, skald 2, sorcerer 3, warpriest 3, wizard 3.   
 Identify anyone from a drop of blood. They only get a save if they're still alive or undead. Also tells you how the blood was shed.  
 
 [Speak with Dead.](https://www.d20pfsrd.com/magic/all-spells/s/speak-with-dead/)  
@@ -216,8 +216,8 @@ Alchemist 3, arcanist 3, bard 2, bloodrager 3, inquisitor 3, investigator 3, med
 Arcanist 3, cleric 3, oracle 3, sorcerer 3, warpriest 3, witch 3, wizard 3.  
 +2 competence to skill checks.  
 
-[Deadly Juggernaut.](https://aonprd.com/SpellDisplay.aspx?ItemName=Deadly%20Juggernaut)  
-Antipaladin 3, cleric 3, inquisitor 3, oracle 3, paladin 3, warpriest 3.
+[Deadly Juggernaut.](https://aonprd.com/SpellDisplay.aspx?ItemName=Deadly%20Juggernaut)   
+Antipaladin 3, cleric 3, inquisitor 3, oracle 3, paladin 3, warpriest 3.     
 +5 luck to Strength-based skill checks, but has some really inconvenient setup.  
 
 [Planned Assault.](https://aonprd.com/SpellDisplay.aspx?ItemName=Planned%20Assault)  
@@ -232,9 +232,14 @@ Penalties from emotion effects are instead treated as morale bonuses equal to ha
 
 Knowledge: 
 At 1st level, +1 competence from Guidance, up to +10 insight for specific types with Know the Enemy or Whispering Lore, potentially a +2 competence from Heightened Awareness.   
-At 3rd level, Ancestral Communion for +4 insight, +3 circumstnace from Page-Bound Epiphany, +4 luck from Cleromancy. +11 total.   
+At 3rd level, Ancestral Communion for +4 insight, +3 circumstance from Page-Bound Epiphany, +4 luck from Cleromancy. +11 total.   
 At 5th level, Akashic Communion for +10 insight, +2 competence from Heightened Awareness, +5 circumstance from Page-Bound Epiphany, +2 sacred from Planned Assault, +4 luck from Cleromancy, +2 Intelligence from Fox's Cunning,   +23 total. Potentially Heroism and Moment of Greatness, for +27 total.   
 At 7th level, Akashic Communion for +10 insight, +2 competence from Heightened Awareness, +7 circumstance from Page-Bound Epiphany, +2 sacred from Planned Assault, +4 luck from Cleromancy,  +2 Intelligence from Fox's Cunning, +4 from Heroism and Moment of Greatness, for +29 total.  
-You can also add some rerolls, just in case. It should be rare that you use all of these at once, but it's good to be aware of the fact that you have the option.  
+You can also add some rerolls, just in case. It should be rare that you use all of these at once, but it's good to be aware of the fact that you have the option.        
+  
+There's also the bare, cleric-only variation.   
+At 1st, unchanged.   
+At 3rd, unchanged.  
+At 5th, +3 insight from Bestow Insight, +1 reroll from the same spell, +5 circumstance from Page-Bound Epiphany, +4 luck from Cleromancy, +2 sacred from Planned Assault, and +2 competence from Heightened Awareness, for +16 total. Considering any cleric who knows those spells exist can just spend a day doing this, it's really quite impressive!  
 
 
