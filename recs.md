@@ -94,6 +94,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Claude Code makes several thousand dollars in 30 minutes.](https://www.complexsystemspodcast.com/episodes/claude-code/) (tags: programming, industry)  
 [Kids are sick, a lot.](https://gwern.net/blog/2024/sick-kids) We try not to forget just how shitty being a child is. We had somehow forgotten about this aspect of that whole situation. (tags: medicine, society)  
 [Excerpt from “Ending Medical Reversal."](https://graphics8.nytimes.com/packages/pdf/science/Ending_Med_Rev_Chap_1.pdf) (tags: medical | surprising)  
+[Is this my character's fault?](https://springhole.net/writing/is-my-character-at-fault.htm) (tags: fun, society)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
