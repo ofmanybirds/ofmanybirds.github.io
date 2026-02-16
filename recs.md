@@ -25,6 +25,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Hammer or Anvil.](https://harpies.substack.com/) (tags: trans, feminism)  
 [Trans Care 101.](https://transcare101.substack.com/) (tags: trans, feminism, medicine)  
 [dessalines.](https://dessalines.github.io/essays/) (tags: communism)  
+[Ben Kuhn.](https://www.benkuhn.net/) (tags: programming, rationality)  
 
 ##### Nonfiction, short form.  
 [Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring) (tags: society, economics, rationality)  
@@ -96,6 +97,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Excerpt from “Ending Medical Reversal."](https://graphics8.nytimes.com/packages/pdf/science/Ending_Med_Rev_Chap_1.pdf) (tags: medical | surprising)  
 [Is this my character's fault?](https://springhole.net/writing/is-my-character-at-fault.htm) (tags: fun, society)  
 [One of my favorite game design tricks.](mixups.png) (tags: fun, competition)  
+[Be impatient.](https://www.benkuhn.net/impatient/) (tags: productivity)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
