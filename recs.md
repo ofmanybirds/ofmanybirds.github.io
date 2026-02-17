@@ -100,6 +100,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Be impatient.](https://www.benkuhn.net/impatient/) (tags: productivity)  
 [Some examples of people quickly accomplishing ambitious things together.](https://patrickcollison.com/fast) (tags: industry | surprising)  
 [Internet search tips.](https://gwern.net/search) (tags: productivity | influential)  
+[Firefox keyboard shortcuts.](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly#) (tags: productivity)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
