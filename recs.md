@@ -99,6 +99,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [One of my favorite game design tricks.](mixups.png) (tags: fun, competition)  
 [Be impatient.](https://www.benkuhn.net/impatient/) (tags: productivity)  
 [Some examples of people quickly accomplishing ambitious things together.](https://patrickcollison.com/fast) (tags: industry | surprising)  
+[Internet search tips.](https://gwern.net/search) (tags: productivity | influential)  
 
 ##### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
