@@ -171,6 +171,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Tree-style tab.](https://addons.mozilla.org/en-GB/firefox/addon/tree-style-tab/) (tags: browser-extension)  
 [uBlock Origin.](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/) (tags: browser-extension)  
 [ClearURLs.](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) (tags: browser-extension)  
+[Contextual Wiktionary.](https://addons.mozilla.org/en-GB/firefox/addon/opendictionary/) (tags: browser-extension)  
 [bitwarden.](https://bitwarden.com/) It's a password manager.  
 [Transfeminine Science](https://transfemscience.org/), for a better understanding of DIY HRT. See also [HRT Cafe](https://hrtcafe.net/) and the stuff linked to there. Note: DIY HRT is very cheap, low-risk, effective, and has no permanent effects if tried short-term. (tags: trans, medicine | endorsed, influential)  
 [Wiktionary.](https://www.wiktionary.org/)  
