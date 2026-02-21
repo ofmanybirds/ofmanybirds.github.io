@@ -115,6 +115,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [MMAcevedo.](https://qntm.org/mmacevedo) (tags: philosophy | cw)  
 [Chaser 6.](https://alicorn.elcenia.com/stories/chaser6.shtml) (tags: philosophy, society)  
 [Game review: Rabbit Simulator.](https://alexanderwales.tumblr.com/post/790086547161645056/game-review-rabbit-simulator) (tags: cw)  
+[Through The Flash.](https://archive.org/details/through-the-flash-by-nana-kwame-adjei-brenyah/mode/2up) (tags: cw)  
 
 ##### Larger repositories.  
 [Strasbourg Observers.](https://strasbourgobservers.com) (tags: law)  
