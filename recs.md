@@ -121,12 +121,16 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Verfassungsblog.](https://verfassungsblog.de) (tags: law)  
 [Hacker News.](https://news.ycombinator.com/news) (tags: programming)  
 [Falsehoods programmers believe.](https://github.com/kdeldycke/awesome-falsehood) Turns out, there's a lot of them. (tags: fun, programming, society)  
+[Archive of Our Own.](https://archiveofourown.org/) Mainly fanfiction.  
+[Royal Road.](https://www.royalroad.com/home) Mainly original fiction.  
 
 ##### Fanfiction.  
 [Pokemon: The Origin of Species.](https://daystareld.com/pokemon/1) (tags: rationality)  
 [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man) (tags: rationality)  
 [A Common Sense Guide to Doing the Most Good.](https://archiveofourown.org/works/30351690) (tags: rationality, altruism)  
 [17 last words from Hunger Games tributes that are STILL echoing in our heads. Yes, still.](https://archiveofourown.org/works/60813430) (tags: society | cw)  
+[The Good War.](https://archiveofourown.org/works/23747950/chapters/57035011)  
+[Changeling in Exile.](https://archive.transformativeworks.org/works/39184896/chapters/98039529)  
 
 ##### Video.  
 [Tom7.](https://www.youtube.com/@tom7) (tags: channel | fun, programming)  
