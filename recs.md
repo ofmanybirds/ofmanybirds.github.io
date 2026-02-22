@@ -184,6 +184,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Wikipedia.](https://en.wikipedia.org/wiki/Main_Page)  
 [AnyDice.](https://anydice.com/) It's a very good way to figure out what you're doing when rolling dice.  
 [OEIS.](https://oeis.org/) (tags: mathematics)  
+[Vencord.](https://vencord.dev/) If you use Discord, you should also use this.  
 
 #### The tagging system. 
 Tags are descriptive, not exhaustive. The absence of a tag does not imply the absence of relevant content, just that we didn't consider such content central. 
