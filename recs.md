@@ -1,4 +1,4 @@
-A non-specific list of things we happen to find interesting. These are not endorsements -- the criterion for inclusion is "contained at least one thing we found interesting," which is not that difficult to meet. The entries tagged as endorsed are an exception.  
+A non-specific list of things we happen to find interesting. These are not endorsements unless the entry is specifically tagged as an endorsement.  
 
 ##### Charities. 
 I'm only putting the most efficient ones I'm familiar with here. Some charities are simply more effective than others, and if you're donating, it's orders of magnitude better to donate to the good ones.  
@@ -130,7 +130,6 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Pokemon: The Origin of Species.](https://daystareld.com/pokemon/1) (tags: rationality)  
 [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man) (tags: rationality)  
 [A Common Sense Guide to Doing the Most Good.](https://archiveofourown.org/works/30351690) (tags: rationality, altruism)  
-[17 last words from Hunger Games tributes that are STILL echoing in our heads. Yes, still.](https://archiveofourown.org/works/60813430) (tags: social | cw)  
 [The Good War.](https://archiveofourown.org/works/23747950/chapters/57035011)  
 [Changeling in Exile.](https://archive.transformativeworks.org/works/39184896/chapters/98039529)  
 
