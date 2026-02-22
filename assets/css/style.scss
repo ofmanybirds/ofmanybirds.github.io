@@ -3,7 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Auto dark mode */
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #0d1117;
@@ -29,19 +28,17 @@
   }
 }
 
+
 .page-header {
-  padding: 1rem 1rem;   /* default is ~5rem 1rem */
+  padding: 1rem 1rem;
+  background-image: none;   
 }
 
 .project-name {
-  margin-bottom: 0rem;
+  margin: 0;
 }
 
 .project-tagline {
-  margin-top: 0;
-}
-
-.page-header {
-  padding: 1.5rem 1rem;
-  background-size: 100% 100%;
+  margin: 0.2rem 0 0 0;
+  opacity: 0.7;
 }
