@@ -84,7 +84,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [In defense of compensated kidney donation.](https://thingofthings.substack.com/p/in-defense-of-compensated-kidney) (tags: medicine, economics | surprising)  
 [Confidence all the way up.](https://mindingourway.com/confidence-all-the-way-up/) (tags: rationality)  
 [Grayed out options.](https://thingofthings.substack.com/p/grayed-out-options) (tags: rationality)  
-[Some prelimiary notes towards a real cost-benefit analysis of prisons.](https://philosophybear.substack.com/p/some-preliminary-notes-towards-a) (tags: economics, academia)  
+[Some preliminary notes towards a real cost-benefit analysis of prisons.](https://philosophybear.substack.com/p/some-preliminary-notes-towards-a) (tags: economics, academia)  
 [Most of what you read on the internet is written by insane people.](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/) (tags: society)  
 [Growth of photovoltaics.](https://en.wikipedia.org/wiki/Growth_of_photovoltaics) Also see [solar power by country.](https://en.wikipedia.org/wiki/Solar_power_by_country) (tags: industry | surprising)  
 [Comphetitive transwomanhood.](https://agepachristie.substack.com/p/comphetative-transwomanhood) (tags: trans, feminism, medicine | cw)  
