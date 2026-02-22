@@ -30,7 +30,7 @@
 }
 
 .page-header {
-  padding: 2rem 1rem;   /* default is ~5rem 1rem */
+  padding: 1rem 1rem;   /* default is ~5rem 1rem */
 }
 
 .project-name {
@@ -39,4 +39,13 @@
 
 .project-tagline {
   margin-top: 0;
+}
+
+.project-name {
+  font-size: 2rem;   /* default is ~3.25rem */
+}
+
+.page-header {
+  padding: 1.5rem 1rem;
+  background-size: 100% 100%;
 }
