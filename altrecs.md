@@ -9,18 +9,19 @@ layout: default
   <section>
     <h2>{{ group.name | capitalize }}</h2>
     <ul>
-    {% for item in group.items %}
+    {% assign sorted_items = group.items | sort: "title" %}
+    {% for item in sorted_items %}
       <li>
         <a href="{{ item.url }}">{{ item.title }}</a>
-<small>
-  [
-  {% if item.tags and item.tags.size > 0 %}
-    {% for tag in item.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}
-  {% else %}
-    untagged
-  {% endif %}
-  ]
-</small>
+        <small>
+          [
+          {% if item.tags and item.tags.size > 0 %}
+            {% for tag in item.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+          {% else %}
+            untagged
+          {% endif %}
+          ]
+        </small>
       </li>
     {% endfor %}
     </ul>
