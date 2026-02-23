@@ -793,3 +793,12 @@
   category: "tools."
   tags: []
 
+- title: "Linux."
+  url: "https://kernel.org/"
+  category: "tools." 
+  tags: [operating-system]
+
+- title: "Linux Mint."
+  url: "https://linuxmint.com/"
+  category: "tools." 
+  tags: [operating-system]
