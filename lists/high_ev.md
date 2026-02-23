@@ -21,7 +21,7 @@ Try preparing your meals in advance.
 Try always using subtitles.  
 Add a footrest under your desk.  
 Adjust the height of your monitor.  
-Try noise-cancelling headphones. 
+Try noise-cancelling headphones.  
 Experiment with browser extensions.  
 Use the custom search engine feature.  
 Try watching or listening to things at higher speeds.  
