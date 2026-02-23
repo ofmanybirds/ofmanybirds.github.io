@@ -22,9 +22,7 @@ layout: default
   <a href="{{ item.url }}">{{ item.title }}</a>
   {% assign all_tags = item.tags.content | concat: item.tags.status | concat: item.tags.metadata %}
   {% if all_tags.size > 0 %}
-    <small>[
-      {% for tag in all_tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
-    </small>
+    <small>[{% for tag in all_tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}]</small>
   {% else %}
     <small>[untagged]</small>
   {% endif %}
