@@ -242,4 +242,8 @@ At 1st, unchanged.
 At 3rd, unchanged.  
 At 5th, +3 insight from Bestow Insight, +1 reroll from the same spell, +5 circumstance from Page-Bound Epiphany, +4 luck from Cleromancy, +2 sacred from Planned Assault, and +2 competence from Heightened Awareness, for +16 total. Considering any cleric who knows those spells exist can just spend a day doing this, it's really quite impressive!  
 
-
+Diplomacy:  
+At 1st level, +1 competence from Guidance, +2 insight from Tap Inner Beauty, for +3 total. 
+At 3rd, you get Cleromancy for +4 luck and Eagle's Splendor for +2 Charisma, for +9 total.  
+At 5th, you can add Planned Assault for +2 sacred and +11 total.  
+That's kinda it, but it still makes even completely inept clerics fairly good at Diplomancy in a pinch. And if they can get any real help, Heroism + Moment of Greatness is +4 more. Fallback Strategy is always available.   
