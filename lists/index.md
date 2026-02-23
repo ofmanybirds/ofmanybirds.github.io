@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Lists
 ---
-<h1>Lists</h1>
+
+<h1>Lists.</h1>
 
 <ul>
 {% assign list_pages = site.pages
