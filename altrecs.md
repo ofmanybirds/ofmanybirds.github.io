@@ -5,20 +5,18 @@ layout: default
 <p>A non-specific list of things we happen to find interesting. These are generally not endorsements, and the exceptions are tagged as such.</p>
 
 {% comment %}
-  Step 1: sort categories case-insensitively
+  Step 1: sort categories naturally
 {% endcomment %}
-{% assign grouped = site.data.links | group_by: "category" %}
-{% assign grouped = grouped | sort: "name" %}
+{% assign grouped = site.data.links | group_by: "category" | sort_natural: "name" %}
 
 {% for group in grouped %}
   <section>
     <h2>{{ group.name | capitalize }}</h2>
     <ul>
       {% comment %}
-        Step 2: sort items by title case-insensitively
+        Step 2: sort items naturally by title
       {% endcomment %}
-      {% assign sorted_items = group.items | sort: "title" %}
-      {% assign sorted_items = sorted_items | sort: "title" %}
+      {% assign sorted_items = group.items | sort_natural: "title" %}
       {% for item in sorted_items %}
         <li>
           <a href="{{ item.url }}">{{ item.title }}</a>
