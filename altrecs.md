@@ -4,26 +4,33 @@ layout: default
 
 <p>A non-specific list of things we happen to find interesting. These are generally not endorsements, and the exceptions are tagged as such.</p>
 
-{% assign grouped = site.data.links | group_by: "category" | sort: "name" %}
+{% comment %}
+  Step 1: sort categories case-insensitively
+{% endcomment %}
+{% assign grouped = site.data.links | group_by: "category" %}
+{% assign grouped = grouped | sort: "name" %}
+
 {% for group in grouped %}
   <section>
     <h2>{{ group.name | capitalize }}</h2>
     <ul>
-    {% assign sorted_items = group.items | sort: "title" %}
-    {% for item in sorted_items %}
-      <li>
-        <a href="{{ item.url }}">{{ item.title }}</a>
-        <small>
-          [
+      {% comment %}
+        Step 2: sort items by title case-insensitively
+      {% endcomment %}
+      {% assign sorted_items = group.items | sort: "title" %}
+      {% assign sorted_items = sorted_items | sort: "title" %}
+      {% for item in sorted_items %}
+        <li>
+          <a href="{{ item.url }}">{{ item.title }}</a>
           {% if item.tags and item.tags.size > 0 %}
-            {% for tag in item.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+            <small>[
+              {% for tag in item.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+            ]</small>
           {% else %}
-            untagged
+            <small>[untagged]</small>
           {% endif %}
-          ]
-        </small>
-      </li>
-    {% endfor %}
+        </li>
+      {% endfor %}
     </ul>
   </section>
 {% endfor %}
