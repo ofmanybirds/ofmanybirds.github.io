@@ -27,6 +27,8 @@ Use the custom search engine feature.
 Try watching or listening to things at higher speeds.  
 Keep a few doses of your meds in your wallet or similar.  
 Tape over annoying LED lights.  
+Try a different operating system.  
+Try self-medicating ADHD with caffeine.  
 
 Related lists. Things you're allowed to do is our favourite out of these.   
 [Barbell strategies.](https://web.archive.org/web/20220309155302/https://dwarkeshpatel.com/barbell-strategies/)  
