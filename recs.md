@@ -1,5 +1,5 @@
-A non-specific list of things we happen to find interesting. These are not endorsements unless the entry is specifically tagged as an endorsement.  
-a
+A non-specific list of things we happen to find interesting. These are generally not endorsements, and the exceptions are tagged as such.  
+
 #### Charities. 
 I'm only putting the most efficient ones I'm familiar with here. Some charities are simply more effective than others, and if you're donating, it's orders of magnitude better to donate to the good ones.  
 [Against Malaria Foundation.](https://www.againstmalaria.com/Default.aspx) (tags: charity, medicine | endorsed)  
