@@ -21,9 +21,9 @@ layout: default
         <li>
           <a href="{{ item.url }}">{{ item.title }}</a>
           {% if item.tags and item.tags.size > 0 %}
-            <small>[
-              {% for tag in item.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}
-            ]</small>
+            <small>
+              [{% for tag in item.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+            </small>
           {% else %}
             <small>[untagged]</small>
           {% endif %}
