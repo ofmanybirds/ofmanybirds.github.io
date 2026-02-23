@@ -58,7 +58,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Things you should never do.](https://web.archive.org/web/20260125032021/https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) (tags: programming, economics)  
 [The problem with non-philosophers.](https://web.archive.org/web/20251112055308/https://www.philosophyetc.net/2006/05/problem-with-non-philosophers.html) (tags: philosophy)   
 [List of atrocities committed by US authorities.](https://github.com/dessalines/essays/blob/main/us_atrocities.md) (tags: communism, US)   
-[Academic urban legends.](academic_urban_legends.pdf) (tags: linguistics, social, academia)  
+[Academic urban legends.](selfhost/academic_urban_legends.pdf) (tags: linguistics, social, academia)  
 [What colour are your bits?](https://ansuz.sooke.bc.ca/entry/23) (tags: programming, law)  
 [Who regulates the regulators?](https://blog.rootsofprogress.org/against-review-and-approval) (tags: law, economics, medicine, US)  
 [No, it’s not The Incentives—it’s you.](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/) (tags: academia)  
@@ -146,7 +146,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [A guide to consent.](https://www.youtube.com/watch?v=emfqzme8Z0Q) (tags: social)  
 [Tactics of physical pen testers.](https://www.youtube.com/watch?v=rnmcRTnTNC8) (tags: security | influential)  
 [Beating every possible game of Pokemon Platinum at the same time.](https://www.youtube.com/watch?v=jNMWkD5VsZ8) (tags: fun, programming | surprising)  
-[Synesthesia silliness.](jumprope.webp) A decent fraction of humanity will be able to hear this gif, which is just neat. (tags: fun | surprising)  
+[Synesthesia silliness.](selfhost/jumprope.webp) A decent fraction of humanity will be able to hear this gif, which is just neat. (tags: fun | surprising)  
 
 #### Games.    
 [Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/) (tags: puzzle)  
