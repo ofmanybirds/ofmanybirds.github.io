@@ -1,6 +1,6 @@
 A non-specific list of things we happen to find interesting. These are not endorsements unless the entry is specifically tagged as an endorsement.  
 
-##### Charities. 
+#### Charities. 
 I'm only putting the most efficient ones I'm familiar with here. Some charities are simply more effective than others, and if you're donating, it's orders of magnitude better to donate to the good ones.  
 [Against Malaria Foundation.](https://www.againstmalaria.com/Default.aspx) (tags: charity, medicine | endorsed)  
 [Malaria Consortium.](https://www.malariaconsortium.org/) (tags: charity, medicine | endorsed)  
@@ -8,7 +8,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [New Incentives.](https://www.newincentives.org/) (tags: charity, medicine | endorsed)  
 [GiveWell.](https://www.givewell.org/) Not a charity, but an independent charity evaluator. There's a couple of them. See here if you want to figure out where our claims about charity efficiency discrepancies come from. (tags: rationality | endorsed)
 
-##### Other personal sites or content repositories. 
+#### Other personal sites or content repositories. 
 [Outside the Asylum.](https://outsidetheasylum.blog/) Also see the [archived version.](https://web.archive.org/web/20260125011323/https://outsidetheasylum.blog/) (tags: mtg, security, statistics, disputed-author)  
 [Gwern.net.](https://gwern.net/index) (tags: rationality, medicine)  
 [Slate Star Codex.](https://slatestarcodex.com/) (tags: rationality | disputed-author)  
@@ -27,7 +27,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [dessalines.](https://dessalines.github.io/essays/) (tags: communism)  
 [Ben Kuhn.](https://www.benkuhn.net/) (tags: programming, rationality)  
 
-##### Nonfiction, short form.  
+#### Nonfiction, short form.  
 [Things that matter are boring.](https://benthams.substack.com/p/things-that-matter-are-boring) (tags: social, economics, rationality)  
 [Salad theory.](https://saladtheory.github.io/) (tags: fun)  
 [The honesty tax.](https://www.theargumentmag.com/p/the-honesty-tax) (tags: social, US)  
@@ -104,12 +104,12 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [A collection of dice problems.](https://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf) (tags: mathematics, fun)  
 [Ur-Fascism.](https://theanarchistlibrary.org/library/umberto-eco-ur-fascism) (tags: politics)  
 
-##### Nonfiction, long form.  
+#### Nonfiction, long form.  
 [Playing to win, David Sirlin.](https://www.sirlin.net/ptw) (tags: productivity, competition)  
 [The sequences.](https://www.readthesequences.com/) (tags: rationality | disputed-author)  
 [The story of VaccinateCA.](https://worksinprogress.co/issue/the-story-of-vaccinateca/) (tags: medicine, industry, US | surprising, influential)  
 
-##### Original fiction.  
+#### Original fiction.  
 [Unsong.](https://unsongbook.com/) (tags: fun, US | disputed-author)  
 [Exhalation.](https://www.lightspeedmagazine.com/fiction/exhalation/) (tags: philosophy)  
 [Common tech jobs described as cabals of Mesoamerican wizards.](https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals) (tags: fun, programming)  
@@ -118,7 +118,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Game review: Rabbit Simulator.](https://alexanderwales.tumblr.com/post/790086547161645056/game-review-rabbit-simulator) (tags: cw)  
 [Through The Flash.](https://archive.org/details/through-the-flash-by-nana-kwame-adjei-brenyah/mode/2up) (tags: cw)  
 
-##### Larger repositories.  
+#### Larger repositories.  
 [Strasbourg Observers.](https://strasbourgobservers.com) (tags: law)  
 [Verfassungsblog.](https://verfassungsblog.de) (tags: law)  
 [Hacker News.](https://news.ycombinator.com/news) (tags: programming)  
@@ -126,14 +126,14 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Archive of Our Own.](https://archiveofourown.org/) Mainly fanfiction.  
 [Royal Road.](https://www.royalroad.com/home) Mainly original fiction.  
 
-##### Fanfiction.  
+#### Fanfiction.  
 [Pokemon: The Origin of Species.](https://daystareld.com/pokemon/1) (tags: rationality)  
 [The Metropolitan Man.](https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man) (tags: rationality)  
 [A Common Sense Guide to Doing the Most Good.](https://archiveofourown.org/works/30351690) (tags: rationality, altruism)  
 [The Good War.](https://archiveofourown.org/works/23747950/chapters/57035011)  
 [Changeling in Exile.](https://archive.transformativeworks.org/works/39184896/chapters/98039529)  
 
-##### Video.  
+#### Video.  
 [Tom7.](https://www.youtube.com/@tom7) (tags: channel | fun, programming)  
 [DoshDoshington.](https://www.youtube.com/@DoshDoshington) (tags: channel | fun)  
 [Moon Channel.](https://www.youtube.com/@moon-channel) (tags: channel | law)  
@@ -148,29 +148,29 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Beating every possible game of Pokemon Platinum at the same time.](https://www.youtube.com/watch?v=jNMWkD5VsZ8) (tags: fun, programming | surprising)  
 [Synesthesia silliness.](jumprope.webp) A decent fraction of humanity will be able to hear this gif, which is just neat. (tags: fun | surprising)  
 
-##### Games.    
+#### Games.    
 [Baba is You.](https://store.steampowered.com/app/736260/Baba_Is_You/) (tags: puzzle)  
 [Primordialis.](https://store.steampowered.com/app/3011360/Primordialis/) (tags: roguelike)  
 [Noita.](https://store.steampowered.com/app/881100/Noita/) (tags: roguelike)  
 [Celeste.](https://store.steampowered.com/app/504230/Celeste/) (tags: platformer, trans)   
 [catfishing.net.](https://catfishing.net/) Fun little game about Wikipedia categories. 
 
-##### Interactive.  
+#### Interactive.  
 [The evolution of trust.](https://ncase.me/trust/) (tags: social, mathematics, fun)  
 [neal.fun.](https://neal.fun/) (tags: fun)   
 [monkeytype.com](https://monkeytype.com/) (tags: productivity)  
 
-##### Music.  
+#### Music.  
 [Discipline.](https://www.youtube.com/watch?v=LOBvIGBlUvc) (tags: album)  
 [The Wall.](https://www.youtube.com/watch?v=r48BLz42NuI) (tags: album)  
 [Sgt. Pepper's Lonely Hearts Club Band.](https://www.youtube.com/watch?v=Fh3Hpx9YfJ4) (tags: album)  
 
-##### Poetry.  
+#### Poetry.  
 [If I Told Him, A Completed Portrait of Picasso.](https://www.poetryfoundation.org/poems/55215/if-i-told-him-a-completed-portrait-of-picasso) (tags: fun)    
 [Fire and Ice.](https://www.poetryfoundation.org/poems/44263/fire-and-ice)   
 [seventh heaven.](https://www.poetryfoundation.org/poems/50433/seventh-heaven-56d22d8ceae8b)   
 
-##### Tools.   
+#### Tools.   
 [Paywall remover.](https://www.removepaywall.com/) (tags: piracy)  
 [Anna's Archive.](https://annas-archive.li/) (tags: piracy)  
 [SLUM.](https://open-slum.org/) (tags: piracy)   
