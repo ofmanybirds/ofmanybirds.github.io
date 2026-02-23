@@ -1,14 +1,19 @@
 ---
 layout: default
+title: Lists
 ---
+<h1>Lists</h1>
 
 <ul>
-{% assign list_pages = site.pages | where_exp: "p", "p.path contains 'lists/' and p.name != 'index.md'" %}
-{% assign sorted = list_pages | sort: "title" %}
+{% assign list_pages = site.pages
+   | where: "section", "lists"
+   | where: "list", true
+   | sort: "title" %}
 
-{% for p in sorted %}
+{% for p in list_pages %}
   <li>
-    <a href="{{ p.url }}">{{ p.title }}</a>
+    <a href="{{ p.url }}">{{ p.list_title | default: p.title }}</a>
+    {% if p.order %} (Order: {{ p.order }}){% endif %}
   </li>
 {% endfor %}
 </ul>
