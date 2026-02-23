@@ -96,7 +96,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Kids are sick, a lot.](https://gwern.net/blog/2024/sick-kids) We try not to forget just how shitty being a child is. We had somehow forgotten about this aspect of that whole situation. (tags: medicine, social)  
 [Excerpt from “Ending Medical Reversal."](https://graphics8.nytimes.com/packages/pdf/science/Ending_Med_Rev_Chap_1.pdf) (tags: medical | surprising)  
 [Is this my character's fault?](https://springhole.net/writing/is-my-character-at-fault.htm) (tags: fun, social)  
-[One of my favorite game design tricks.](mixups.png) (tags: fun, competition)  
+[One of my favorite game design tricks.](selfhost/mixups.png) (tags: fun, competition)  
 [Be impatient.](https://www.benkuhn.net/impatient/) (tags: productivity)  
 [Some examples of people quickly accomplishing ambitious things together.](https://patrickcollison.com/fast) (tags: industry | surprising)  
 [Internet search tips.](https://gwern.net/search) (tags: productivity | influential)  
