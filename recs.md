@@ -125,6 +125,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Falsehoods programmers believe.](https://github.com/kdeldycke/awesome-falsehood) Turns out, there's a lot of them. (tags: fun, programming, social)  
 [Archive of Our Own.](https://archiveofourown.org/) Mainly fanfiction.  
 [Royal Road.](https://www.royalroad.com/home) Mainly original fiction.  
+[Holotypic Occlupanid Research Group.](https://www.horg.com/horg/) (tags: fun)  
 
 #### Fanfiction.  
 [Pokemon: The Origin of Species.](https://daystareld.com/pokemon/1) (tags: rationality)  
