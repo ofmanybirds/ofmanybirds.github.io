@@ -1,6 +1,6 @@
 This list is non-exhaustive, and limited to non-sexual items by design.  
 
-##### Things we would like to get good at:  
+#### Things we would like to get good at:  
 Cooking.  
 Programming.   
 Talking about legal systems.  
@@ -14,8 +14,9 @@ Moving in ways which are efficient.
 Sharing stuff we enjoy.  
 Singing.  
 
-##### Things we enjoy:   
+#### Things we enjoy:   
 Magic: the Gathering.  
 TTRPGs, and thinking abot TTRPGs.  
 Reading.  
 Communicating with people.  
+Making this site.  
