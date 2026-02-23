@@ -18,16 +18,17 @@ layout: default
       {% endcomment %}
       {% assign sorted_items = group.items | sort_natural: "title" %}
       {% for item in sorted_items %}
-        <li>
-          <a href="{{ item.url }}">{{ item.title }}</a>
-          {% if item.tags and item.tags.size > 0 %}
-            <small>[
-              {% for tag in item.tags %}{{tag}}{% unless forloop.last %}, {% endunless %}{% endfor %}
-            ]</small>
-          {% else %}
-            <small>[untagged]</small>
-          {% endif %}
-        </li>
+<li>
+  <a href="{{ item.url }}">{{ item.title }}</a>
+  {% assign all_tags = item.tags.content | concat: item.tags.status | concat: item.tags.metadata %}
+  {% if all_tags.size > 0 %}
+    <small>[
+      {% for tag in all_tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+    </small>
+  {% else %}
+    <small>[untagged]</small>
+  {% endif %}
+</li>
       {% endfor %}
     </ul>
   </section>
