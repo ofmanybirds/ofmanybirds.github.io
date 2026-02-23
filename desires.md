@@ -1,4 +1,4 @@
-This list is non-exhaustive, and limited to non-sexual items by design.  
+This list is non-exhaustive.  
 
 #### Things we would like to get good at:  
 Cooking.  
