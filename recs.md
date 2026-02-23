@@ -14,7 +14,7 @@ I'm only putting the most efficient ones I'm familiar with here. Some charities 
 [Slate Star Codex.](https://slatestarcodex.com/) (tags: rationality | disputed-author)  
 [Astral Codex Ten.](https://www.astralcodexten.com/) (tags: rationality | disputed-author)  
 [Human Invariant.](https://www.humaninvariant.com/) (tags: rationality, economics)  
-[girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, fun, programming | disputed, cw)  
+[girl.surgery.](https://girl.surgery/) There is some stuff we find valuable here, and some we really don't. Also a fair bit of fascination. (tags: trans, fun, programming | disputed, cw, nsfw)  
 [danluu.com.](https://danluu.com/) (tags: programming, productivity)  
 [Thing of Things.](https://thingofthings.substack.com/archive?sort=top) (tags: rationality, trans)  
 [Andrea Long Chu author archive.](https://www.vulture.com/author/andrea-long-chu/) (tags: feminism, trans)  
