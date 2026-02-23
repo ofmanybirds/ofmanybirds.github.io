@@ -1,3 +1,10 @@
+---
+layout: default
+section: lists
+list: true
+list_title: Things we want.
+---
+
 This list is non-exhaustive.  
 
 #### Things we would like to get good at:  
