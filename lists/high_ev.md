@@ -1,6 +1,7 @@
 This is a list of interventions which have an extremely high expected value to cost ratio. They do this mainly by:  
 a) being really cheap to implement,  
-b) having a reasonably high impact in some lives.  
+b) having a reasonably high impact in some lives,  
+c) having minimal negative effects if they do not work.  
 
 We recommend trying any of these that seem like they have a vague chance to be helpful.  
 
