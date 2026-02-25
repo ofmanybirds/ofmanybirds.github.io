@@ -8,6 +8,11 @@
   category: "charities."
   tags: ["charity", "medicine", "endorsed"]
 
+- title: "Stanford Encyclopedia of Philosophy.]
+  url: "https://plato.stanford.edu/"
+  category: "larger repositories."
+  tags: ["philosophy"]
+
 - title: "Hellen Keller Intl."
   url: "https://helenkellerintl.org/"
   category: "charities."
