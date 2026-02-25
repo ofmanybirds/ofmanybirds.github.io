@@ -823,3 +823,8 @@
   url: "https://linuxmint.com/"
   category: "tools." 
   tags: ["operating-system"]
+  
+- title: "The Persona Selection Model."
+  url: "https://alignment.anthropic.com/2026/psm/" 
+  category: "nonfiction, short form."
+  tags: ["ai", "research"]
