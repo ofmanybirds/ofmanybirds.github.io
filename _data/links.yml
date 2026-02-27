@@ -828,3 +828,8 @@
   url: "https://alignment.anthropic.com/2026/psm/"
   category: "nonfiction, short form."
   tags: ["ai", "research"]
+
+- title: "[TAS] Pokémon Yellow - Arbitrary Code Execution." 
+  url: "https://www.youtube.com/watch?v=Vjm8P8utT5g" 
+  category: "video."
+  tags: ["surprising", "fun"]
