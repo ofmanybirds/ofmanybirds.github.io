@@ -1,5 +1,5 @@
 We're atheists. There is no strong evidence of any deity, and we do our best not to believe in things we don't have a good reason to believe.  
-We're eliminative materialists. Qualia is very obviously not a useful concept -- just, why would someone believe that?  
+We're qualia eliminativists. Qualia is very obviously not a useful concept -- just, why would someone believe that it is?  
 We're epistemologically Bayesian, in that we believe the best way to conceptualise knowledge is in the manner of subjective probabilities.   
 We're consequentialists, because the outcome is the only thing that matters.   
 We're hedonist utilitarians. We believe that the thing that matters most is maximising the pleasure of all beings, and try to act in accordance to that.  
