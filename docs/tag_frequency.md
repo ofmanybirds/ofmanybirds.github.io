@@ -1,10 +1,6 @@
 ---
 layout: default
-title: "Tag Usage Tracker"
 ---
-
-# Tag Usage Tracker (Prettified)
-
 {% assign all_tags = "" %}
 {% for item in site.data.links %}
   {% if item.tags %}
