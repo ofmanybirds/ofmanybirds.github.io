@@ -45,8 +45,7 @@ title: "Tag Usage Tracker"
 <ul>
 {% for item in sorted_array %}
   {% if item != "" %}
-    {% assign display_count = item | slice: 0,4 | remove_first: "0" | remove_first: "0" | remove_first: "0" | remove_first: "0" %}
-    {% if display_count == "" %}{% assign display_count = "0" %}{% endif %}
+    {% assign display_count = item | slice: 0,4 | plus: 0 %}
     {% assign tag_name = item | slice: 4, 100 %}
     <li>{{ tag_name }} ({{ display_count }})</li>
   {% endif %}
