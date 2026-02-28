@@ -37,6 +37,7 @@ Keep a few doses of your meds in your wallet or similar.
 Tape over annoying LED lights.  
 Try a different operating system.  
 Try self-medicating ADHD with caffeine.  
+Keep a trash can in every place you need to dispose of trash in.  
 
 Related lists. Things you're allowed to do is our favourite out of these.   
 [Barbell strategies.](https://web.archive.org/web/20220309155302/https://dwarkeshpatel.com/barbell-strategies/)  
