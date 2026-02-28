@@ -54,14 +54,14 @@
 
 /* Global line spacing */
 body, p, li {
-  line-height: 1; /* exact spacing, like Notepad */
+  line-height: 1.2; /* exact spacing, like Notepad */
   margin: 0;       /* remove extra vertical margin */
   padding: 0;      /* remove padding if any */
 }
 
 /* Headings with exact spacing but still visually distinct */
 h1, h2, h3, h4, h5, h6 {
-  line-height: 1;       /* match the paragraphs */
+  line-height: 1.2;       /* match the paragraphs */
   margin: 0.5em 0 0.2em; /* tiny spacing for visual separation */
   font-weight: bold;
 }
