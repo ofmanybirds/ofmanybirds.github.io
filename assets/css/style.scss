@@ -30,7 +30,7 @@
 
 /* ===== Header Styling ===== */
 .page-header {
-  padding: 1rem 1rem;
+  padding: 12px 12px;
   background-image: none;   
 }
 
@@ -60,7 +60,6 @@ ul, ol {
 
 /* Base font and body spacing */
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-size: 16px;           /* base font size */
   line-height: 20px;          /* exact pixel spacing (font-size + padding for ascenders/descenders) */
   margin: 0;
