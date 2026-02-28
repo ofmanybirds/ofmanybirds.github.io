@@ -3,7 +3,8 @@ layout: default
 ---
 
 <p>
-  A non-specific list of things we happen to find interesting. These are generally not endorsements, and the exceptions are tagged as such.
+  A non-specific list of things we happen to find interesting.
+  These are generally not endorsements, and the exceptions are tagged as such.
 </p>
 
 {% assign grouped = site.data.links | group_by: "category" | sort_natural: "name" %}
@@ -17,86 +18,80 @@ layout: default
 
     {% for item in sorted_items %}
     <li>
-      <a href="{{ item.url }}">{{ item.title }}</a>
+      <a href="{{ item.url }}">{{ item.title }}</a>{% if item.note %} — {{ item.note }}{% endif %}
 
       {% if item.tags and item.tags.size > 0 %}
 
-        {% assign grouped_tags = "" | split: "" %}
-        {% assign order = site.tag_schema.order %}
-
-        {% comment %}
-          Build a hash of category → collected tags
-        {% endcomment %}
-
-        {% assign content = "" | split: "" %}
-        {% assign epistemic = "" | split: "" %}
-        {% assign form = "" | split: "" %}
-        {% assign cw = "" | split: "" %}
+        {% assign content = "" %}
+        {% assign epistemic = "" %}
+        {% assign form = "" %}
+        {% assign cw = "" %}
 
         {% for tag in item.tags %}
-          {% assign classified = false %}
+          {% assign matched = false %}
 
-          {% for category in site.tag_schema.categories %}
-            {% assign cat_name = category[0] %}
-            {% assign cat_tags = category[1] %}
+          {% for cat in site.tag_schema.categories %}
+            {% assign cat_name = cat[0] %}
+            {% assign cat_values = cat[1] %}
 
-            {% if cat_tags contains tag %}
+            {% if cat_values contains tag %}
+              {% assign matched = true %}
+
               {% if cat_name == "epistemic" %}
-                {% assign epistemic = epistemic | push: tag %}
+                {% assign epistemic = epistemic | append: tag | append: "," %}
               {% elsif cat_name == "form" %}
-                {% assign form = form | push: tag %}
+                {% assign form = form | append: tag | append: "," %}
               {% elsif cat_name == "cw" %}
-                {% assign cw = cw | push: tag %}
+                {% assign cw = cw | append: tag | append: "," %}
               {% endif %}
-              {% assign classified = true %}
             {% endif %}
           {% endfor %}
 
-          {% unless classified %}
-            {% assign content = content | push: tag %}
+          {% unless matched %}
+            {% assign content = content | append: tag | append: "," %}
           {% endunless %}
         {% endfor %}
 
-        {% assign content = content | sort_natural %}
-        {% assign epistemic = epistemic | sort_natural %}
-        {% assign form = form | sort_natural %}
-        {% assign cw = cw | sort_natural %}
+        {% assign content = content | split: "," | sort_natural | join: ", " | strip %}
+        {% assign epistemic = epistemic | split: "," | sort_natural | join: ", " | strip %}
+        {% assign form = form | split: "," | sort_natural | join: ", " | strip %}
+        {% assign cw = cw | split: "," | sort_natural | join: ", " | strip %}
 
-        {% assign final_groups = "" | split: "" %}
+        {% assign output = "" %}
 
-        {% for type in order %}
-          {% if type == "content" and content.size > 0 %}
-            {% assign final_groups = final_groups | push: content %}
-          {% elsif type == "epistemic" and epistemic.size > 0 %}
-            {% assign final_groups = final_groups | push: epistemic %}
-          {% elsif type == "form" and form.size > 0 %}
-            {% assign final_groups = final_groups | push: form %}
-          {% elsif type == "cw" and cw.size > 0 %}
-            {% assign final_groups = final_groups | push: cw %}
+        {% if content != "" %}
+          {% assign output = content %}
+        {% endif %}
+
+        {% if epistemic != "" %}
+          {% if output != "" %}
+            {% assign output = output | append: " | " | append: epistemic %}
+          {% else %}
+            {% assign output = epistemic %}
           {% endif %}
-        {% endfor %}
+        {% endif %}
 
-        {% if final_groups.size > 0 %}
-          <small>
-            (
-            {% for group_tags in final_groups %}
-              {% for tag in group_tags %}
-                {{ tag }}{% unless forloop.last %}, {% endunless %}
-              {% endfor %}
-              {% unless forloop.last %} | {% endunless %}
-            {% endfor %}
-            )
-          </small>
+        {% if form != "" %}
+          {% if output != "" %}
+            {% assign output = output | append: " | " | append: form %}
+          {% else %}
+            {% assign output = form %}
+          {% endif %}
+        {% endif %}
+
+        {% if cw != "" %}
+          {% if output != "" %}
+            {% assign output = output | append: " | " | append: cw %}
+          {% else %}
+            {% assign output = cw %}
+          {% endif %}
+        {% endif %}
+
+        {% if output != "" %}
+          <small>[{{ output }}]</small>
         {% endif %}
 
       {% endif %}
-
-      {% if item.note %}
-        <div class="link-note">
-          {{ item.note }}
-        </div>
-      {% endif %}
-
     </li>
     {% endfor %}
 
