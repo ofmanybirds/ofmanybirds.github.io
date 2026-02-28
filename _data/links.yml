@@ -2,843 +2,674 @@
   url: "https://sigbovik.org/" 
   category: "larger repositories."
   tags: ["fun", "programming"]
-
 - title: "Against Malaria Foundation."
   url: "https://www.againstmalaria.com/Default.aspx"
   category: "charities."
   tags: ["charity", "medicine", "endorsed"]
-
 - title: "Malaria Consortium."
   url: "https://www.malariaconsortium.org/"
   category: "charities."
   tags: ["charity", "medicine", "endorsed"]
-
 - title: "Stanford Encyclopedia of Philosophy."
   url: "https://plato.stanford.edu/"
   category: "larger repositories."
   tags: ["philosophy"]
-
 - title: "Hellen Keller Intl."
   url: "https://helenkellerintl.org/"
   category: "charities."
   tags: ["charity", "medicine", "endorsed"]
-
 - title: "New Incentives."
   url: "https://www.newincentives.org/"
   category: "charities."
   tags: ["charity", "medicine", "endorsed"]
-
 - title: "GiveWell."
   url: "https://www.givewell.org/"
   category: "charities."
   tags: ["rationality", "endorsed"]
-
 - title: "Outside the Asylum."
   url: "https://outsidetheasylum.blog/"
   category: "other personal sites or content repositories."
   tags: ["mtg", "security", "statistics", "disputed-author"]
-
 - title: "Gwern.net."
   url: "https://gwern.net/index"
   category: "other personal sites or content repositories."
   tags: ["rationality", "medicine"]
-
 - title: "Slate Star Codex."
   url: "https://slatestarcodex.com/"
   category: "other personal sites or content repositories."
   tags: ["rationality", "disputed-author"]
-
 - title: "Astral Codex Ten."
   url: "https://www.astralcodexten.com/"
   category: "other personal sites or content repositories."
   tags: ["rationality", "disputed-author"]
-
 - title: "Human Invariant."
   url: "https://www.humaninvariant.com/"
   category: "other personal sites or content repositories."
   tags: ["rationality", "economics"]
-
 - title: "girl.surgery."
   url: "https://girl.surgery/"
   category: "other personal sites or content repositories."
   tags: ["trans", "fun", "programming", "disputed", "cw"]
-
 - title: "danluu.com."
   url: "https://danluu.com/"
   category: "other personal sites or content repositories."
   tags: ["programming", "productivity"]
-
 - title: "Thing of Things."
   url: "https://thingofthings.substack.com/archive?sort=top"
   category: "other personal sites or content repositories."
   tags: ["rationality", "trans"]
-
 - title: "Andrea Long Chu author archive."
   url: "https://www.vulture.com/author/andrea-long-chu/"
   category: "other personal sites or content repositories."
   tags: ["feminism", "trans"]
-
 - title: "Alexander Wales."
   url: "https://alexanderwales.tumblr.com/"
   category: "other personal sites or content repositories."
   tags: ["rationality", "philosophy", "literature"]
-
 - title: "Money Stuff by Matt Levine."
   url: "https://newsletterhunt.com/newsletters/money-stuff-by-matt-levine"
   category: "other personal sites or content repositories."
   tags: ["economics"]
-
 - title: "Talia Bhatt."
   url: "https://taliabhattwrites.substack.com/"
   category: "other personal sites or content repositories."
   tags: ["trans", "feminism", "endorsed"]
-
 - title: "The Trans Dandy."
   url: "https://thetransdandy.substack.com/"
   category: "other personal sites or content repositories."
   tags: ["trans", "feminism"]
-
 - title: "Hammer or Anvil."
   url: "https://harpies.substack.com/"
   category: "other personal sites or content repositories."
   tags: ["trans", "feminism"]
-
 - title: "Trans Care 101."
   url: "https://transcare101.substack.com/"
   category: "other personal sites or content repositories."
   tags: ["trans", "feminism", "medicine"]
-
 - title: "dessalines."
   url: "https://dessalines.github.io/essays/"
   category: "other personal sites or content repositories."
   tags: ["communism"]
-
 - title: "Ben Kuhn."
   url: "https://www.benkuhn.net/"
   category: "other personal sites or content repositories."
   tags: ["programming", "rationality"]
-
 - title: "Things that matter are boring."
   url: "https://benthams.substack.com/p/things-that-matter-are-boring"
   category: "nonfiction, short form."
   tags: ["social", "economics", "rationality"]
-
 - title: "Salad theory."
   url: "https://saladtheory.github.io/"
   category: "nonfiction, short form."
   tags: ["fun"]
-
 - title: "The honesty tax."
   url: "https://www.theargumentmag.com/p/the-honesty-tax"
   category: "nonfiction, short form."
   tags: ["social", "US"]
-
 - title: "The security mindset."
   url: "https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html"
   category: "nonfiction, short form."
   tags: ["security"]
-
 - title: "A mathematician's lament."
   url: "worrydream.com/refs/Lockhart_2002_-_A_Mathematician's_Lament.pdf"
   category: "nonfiction, short form."
   tags: ["mathematics", "social"]
-
 - title: "Credit card debt collection."
   url: "https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/"
   category: "nonfiction, short form."
   tags: ["economics"]
-
 - title: "Things you're allowed to do."
   url: "https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/"
   category: "nonfiction, short form."
   tags: []
-
 - title: "Twelve recursive explanations."
   url: "https://www.spencergreenberg.com/2021/03/twelve-recursive-explanations/"
   category: "nonfiction, short form."
   tags: ["fun"]
-
 - title: "No one cared about my spreadsheets."
   url: "https://www.econlib.org/no-one-cared-about-my-spreadsheets/"
   category: "nonfiction, short form."
   tags: ["social", "economics"]
-
 - title: "List of common misconceptions."
   url: "https://en.wikipedia.org/wiki/List_of_common_misconceptions"
   category: "nonfiction, short form."
   tags: ["history", "science"]
-
 - title: "Person paper on purity in language."
   url: "https://www.cs.virginia.edu/~evans/cs655/readings/purity.html"
   category: "nonfiction, short form."
   tags: ["feminism", "cw"]
-
 - title: "Playing to win, Alice Maz."
   url: "https://www.alicemaz.com/writing/minecraft.html"
   category: "nonfiction, short form."
   tags: ["competition", "economics", "fun"]
-
 - title: "95%-ile isn't that good."
   url: "https://danluu.com/p95-skill/#fnref:S"
   category: "nonfiction, short form."
   tags: ["productivity", "social", "competition"]
-
 - title: "Action!"
   url: "https://johnnyroccia.com/2020/06/27/action/"
   category: "nonfiction, short form."
   tags: ["productivity", "rationality"]
-
 - title: "nohello."
   url: "https://nohello.net/en/"
   category: "nonfiction, short form."
   tags: ["productivity", "social"]
-
 - title: "In My Culture."
   url: "https://medium.com/@ThingMaker/in-my-culture-29c6464072b2"
   category: "nonfiction, short form."
   tags: ["social"]
-
 - title: "Silent Treatment, the troubling response to a memoir of incest."
   url: "https://harpers.org/archive/2018/03/silent-treatment/"
   category: "nonfiction, short form."
   tags: ["social", "feminism", "cw"]
-
 - title: "Arguing with myself (and losing)."
   url: "https://web.archive.org/web/20250622045850/https://life-in-a-monospace-typeface.tumblr.com/post/81503002891/arguing-with-myself-and-losing"
   category: "nonfiction, short form."
   tags: ["social"]
-
 - title: "Nobody gives a shit."
   url: "https://radleybalko.substack.com/p/nobody-gives-a-shit"
   category: "nonfiction, short form."
   tags: ["law", "cw"]
-
 - title: "Programming sucks."
   url: "https://www.stilldrinking.org/programming-sucks"
   category: "nonfiction, short form."
   tags: ["programming"]
-
 - title: "A comprehensive reboot of law reinforcement."
   url: "https://yudkowsky.medium.com/a-comprehensive-reboot-of-law-enforcement-b76bfab850a3"
   category: "nonfiction, short form."
   tags: ["rationality", "law", "US", "disputed-author"]
-
 - title: "They write the right stuff."
   url: "https://archive.is/20251210221918/https://www.fastcompany.com/28121/they-write-right-stuff#selection-543.667-557.479"
   category: "nonfiction, short form."
   tags: ["programming"]
-
 - title: "Orchiectomy, part 2."
   url: "https://mesityl.substack.com/p/orchiectomy-part-2"
   category: "nonfiction, short form."
   tags: ["trans", "medicine", "cw"]
-
 - title: "How one Las Vegas ED saved hundreds of lives after the worst mass shooting in U.S. history."
   url: "https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/"
   category: "nonfiction, short form."
   tags: ["medicine", "journalism", "cw"]
-
 - title: "On being Rich-ish."
   url: "https://web.archive.org/web/20240423022127/https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned"
   category: "nonfiction, short form."
   tags: ["social", "economics"]
-
 - title: "Structured procrastination."
   url: "https://structuredprocrastination.com/"
   category: "nonfiction, short form."
   tags: ["productivity", "fun"]
-
 - title: "Mythic vs folk values."
   url: "https://web.archive.org/web/20260104064352/https://www.tumblr.com/raggedjackscarlet/129312114638/mythic-valuesfolk-values"
   category: "nonfiction, short form."
   tags: ["social"]
-
 - title: "Things you should never do."
   url: "https://web.archive.org/web/20260125032021/https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/"
   category: "nonfiction, short form."
   tags: ["programming", "economics"]
-
 - title: "The problem with non-philosophers."
   url: "https://web.archive.org/web/20251112055308/https://www.philosophyetc.net/2006/05/problem-with-non-philosophers.html"
   category: "nonfiction, short form."
   tags: ["philosophy"]
-
 - title: "List of atrocities committed by US authorities."
   url: "https://github.com/dessalines/essays/blob/main/us_atrocities.md"
   category: "nonfiction, short form."
   tags: ["communism", "US"]
-
 - title: "Academic urban legends."
   url: "selfhost/academic_urban_legends.pdf"
   category: "nonfiction, short form."
   tags: ["linguistics", "social", "academia"]
-
 - title: "What colour are your bits?"
   url: "https://ansuz.sooke.bc.ca/entry/23"
   category: "nonfiction, short form."
   tags: ["programming", "law"]
-
 - title: "Who regulates the regulators?"
   url: "https://blog.rootsofprogress.org/against-review-and-approval"
   category: "nonfiction, short form."
   tags: ["law", "economics", "medicine", "US"]
-
 - title: "No, it’s not The Incentives—it’s you."
   url: "https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/"
   category: "nonfiction, short form."
   tags: ["academia"]
-
 - title: "The online business of (animal) torture."
   url: "https://meghanboilard.substack.com/p/the-online-business-of-torture"
   category: "nonfiction, short form."
   tags: ["social", "cw"]
-
 - title: "I put a toaster in the dishwasher."
   url: "https://jdstillwater.blogspot.com/2012/05/i-put-toaster-in-dishwasher.html"
   category: "nonfiction, short form."
   tags: ["rationality", "fun"]
-
 - title: "6 lessons I learned working at an art gallery"
   url: "https://www.henrikkarlsson.xyz/p/art-gallery"
   category: "nonfiction, short form."
   tags: ["productivity", "economics"]
-
 - title: "The seven deadly speaks of politi-speak."
   url: "https://www.yesmagazine.org/opinion/2021/06/28/bridging-political-divides-progressive-jargon"
   category: "nonfiction, short form."
   tags: ["social"]
-
 - title: "What's the matter with India?"
   url: "https://nicholasdecker.substack.com/p/whats-the-matter-with-india"
   category: "nonfiction, short form."
   tags: ["law", "social"]
-
 - title: "DM's Esoteric Programming Languages."
   url: "https://www.dangermouse.net/esoteric/"
   category: "nonfiction, short form."
   tags: ["programming", "fun"]
-
 - title: "500 million, but not a single one more."
   url: "https://laneless.substack.com/p/500-million-but-not-a-single-one-more"
   category: "nonfiction, short form."
   tags: ["social", "history"]
-
 - title: "Isaac Newton, his eye, and his bodkin."
   url: "http://web.archive.org/web/20220524083846/https://jsaulburton.com/2014/07/27/isaac-newton-his-eye-and-his-bodkin/"
   category: "nonfiction, short form."
   tags: ["history", "fun"]
-
 - title: "Why ~everyone should take creatine forever."
   url: "https://vishalblog.substack.com/p/why-everyone-should-take-creatine"
   category: "nonfiction, short form."
   tags: ["medicine", "rationality"]
-
 - title: "The satanic panic is incredibly weird."
   url: "https://thingofthings.substack.com/p/the-satanic-panic-is-incredibly-weird"
   category: "nonfiction, short form."
   tags: ["law", "US"]
-
 - title: "Algorithms interviews: theory vs practice."
   url: "https://danluu.com/algorithms-interviews/"
   category: "nonfiction, short form."
   tags: ["programming", "productivity"]
-
 - title: "The Copenhagen interpretation of ethics."
   url: "https://laneless.substack.com/p/the-copenhagen-interpretation-of-ethics"
   category: "nonfiction, short form."
   tags: ["social", "rationality", "philosophy"]
-
 - title: "Why cross-examination is so damn great."
   url: "https://www.ymeskhout.com/p/why-cross-examination-is-so-damn"
   category: "nonfiction, short form."
   tags: ["social"]
-
 - title: "Morality is accidental and self-congratulatory."
   url: "https://www.ymeskhout.com/p/morality-is-accidental-and-self-congratulatory"
   category: "nonfiction, short form."
   tags: ["social", "history"]
-
 - title: "NSA, NIST, and post-quantum cryptography."
   url: "https://blog.cr.yp.to/20220805-nsa.html"
   category: "nonfiction, short form."
   tags: ["programming", "security", "US"]
-
 - title: "No silver bullet solutions to the werewolf problem."
   url: "https://progressandpoverty.substack.com/p/no-silver-bullets-to-the-werewolf"
   category: "nonfiction, short form."
   tags: ["social"]
-
 - title: "Two Americas, one bank branch, and $50,000 cash."
   url: "https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/"
   category: "nonfiction, short form."
   tags: ["security", "US"]
-
 - title: "Frequently asked questions about PEPFAR."
   url: "https://thingofthings.substack.com/p/frequently-asked-questions-about-480"
   category: "nonfiction, short form."
   tags: ["medicine", "social"]
-
 - title: "When will AGI arrive?"
   url: "https://80000hours.org/agi/guide/when-will-agi-arrive/"
   category: "nonfiction, short form."
   tags: ["programming"]
-
 - title: "In defense of compensated kidney donation."
   url: "https://thingofthings.substack.com/p/in-defense-of-compensated-kidney"
   category: "nonfiction, short form."
   tags: ["medicine", "economics", "surprising"]
-
 - title: "Confidence all the way up."
   url: "https://mindingourway.com/confidence-all-the-way-up/"
   category: "nonfiction, short form."
   tags: ["rationality"]
-
 - title: "Grayed out options."
   url: "https://thingofthings.substack.com/p/grayed-out-options"
   category: "nonfiction, short form."
   tags: ["rationality"]
-
 - title: "Some preliminary notes towards a real cost-benefit analysis of prisons."
   url: "https://philosophybear.substack.com/p/some-preliminary-notes-towards-a"
   category: "nonfiction, short form."
   tags: ["economics", "academia"]
-
 - title: "Most of what you read on the internet is written by insane people."
   url: "https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/"
   category: "nonfiction, short form."
   tags: ["social"]
-
 - title: "Growth of photovoltaics."
   url: "https://en.wikipedia.org/wiki/Growth_of_photovoltaics"
   category: "nonfiction, short form."
   tags: ["industry", "surprising"]
-
 - title: "Comphetitive transwomanhood."
   url: "https://agepachristie.substack.com/p/comphetative-transwomanhood"
   category: "nonfiction, short form."
   tags: ["trans", "feminism", "medicine", "cw"]
-
 - title: "They/them pronouns & conflicting access needs."
   url: "https://substack.com/@jessothomson/p-154368110"
   category: "nonfiction, short form."
   tags: ["social", "trans"]
-
 - title: "The man who saved a billion lives."
   url: "https://justinkuiper.substack.com/p/the-man-who-saved-a-billion-lives"
   category: "nonfiction, short form."
   tags: ["industry"]
-
 - title: "How to win at board games as a novice."
   url: "https://inchpin.substack.com/p/board-game-strategy"
   category: "nonfiction, short form."
   tags: ["competition", "fun"]
-
 - title: "Why milk costs $9 per gallon in Hawaii."
   url: "https://justinkuiper.substack.com/p/why-milk-costs-9gallion-in-hawaii"
   category: "nonfiction, short form."
   tags: ["law", "US"]
-
 - title: "Claude Code makes several thousand dollars in 30 minutes."
   url: "https://www.complexsystemspodcast.com/episodes/claude-code/"
   category: "nonfiction, short form."
   tags: ["programming", "industry"]
-
 - title: "Kids are sick, a lot."
   url: "https://gwern.net/blog/2024/sick-kids"
   category: "nonfiction, short form."
   tags: ["medicine", "social"]
-
 - title: "Excerpt from “Ending Medical Reversal.\""
   url: "https://graphics8.nytimes.com/packages/pdf/science/Ending_Med_Rev_Chap_1.pdf"
   category: "nonfiction, short form."
   tags: ["medicine", "surprising"]
-
 - title: "Is this my character's fault?"
   url: "https://springhole.net/writing/is-my-character-at-fault.htm"
   category: "nonfiction, short form."
   tags: ["fun", "social"]
-
 - title: "One of my favorite game design tricks."
   url: "selfhost/mixups.png"
   category: "nonfiction, short form."
   tags: ["fun", "competition"]
-
 - title: "Be impatient."
   url: "https://www.benkuhn.net/impatient/"
   category: "nonfiction, short form."
   tags: ["productivity"]
-
 - title: "Some examples of people quickly accomplishing ambitious things together."
   url: "https://patrickcollison.com/fast"
   category: "nonfiction, short form."
   tags: ["industry", "surprising"]
-
 - title: "Internet search tips."
   url: "https://gwern.net/search"
   category: "nonfiction, short form."
   tags: ["productivity", "influential"]
-
 - title: "Firefox keyboard shortcuts."
   url: "https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly#"
   category: "nonfiction, short form."
   tags: ["productivity"]
-
 - title: "A collection of dice problems."
   url: "https://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf"
   category: "nonfiction, short form."
   tags: ["mathematics", "fun"]
-
 - title: "Ur-Fascism."
   url: "https://theanarchistlibrary.org/library/umberto-eco-ur-fascism"
   category: "nonfiction, short form."
   tags: ["politics"]
-
 - title: "Playing to win, David Sirlin."
   url: "https://www.sirlin.net/ptw"
   category: "nonfiction, long form."
   tags: ["productivity", "competition"]
-
 - title: "The sequences."
   url: "https://www.readthesequences.com/"
   category: "nonfiction, long form."
   tags: ["rationality", "disputed-author"]
-
 - title: "The story of VaccinateCA."
   url: "https://worksinprogress.co/issue/the-story-of-vaccinateca/"
   category: "nonfiction, long form."
   tags: ["medicine", "industry", "US", "surprising", "influential"]
-
 - title: "Unsong."
   url: "https://unsongbook.com/"
   category: "original fiction."
   tags: ["fun", "US", "disputed-author"]
-
 - title: "Exhalation."
   url: "https://www.lightspeedmagazine.com/fiction/exhalation/"
   category: "original fiction."
   tags: ["philosophy"]
-
 - title: "Common tech jobs described as cabals of Mesoamerican wizards."
   url: "https://www.hopefulmons.com/p/common-tech-jobs-described-as-cabals"
   category: "original fiction."
   tags: ["fun", "programming"]
-
 - title: "MMAcevedo."
   url: "https://qntm.org/mmacevedo"
   category: "original fiction."
   tags: ["philosophy", "cw"]
-
 - title: "Chaser 6."
   url: "https://alicorn.elcenia.com/stories/chaser6.shtml"
   category: "original fiction."
   tags: ["philosophy", "social"]
-
 - title: "Game review: Rabbit Simulator."
   url: "https://alexanderwales.tumblr.com/post/790086547161645056/game-review-rabbit-simulator"
   category: "original fiction."
   tags: ["cw"]
-
 - title: "Through The Flash."
   url: "https://archive.org/details/through-the-flash-by-nana-kwame-adjei-brenyah/mode/2up"
   category: "original fiction."
   tags: ["cw"]
-
 - title: "Strasbourg Observers."
   url: "https://strasbourgobservers.com"
   category: "larger repositories."
   tags: ["law"]
-
 - title: "Verfassungsblog."
   url: "https://verfassungsblog.de"
   category: "larger repositories."
   tags: ["law"]
-
 - title: "Holotypic Occlupanid Research Group."
   url: "https://www.horg.com/horg/"
   category: "larger repositories."
   tags: ["fun"]
-  
-
 - title: "Hacker News."
   url: "https://news.ycombinator.com/news"
   category: "larger repositories."
   tags: ["programming"]
-
 - title: "Falsehoods programmers believe."
   url: "https://github.com/kdeldycke/awesome-falsehood"
   category: "larger repositories."
   tags: ["fun", "programming", "social"]
-
 - title: "Archive of Our Own."
   url: "https://archiveofourown.org/"
   category: "larger repositories."
   tags: []
-
 - title: "Royal Road."
   url: "https://www.royalroad.com/home"
   category: "larger repositories."
   tags: []
-
 - title: "Pokemon: The Origin of Species."
   url: "https://daystareld.com/pokemon/1"
   category: "fanfiction."
   tags: ["rationality"]
-
 - title: "The Metropolitan Man."
   url: "https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man"
   category: "fanfiction."
   tags: ["rationality"]
-
 - title: "A Common Sense Guide to Doing the Most Good."
   url: "https://archiveofourown.org/works/30351690"
   category: "fanfiction."
   tags: ["rationality", "altruism"]
-
 - title: "The Good War."
   url: "https://archiveofourown.org/works/23747950/chapters/57035011"
   category: "fanfiction."
   tags: []
-
 - title: "Changeling in Exile."
   url: "https://archive.transformativeworks.org/works/39184896/chapters/98039529"
   category: "fanfiction."
   tags: []
-
 - title: "Tom7."
   url: "https://www.youtube.com/@tom7"
   category: "video."
   tags: ["channel", "fun", "programming"]
-
 - title: "DoshDoshington."
   url: "https://www.youtube.com/@DoshDoshington"
   category: "video."
   tags: ["channel", "fun"]
-
 - title: "Moon Channel."
   url: "https://www.youtube.com/@moon-channel"
   category: "video."
   tags: ["channel", "law"]
-
 - title: "HGModernism."
   url: "https://www.youtube.com/@HGModernism"
   category: "video."
   tags: ["channel", "fun", "rationality"]
-
 - title: "styropyro."
   url: "https://www.youtube.com/@styropyro"
   category: "video."
   tags: ["channel", "fun"]
-
 - title: "Jorbs."
   url: "https://www.youtube.com/@Jorbs"
   category: "video."
   tags: ["channel", "fun", "rationality"]
-
 - title: "Neurotic Goose."
   url: "https://www.youtube.com/@NeuroticGoose"
   category: "video."
   tags: ["channel", "fun"]
-
 - title: "Every Frame a Painting."
   url: "https://www.youtube.com/@everyframeapainting"
   category: "video."
   tags: ["channel", "cinematography"]
-
 - title: "Power Pak."
   url: "https://www.youtube.com/@PowerPakGames"
   category: "video."
   tags: ["channel", "horror"]
-
 - title: "Folding Ideas."
   url: "https://www.youtube.com/@FoldingIdeas"
   category: "video."
   tags: ["channel", "cinematography", "social", "economics"]
-
 - title: "Everything new in Stockfish 18."
   url: "https://www.youtube.com/watch?v=lBpQvu20nj0"
   category: "video."
   tags: ["programming", "surprising"]
-
 - title: "A guide to consent."
   url: "https://www.youtube.com/watch?v=emfqzme8Z0Q"
   category: "video."
   tags: ["social"]
-
 - title: "Tactics of physical pen testers."
   url: "https://www.youtube.com/watch?v=rnmcRTnTNC8"
   category: "video."
   tags: ["security", "influential"]
-
 - title: "Beating every possible game of Pokemon Platinum at the same time."
   url: "https://www.youtube.com/watch?v=jNMWkD5VsZ8"
   category: "video."
   tags: ["fun", "programming", "surprising"]
-
 - title: "Synesthesia silliness."
   url: "selfhost/jumprope.webp"
   category: "video."
   tags: ["fun", "surprising"]
-
 - title: "Baba is You."
   url: "https://store.steampowered.com/app/736260/Baba_Is_You/"
   category: "games."
   tags: ["puzzle"]
-
 - title: "Primordialis."
   url: "https://store.steampowered.com/app/3011360/Primordialis/"
   category: "games."
   tags: ["roguelike"]
-
 - title: "Noita."
   url: "https://store.steampowered.com/app/881100/Noita/"
   category: "games."
   tags: ["roguelike"]
-
 - title: "Celeste."
   url: "https://store.steampowered.com/app/504230/Celeste/"
   category: "games."
   tags: ["platformer", "trans"]
-
 - title: "catfishing.net."
   url: "https://catfishing.net/"
   category: "games."
   tags: []
-
 - title: "The evolution of trust."
   url: "https://ncase.me/trust/"
   category: "interactive."
   tags: ["social", "mathematics", "fun"]
-
 - title: "neal.fun."
   url: "https://neal.fun/"
   category: "interactive."
   tags: ["fun"]
-
 - title: "monkeytype.com"
   url: "https://monkeytype.com/"
   category: "interactive."
   tags: ["productivity"]
-
 - title: "Discipline."
   url: "https://www.youtube.com/watch?v=LOBvIGBlUvc"
   category: "music."
   tags: ["album"]
-
 - title: "The Wall."
   url: "https://www.youtube.com/watch?v=r48BLz42NuI"
   category: "music."
   tags: ["album"]
-
 - title: "Sgt. Pepper's Lonely Hearts Club Band."
   url: "https://www.youtube.com/watch?v=Fh3Hpx9YfJ4"
   category: "music."
   tags: ["album"]
-
 - title: "If I Told Him, A Completed Portrait of Picasso."
   url: "https://www.poetryfoundation.org/poems/55215/if-i-told-him-a-completed-portrait-of-picasso"
   category: "poetry."
   tags: ["fun"]
-
 - title: "Fire and Ice."
   url: "https://www.poetryfoundation.org/poems/44263/fire-and-ice"
   category: "poetry."
   tags: []
-
 - title: "seventh heaven."
   url: "https://www.poetryfoundation.org/poems/50433/seventh-heaven-56d22d8ceae8b"
   category: "poetry."
   tags: []
-
 - title: "Paywall remover."
   url: "https://www.removepaywall.com/"
   category: "tools."
   tags: ["piracy"]
-
 - title: "Anna's Archive."
   url: "https://annas-archive.li/"
   category: "tools."
   tags: ["piracy"]
-
 - title: "SLUM."
   url: "https://open-slum.org/"
   category: "tools."
   tags: ["piracy"]
-
 - title: "Tree-style tab."
   url: "https://addons.mozilla.org/en-GB/firefox/addon/tree-style-tab/"
   category: "tools."
   tags: ["browser-extension"]
-
 - title: "uBlock Origin."
   url: "https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/"
   category: "tools."
   tags: ["browser-extension"]
-
 - title: "ClearURLs."
   url: "https://addons.mozilla.org/en-US/firefox/addon/clearurls/"
   category: "tools."
   tags: ["browser-extension"]
-
 - title: "Contextual Wiktionary."
   url: "https://addons.mozilla.org/en-GB/firefox/addon/opendictionary/"
   category: "tools."
   tags: ["browser-extension"]
-
 - title: "bitwarden."
   url: "https://bitwarden.com/"
   category: "tools."
   tags: []
-
 - title: "Transfeminine Science"
   url: "https://transfemscience.org/"
   category: "tools."
   tags: ["trans", "medicine", "endorsed", "influential"]
-
 - title: "Wiktionary."
   url: "https://www.wiktionary.org/"
   category: "tools."
   tags: []
-
 - title: "Wikipedia."
   url: "https://en.wikipedia.org/wiki/Main_Page"
   category: "tools."
   tags: []
-
 - title: "AnyDice."
   url: "https://anydice.com/"
   category: "tools."
   tags: []
-
 - title: "OEIS."
   url: "https://oeis.org/"
   category: "tools."
   tags: ["mathematics"]
-
 - title: "Vencord."
   url: "https://vencord.dev/"
   category: "tools."
   tags: []
-
 - title: "Linux."
   url: "https://kernel.org/"
   category: "tools." 
   tags: ["operating-system"]
-
 - title: "Linux Mint."
   url: "https://linuxmint.com/"
   category: "tools." 
   tags: ["operating-system"]
-
 - title: "The Persona Selection Model."
   url: "https://alignment.anthropic.com/2026/psm/"
   category: "nonfiction, short form."
   tags: ["ai", "research"]
-
 - title: "[TAS] Pokémon Yellow - Arbitrary Code Execution." 
   url: "https://www.youtube.com/watch?v=Vjm8P8utT5g" 
   category: "video."
   tags: ["surprising", "fun"]
-
 - title: "Statistical tests are complicated because their inventors did not have fast computers."
   url: "https://agarriga.substack.com/p/statistical-tests-are-complicated" 
   category: "nonfiction, short form."
