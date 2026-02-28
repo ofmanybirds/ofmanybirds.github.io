@@ -52,17 +52,20 @@
   text-decoration: underline;
 }
 
+section h2 {
+  margin: 0.5em 0 0.1em 0; /* top / right-left / bottom */
+  font-weight: bold;
+}
+
 ul {
+  margin: 0 0 0.5em 0; /* bottom margin for spacing after last item */
+  padding: 0;
   list-style: none;
-  padding-left: 0;
-  margin: 0;
 }
 
 li {
-  display: block;
   margin: 0;
   padding: 0;
-  line-height: 1.2;
 }
 
 * {
