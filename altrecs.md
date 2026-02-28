@@ -6,7 +6,6 @@ layout: default
   A non-specific list of things we happen to find interesting.
   These are generally not endorsements, and the exceptions are tagged as such.
 </p>
-
 {% assign grouped = site.data.links | group_by: "category" | sort_natural: "name" %}
 {% for group in grouped %}
 <section>
@@ -15,19 +14,12 @@ layout: default
     {% assign sorted_items = group.items | sort_natural: "title" %}
     {% for item in sorted_items %}
     <li>
-      <a href="{{ item.url }}">{{ item.title }}</a>
-      {% if item.note %}
-        – {{ item.note }}
-      {% endif %}
-
-      {% comment %} render tags inline without <small> {% endcomment %}
-      {% assign output = "" %}
-      {% assign content = "" %}
-      {% assign epistemic = "" %}
-      {% assign form = "" %}
-      {% assign cw = "" %}
-
+      <a href="{{ item.url }}">{{ item.title }}</a>{% if item.note %} {{ item.note }}{% endif %}
       {% if item.tags and item.tags.size > 0 %}
+        {% assign content = "" %}
+        {% assign epistemic = "" %}
+        {% assign form = "" %}
+        {% assign cw = "" %}
         {% for tag in item.tags %}
           {% if site.tag_schema.epistemic contains tag %}
             {% assign epistemic = epistemic | append: tag | append: "," %}
@@ -39,28 +31,40 @@ layout: default
             {% assign content = content | append: tag | append: "," %}
           {% endif %}
         {% endfor %}
-
         {% assign content = content | split: "," | sort_natural | join: ", " | strip %}
         {% assign epistemic = epistemic | split: "," | sort_natural | join: ", " | strip %}
         {% assign form = form | split: "," | sort_natural | join: ", " | strip %}
         {% assign cw = cw | split: "," | sort_natural | join: ", " | strip %}
-
-        {% if content != "" %}{% assign output = content %}{% endif %}
+        {% assign output = "" %}
+        {% if content != "" %}
+          {% assign output = content %}
+        {% endif %}
         {% if epistemic != "" %}
-          {% if output != "" %}{% assign output = output | append: " | " | append: epistemic %}{% else %}{% assign output = epistemic %}{% endif %}
+          {% if output != "" %}
+            {% assign output = output | append: " | " | append: epistemic %}
+          {% else %}
+            {% assign output = epistemic %}
+          {% endif %}
         {% endif %}
         {% if form != "" %}
-          {% if output != "" %}{% assign output = output | append: " | " | append: form %}{% else %}{% assign output = form %}{% endif %}
+          {% if output != "" %}
+            {% assign output = output | append: " | " | append: form %}
+          {% else %}
+            {% assign output = form %}
+          {% endif %}
         {% endif %}
         {% if cw != "" %}
-          {% if output != "" %}{% assign output = output | append: " | " | append: cw %}{% else %}{% assign output = cw %}{% endif %}
+          {% if output != "" %}
+            {% assign output = output | append: " | " | append: cw %}
+          {% else %}
+            {% assign output = cw %}
+          {% endif %}
+        {% endif %}
+        {% if output != "" %}
+          <small>[{{ output }}]</small>
         {% endif %}
       {% else %}
-        {% assign output = "untagged" %}
-      {% endif %}
-
-      {% if output != "" %}
-        – [{{ output }}]
+  <small>[untagged]</small>
       {% endif %}
     </li>
     {% endfor %}
