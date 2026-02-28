@@ -53,32 +53,31 @@
   text-decoration: underline;
 }
 
-/* ===== Category Headers ===== */
 section h2 {
-  margin: 0;                  /* remove external margins */
-  padding-bottom: 0.15em;     /* internal spacing to first item */
-  line-height: 1.25;          /* slightly taller than list for readability */
+  margin: 0;            /* no external margin */
+  padding: 0;           /* no extra spacing inside line box */
   font-weight: bold;
+  font-size: 1em;       /* same as list for exact line-box alignment */
+  line-height: 1.2;     /* match list line-height for exact highlight alignment */
 }
 
-/* ===== Lists and Items ===== */
+/* Lists are dense and plaintext-like */
 ul {
-  margin: 0;                  /* remove external spacing */
+  margin: 0;
   padding: 0;
   list-style: none;
 }
 
 li {
   margin: 0;
-  padding: 0.1em 0;           /* vertical spacing inside line box */
-  line-height: 1.2;           /* uniform compact line-height for plaintext aesthetic */
+  padding: 0.1em 0;    /* uniform vertical spacing inside line box */
+  line-height: 1.2;     /* exact same as header for seamless highlight */
 }
 
 small {
-  font-size: inherit;          /* prevent vertical discrepancies */
+  font-size: inherit;   /* prevent vertical differences */
 }
 
-/* ===== Ensure uniform line-height across everything ===== */
 body, li, h2, small, a {
   line-height: 1.2;           /* base line-height for uniform highlights */
 }
