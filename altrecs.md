@@ -18,7 +18,7 @@ layout: default
 
     {% for item in sorted_items %}
     <li>
-      <a href="{{ item.url }}">{{ item.title }}</a>{% if item.note %} — {{ item.note }}{% endif %}
+      <a href="{{ item.url }}">{{ item.title }}</a>{% if item.note %} {{ item.note }}{% endif %}
 
       {% if item.tags and item.tags.size > 0 %}
 
