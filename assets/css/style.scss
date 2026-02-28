@@ -29,10 +29,6 @@
 }
 
 /* ===== Header Styling ===== */
-.page-header {
-  padding: 24px 24px;
-  background-image: none;   
-}
 
 .project-name {
   margin: 0;
@@ -112,4 +108,9 @@ code, pre {
 
 .category-list {
   margin-bottom: 16px;  /* or any pixel value you want for spacing */
+}
+
+.page-header {
+  padding: 12x 12px;
+  background-image: none;   
 }
