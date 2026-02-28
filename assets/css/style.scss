@@ -55,3 +55,58 @@
 ul, ol {
   list-style: none;
 }
+
+/* === Pixel-perfect Notepad-style override for Cayman === */
+
+/* Base font and body spacing */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 16px;           /* base font size */
+  line-height: 20px;          /* exact pixel spacing (font-size + padding for ascenders/descenders) */
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Paragraphs and list items */
+p, li {
+  font-size: 16px;
+  line-height: 20px;          /* same as body for exact uniform spacing */
+  margin: 0;
+  padding: 0;
+}
+
+/* Headers — pixel-perfect spacing, visually distinct */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 20px;          /* match base spacing for perfect alignment */
+  margin: 0;                  /* remove default browser margins */
+  display: block;
+  font-weight: bold;
+}
+
+/* Header font sizes (exact, pixels) */
+h1 { font-size: 24px; }
+h2 { font-size: 20px; }
+h3 { font-size: 18px; }
+h4 { font-size: 16px; }
+h5 { font-size: 14px; }
+h6 { font-size: 12px; }
+
+ul, ol {
+  margin: 0;
+  padding-left: 20px;         /* standard indent */
+  line-height: 20px;          /* same as base for uniform spacing */
+}
+
+a, strong, em, span {
+  line-height: inherit;
+}
+
+code, pre {
+  font-family: monospace;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0;
+  padding: 0;
+}
