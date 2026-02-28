@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% comment %}
-  Step 1: Flatten all tags into a single array
+Step 1: Flatten all tags into a single array
 {% endcomment %}
 {% assign all_tags = "" %}
 {% for item in site.data.links %}
@@ -17,17 +17,17 @@ layout: default
 {% assign tag_array = all_tags | split: "," | sort_natural %}
 
 {% comment %}
-  Step 2: Count occurrences per tag using the same "current/count" pattern
+Step 2: Count occurrences per tag
 {% endcomment %}
 {% assign current = "" %}
 {% assign count = 0 %}
-{% assign tag_counts = "" %}
+{% assign counts_list = "" %}
 
 {% for tag in tag_array %}
   {% if tag != "" %}
     {% if tag != current %}
       {% if current != "" %}
-        {% assign tag_counts = tag_counts | append: current | append: "|" | append: count | append: "," %}
+        {% assign counts_list = counts_list | append: current | append: "|" | append: count | append: "," %}
       {% endif %}
       {% assign current = tag %}
       {% assign count = 1 %}
@@ -38,20 +38,36 @@ layout: default
 {% endfor %}
 
 {% if current != "" %}
-  {% assign tag_counts = tag_counts | append: current | append: "|" | append: count | append: "," %}
+  {% assign counts_list = counts_list | append: current | append: "|" | append: count | append: "," %}
 {% endif %}
 
 {% comment %}
-  Step 3: Build arrays grouped by counts
-  Liquid cannot sort by value directly, so we will manually collect by count descending
+Step 3: Find unique counts descending
 {% endcomment %}
-{% assign tag_count_pairs = tag_counts | split: "," | sort_natural | reverse %}
-
-<ul>
-{% for pair in tag_count_pairs %}
+{% assign count_values = "" %}
+{% assign counts_array = counts_list | split: "," %}
+{% for pair in counts_array %}
   {% if pair != "" %}
     {% assign parts = pair | split: "|" %}
-    <li>{{ parts[0] }} ({{ parts[1] }})</li>
+    {% assign count_values = count_values | append: parts[1] | append: "," %}
+  {% endif %}
+{% endfor %}
+{% assign unique_counts = count_values | split: "," | uniq | sort_natural | reverse %}
+
+<ul>
+{% comment %}
+Step 4: Loop counts descending, print tags with that count
+{% endcomment %}
+{% for c in unique_counts %}
+  {% if c != "" %}
+    {% for pair in counts_array %}
+      {% if pair != "" %}
+        {% assign parts = pair | split: "|" %}
+        {% if parts[1] == c %}
+          <li>{{ parts[0] }} ({{ parts[1] }})</li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
   {% endif %}
 {% endfor %}
 </ul>
