@@ -83,8 +83,6 @@ layout: default
       {% endif %}
     </li>
     {% endfor %}
-
   </ul>
 </section>
-
 {% endfor %}
