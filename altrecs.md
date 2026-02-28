@@ -77,7 +77,9 @@ layout: default
         {% if output != "" %}
           <small>[{{ output }}]</small>
         {% endif %}
-
+      
+      {% else %}
+  <small>[untagged]</small>
       {% endif %}
     </li>
     {% endfor %}
