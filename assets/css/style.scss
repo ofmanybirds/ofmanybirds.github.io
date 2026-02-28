@@ -28,15 +28,24 @@
   }
 }
 
-/* ===== Header Styling ===== */
+/* ===== Tight Cayman Banner ===== */
 
-.project-name {
-  margin: 0;
+.page-header {
+  padding: 4px 8px;   /* your desired outer padding */
+  background-image: none;
 }
 
-.project-tagline {
-  margin: 0.2rem 0 0 0;
-  opacity: 0.7;
+/* Remove extra heading spacing inside banner */
+.page-header .project-name,
+.page-header .project-tagline {
+  margin: 0;
+  padding: 0;
+  line-height: 1.1;  /* compact but not cramped */
+}
+
+/* Optional: reduce tagline gap slightly */
+.page-header .project-tagline {
+  margin-top: 2px;
 }
 
 .project-name a {
@@ -108,9 +117,4 @@ code, pre {
 
 .category-list {
   margin-bottom: 16px;  /* or any pixel value you want for spacing */
-}
-
-.page-header {
-  padding: 4px 4px;
-  background-image: none;   
 }
