@@ -1,2 +1,29 @@
 theme: jekyll-theme-cayman
 title: the nest.
+
+tag_schema:
+  order:
+    - content
+    - epistemic
+    - form
+    - cw
+
+  epistemic:
+    - endorsed
+    - disputed
+    - disputed-author
+    - surprising
+    - influential
+
+  form:
+    - charity
+    - album
+    - book
+    - organization
+    - blog
+    - channel
+    - browser-extension
+
+  cw:
+    - cw
+    - nsfw
