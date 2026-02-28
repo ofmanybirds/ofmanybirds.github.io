@@ -18,7 +18,7 @@ layout: default
 
     {% for item in sorted_items %}
     <li>
-      <a href="{{ item.url }}">{{ item.title }}</a>{% if item.note %} {{ item.note }}{% endif %}
+      <a href="{{ item.url }}">{{ item.title }}</a>{% if item.note %} — {{ item.note }}{% endif %}
 
       {% if item.tags and item.tags.size > 0 %}
 
@@ -28,28 +28,15 @@ layout: default
         {% assign cw = "" %}
 
         {% for tag in item.tags %}
-          {% assign matched = false %}
-
-          {% for cat in site.tag_schema.categories %}
-            {% assign cat_name = cat[0] %}
-            {% assign cat_values = cat[1] %}
-
-            {% if cat_values contains tag %}
-              {% assign matched = true %}
-
-              {% if cat_name == "epistemic" %}
-                {% assign epistemic = epistemic | append: tag | append: "," %}
-              {% elsif cat_name == "form" %}
-                {% assign form = form | append: tag | append: "," %}
-              {% elsif cat_name == "cw" %}
-                {% assign cw = cw | append: tag | append: "," %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-
-          {% unless matched %}
+          {% if site.tag_schema.epistemic contains tag %}
+            {% assign epistemic = epistemic | append: tag | append: "," %}
+          {% elsif site.tag_schema.form contains tag %}
+            {% assign form = form | append: tag | append: "," %}
+          {% elsif site.tag_schema.cw contains tag %}
+            {% assign cw = cw | append: tag | append: "," %}
+          {% else %}
             {% assign content = content | append: tag | append: "," %}
-          {% endunless %}
+          {% endif %}
         {% endfor %}
 
         {% assign content = content | split: "," | sort_natural | join: ", " | strip %}
