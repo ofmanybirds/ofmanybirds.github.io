@@ -833,3 +833,8 @@
   url: "https://www.youtube.com/watch?v=Vjm8P8utT5g" 
   category: "video."
   tags: ["surprising", "fun"]
+
+- title: "Statistical tests are complicated because their inventors did not have fast computers."
+  url: "https://agarriga.substack.com/p/statistical-tests-are-complicated" 
+  category: "nonfiction, short form."
+  tags: ["statistics"]
