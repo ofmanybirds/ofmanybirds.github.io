@@ -12,11 +12,11 @@ This post is about some thought experiments which are not very good. Their descr
 
 6. Experience machine.
 
-Premise 1: If experiencing as much pleasure as we can is all that matters to us, then if we will experience more pleasure by doing x than by doing y, we have no reason to do y rather than x.
-Premise 2: We will experience more pleasure if we plug into the experience machine than if we do not plug into the experience machine.
-Conclusion 1: If experiencing as much pleasure as we can is all that matters to us, then we have no reason not to plug into the experience machine. (P1&P2)
-Premise 3: We have reason not to plug into the experience machine.
-Conclusion 2: Experiencing as much pleasure as we can is not all that matters to us.
+Premise 1: If experiencing as much pleasure as we can is all that matters to us, then if we will experience more pleasure by doing x than by doing y, we have no reason to do y rather than x.  
+Premise 2: We will experience more pleasure if we plug into the experience machine than if we do not plug into the experience machine.  
+Conclusion 1: If experiencing as much pleasure as we can is all that matters to us, then we have no reason not to plug into the experience machine. (P1&P2)  
+Premise 3: We have reason not to plug into the experience machine.  
+Conclusion 2: Experiencing as much pleasure as we can is not all that matters to us.  
 
 You can care about other people. Ought to, even. This gives classical utilitarians very valid reasons to not want to be plugged into the experience machine. 
 In a world where one exists, you want to make sure that the amount of time for which such a machine is
