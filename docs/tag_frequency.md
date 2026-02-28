@@ -22,7 +22,7 @@ Step 1: Flatten all tags into a single array
 {% assign tag_array = all_tags | split: "," | sort_natural %}
 
 {% comment %}
-Step 2: Count occurrences per tag using current/count trick
+Step 2: Count occurrences per tag
 {% endcomment %}
 {% assign current = "" %}
 {% assign count = 0 %}
@@ -49,17 +49,40 @@ Step 2: Count occurrences per tag using current/count trick
 {% assign counts_array = counts_list | split: "," %}
 
 {% comment %}
-Step 3: Manually loop numeric counts descending (assume max 1000)
+Step 3: Find max count
 {% endcomment %}
-<ul>
-{% for c in (1000..1) %}
-  {% for pair in counts_array %}
-    {% if pair != "" %}
-      {% assign parts = pair | split: "|" %}
-      {% if parts[1] == c %}
-        <li>{{ parts[0] }} ({{ parts[1] }})</li>
-      {% endif %}
+{% assign max_count = 0 %}
+{% for pair in counts_array %}
+  {% if pair != "" %}
+    {% assign parts = pair | split: "|" %}
+    {% assign val = parts[1] | plus: 0 %}
+    {% if val > max_count %}
+      {% assign max_count = val %}
     {% endif %}
-  {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+Step 4: Build descending array from max → 1
+Liquid has no numeric range with step, so we use a trick
+{% endcomment %}
+{% assign descending = "" %}
+{% for i in (1..max_count) %}
+  {% assign descending = descending | prepend: i | append: "," %}
+{% endfor %}
+{% assign descending_array = descending | split: "," %}
+
+<ul>
+{% for c in descending_array %}
+  {% if c != "" %}
+    {% for pair in counts_array %}
+      {% if pair != "" %}
+        {% assign parts = pair | split: "|" %}
+        {% if parts[1] == c %}
+          <li>{{ parts[0] }} ({{ parts[1] }})</li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 {% endfor %}
 </ul>
