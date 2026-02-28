@@ -2,6 +2,7 @@
   url: "https://www.againstmalaria.com/Default.aspx"
   category: "charities."
   tags: ["charity", "medicine", "endorsed"]
+  note: "This is a test."
 
 - title: "Malaria Consortium."
   url: "https://www.malariaconsortium.org/"
