@@ -2,12 +2,6 @@ theme: jekyll-theme-cayman
 title: the nest.
 
 tag_schema:
-  order:
-    - content
-    - epistemic
-    - form
-    - cw
-
   epistemic:
     - endorsed
     - disputed
