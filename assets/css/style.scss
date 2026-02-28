@@ -53,12 +53,13 @@
 }
 
 section h2 {
-  margin: 0.5em 0 0.1em 0; /* top / right-left / bottom */
+  margin-top: 0.8em;   /* space from previous category */
+  margin-bottom: 0.2em; /* small gap to first item */
   font-weight: bold;
 }
 
 ul {
-  margin: 0 0 0.5em 0; /* bottom margin for spacing after last item */
+  margin: 0 0 0.5em 0; 
   padding: 0;
   list-style: none;
 }
