@@ -2,8 +2,9 @@
 layout: default
 ---
 
-Tracker of how manytimes each tag is used. 
-
+{% comment %}
+  Step 1: Flatten all tags into a single array
+{% endcomment %}
 {% assign all_tags = "" %}
 
 {% for item in site.data.links %}
@@ -16,35 +17,60 @@ Tracker of how manytimes each tag is used.
 
 {% assign tag_array = all_tags | split: "," | sort_natural %}
 
-<ul>
-  {% assign current = "" %}
-  {% assign count = 0 %}
+{% comment %}
+  Step 2: Build frequency map
+{% endcomment %}
+{% assign tag_counts = {} %}
 
-  {% for tag in tag_array %}
-    {% if tag != "" %}
-      {% if tag != current %}
-        {% if current != "" %}
-          <li>{{ current }} ({{ count }})</li>
-        {% endif %}
-        {% assign current = tag %}
-        {% assign count = 1 %}
-      {% else %}
-        {% assign count = count | plus: 1 %}
-      {% endif %}
+{% for tag in tag_array %}
+  {% if tag != "" %}
+    {% if tag_counts[tag] %}
+      {% assign tag_counts = tag_counts | merge: {{ tag: tag_counts[tag] | plus: 1 }} %}
+    {% else %}
+      {% assign tag_counts = tag_counts | merge: {{ tag: 1 }} %}
     {% endif %}
-  {% endfor %}
-
-  {% if current != "" %}
-    <li>{{ current }} ({{ count }})</li>
-  {% endif %}
-</ul>
-{% assign untagged_count = 0 %}
-{% for item in site.data.links %}
-  {% if item.tags == nil or item.tags.size == 0 %}
-    {% assign untagged_count = untagged_count | plus: 1 %}
   {% endif %}
 {% endfor %}
 
-{% if untagged_count > 0 %}
-<p>Untagged items: {{ untagged_count }}</p>
-{% endif %}
+{% comment %}
+  Step 3: Convert frequency map into a sorted array of "tag|count"
+{% endcomment %}
+{% assign sorted_tags = "" %}
+
+{% for tag in tag_counts %}
+  {% assign sorted_tags = sorted_tags | append: tag[0] | append: "|" | append: tag[1] | append: "," %}
+{% endfor %}
+
+{% assign sorted_tags_array = sorted_tags | split: "," | sort_natural %}
+
+{% comment %}
+  Step 4: Sort by count descending manually
+{% endcomment %}
+{% assign sorted_tags_final = "" %}
+{% assign temp = sorted_tags_array %}
+
+{% comment %}
+  Liquid doesn’t support complex sorting by value, so we can use a trick: build an array of counts descending
+{% endcomment %}
+{% assign counts = "" %}
+{% for pair in temp %}
+  {% if pair != "" %}
+    {% assign parts = pair | split: "|" %}
+    {% assign counts = counts | append: parts[1] | append: "," %}
+  {% endif %}
+{% endfor %}
+
+{% assign counts_array = counts | split: "," | uniq | sort_natural | reverse %}
+
+<ul>
+{% for count in counts_array %}
+  {% for pair in temp %}
+    {% if pair != "" %}
+      {% assign parts = pair | split: "|" %}
+      {% if parts[1] == count %}
+        <li>{{ parts[0] }} ({{ parts[1] }})</li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</ul>
