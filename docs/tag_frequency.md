@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-
-{% comment %}
-Step 1: Flatten all tags into a single array
-{% endcomment %}
 {% assign all_tags = "" %}
 {% for item in site.data.links %}
   {% if item.tags %}
@@ -16,9 +12,6 @@ Step 1: Flatten all tags into a single array
 
 {% assign tag_array = all_tags | split: "," | sort_natural %}
 
-{% comment %}
-Step 2: Count occurrences per tag
-{% endcomment %}
 {% assign current = "" %}
 {% assign count = 0 %}
 {% assign counts_list = "" %}
@@ -27,7 +20,10 @@ Step 2: Count occurrences per tag
   {% if tag != "" %}
     {% if tag != current %}
       {% if current != "" %}
-        {% assign counts_list = counts_list | append: current | append: "|" | append: count | append: "," %}
+        {% comment %} zero-pad count to 4 digits {% endcomment %}
+        {% assign padded = count | prepend: "0000" %}
+        {% assign padded = padded | slice: -4, 4 %}
+        {% assign counts_list = counts_list | append: current | append: "|" | append: padded | append: "," %}
       {% endif %}
       {% assign current = tag %}
       {% assign count = 1 %}
@@ -38,36 +34,21 @@ Step 2: Count occurrences per tag
 {% endfor %}
 
 {% if current != "" %}
-  {% assign counts_list = counts_list | append: current | append: "|" | append: count | append: "," %}
+  {% assign padded = count | prepend: "0000" %}
+  {% assign padded = padded | slice: -4, 4 %}
+  {% assign counts_list = counts_list | append: current | append: "|" | append: padded | append: "," %}
 {% endif %}
 
-{% comment %}
-Step 3: Find unique counts descending
-{% endcomment %}
-{% assign count_values = "" %}
-{% assign counts_array = counts_list | split: "," %}
+{% assign counts_array = counts_list | split: "," | sort_natural | reverse %}
+
+<ul>
 {% for pair in counts_array %}
   {% if pair != "" %}
     {% assign parts = pair | split: "|" %}
-    {% assign count_values = count_values | append: parts[1] | append: "," %}
-  {% endif %}
-{% endfor %}
-{% assign unique_counts = count_values | split: "," | uniq | sort_natural | reverse %}
-
-<ul>
-{% comment %}
-Step 4: Loop counts descending, print tags with that count
-{% endcomment %}
-{% for c in unique_counts %}
-  {% if c != "" %}
-    {% for pair in counts_array %}
-      {% if pair != "" %}
-        {% assign parts = pair | split: "|" %}
-        {% if parts[1] == c %}
-          <li>{{ parts[0] }} ({{ parts[1] }})</li>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+    {% comment %} strip leading zeros for display {% endcomment %}
+    {% assign display_count = parts[1] | remove_first: "0" | remove_first: "0" | remove_first: "0" | remove_first: "0" %}
+    {% if display_count == "" %}{% assign display_count = "0" %}{% endif %}
+    <li>{{ parts[0] }} ({{ display_count }})</li>
   {% endif %}
 {% endfor %}
 </ul>
