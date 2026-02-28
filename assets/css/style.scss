@@ -48,6 +48,16 @@
   text-decoration: none;
 }
 
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+li {
+  margin-bottom: 0.4em;
+}
+
 .project-name a:hover {
   text-decoration: underline;
 }
