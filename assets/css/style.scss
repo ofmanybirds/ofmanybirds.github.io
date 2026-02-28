@@ -28,6 +28,11 @@
   }
 }
 
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
 /* ===== Header Styling ===== */
 .page-header {
   padding: 1rem 1rem;
@@ -62,13 +67,14 @@ body, p, li {
 /* Headings with exact spacing but still visually distinct */
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;       /* match the paragraphs */
-  margin: 0.5em 0 0.2em; /* tiny spacing for visual separation */
+  display: block;
+  margin: 0.5em 0 0.2em; /* tiny spacing for visual separation */  
   font-weight: bold;
 }
 
 /* Optional: uniform list spacing */
 ul, ol {
   margin: 0;
-  padding-left: 1.2em; /* standard indent */
+  padding: 0;
   list-style: none;
 }
