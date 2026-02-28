@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
+/* ===== Dark Mode Overrides ===== */
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #0d1117;
@@ -28,7 +29,7 @@
   }
 }
 
-
+/* ===== Header Styling ===== */
 .page-header {
   padding: 1rem 1rem;
   background-image: none;   
@@ -52,26 +53,32 @@
   text-decoration: underline;
 }
 
-/* Keep headers readable, add consistent gap before first item */
+/* ===== Category Headers ===== */
 section h2 {
-  line-height: 1.25;      /* slightly taller than list items for visual separation */
-  margin-top: 0.6em;      /* space from previous category */
-  margin-bottom: 0.3em;   /* gap to first list item */
+  margin: 0;                  /* remove external margins */
+  padding-bottom: 0.15em;     /* internal spacing to first item */
+  line-height: 1.25;          /* slightly taller than list for readability */
   font-weight: bold;
 }
 
-/* Lists are dense, plaintext-like */
+/* ===== Lists and Items ===== */
 ul {
-  margin: 0 0 0.6em 0;    /* bottom margin for spacing after last item */
-  padding-left: 0;
+  margin: 0;                  /* remove external spacing */
+  padding: 0;
   list-style: none;
 }
 
 li {
   margin: 0;
-  padding: 0;
+  padding: 0.1em 0;           /* vertical spacing inside line box */
+  line-height: 1.2;           /* uniform compact line-height for plaintext aesthetic */
 }
 
-* {
-  line-height: 1.2;
+small {
+  font-size: inherit;          /* prevent vertical discrepancies */
+}
+
+/* ===== Ensure uniform line-height across everything ===== */
+body, li, h2, small, a {
+  line-height: 1.2;           /* base line-height for uniform highlights */
 }
