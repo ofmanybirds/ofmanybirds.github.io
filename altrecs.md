@@ -10,6 +10,7 @@ layout: default
 {% for group in grouped %}
 <section>
   <h2>{{ group.name | capitalize }}</h2>
+<div class="category-list">
   <ul>
     {% assign sorted_items = group.items | sort_natural: "title" %}
     {% for item in sorted_items %}
@@ -69,5 +70,6 @@ layout: default
     </li>
     {% endfor %}
   </ul>
+</div>
 </section>
 {% endfor %}
