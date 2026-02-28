@@ -52,27 +52,22 @@
   text-decoration: underline;
 }
 
-section h2 {
-  margin: 0;            
-  padding: 0;         
+/* Global line spacing */
+body, p, li {
+  line-height: 1; /* exact spacing, like Notepad */
+  margin: 0;       /* remove extra vertical margin */
+  padding: 0;      /* remove padding if any */
+}
+
+/* Headings with exact spacing but still visually distinct */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;       /* match the paragraphs */
+  margin: 0.5em 0 0.2em; /* tiny spacing for visual separation */
   font-weight: bold;
 }
 
-ul {
+/* Optional: uniform list spacing */
+ul, ol {
   margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-li {
-  margin: 0;
-  padding: 0;    
-}
-
-* {
-  line-height: 1.2;         
-}
-
-small {
-  line-height: inherit;
+  padding-left: 1.2em; /* standard indent */
 }
