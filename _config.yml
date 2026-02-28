@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: the nest.
-
+permalink: pretty
 tag_schema:
   epistemic:
     - endorsed
