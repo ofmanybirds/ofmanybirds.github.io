@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Tag Usage Tracker (Raw Padded)"
+title: "Tag Usage Tracker"
 ---
 
-# Raw Padded Tag Counts
+# Tag Usage Tracker (Prettified)
 
 {% assign all_tags = "" %}
 {% for item in site.data.links %}
@@ -45,7 +45,10 @@ title: "Tag Usage Tracker (Raw Padded)"
 <ul>
 {% for item in sorted_array %}
   {% if item != "" %}
-    <li>{{ item }}</li>
+    {% assign display_count = item | slice: 0,4 | remove_first: "0" | remove_first: "0" | remove_first: "0" | remove_first: "0" %}
+    {% if display_count == "" %}{% assign display_count = "0" %}{% endif %}
+    {% assign tag_name = item | slice: 4, 100 %}
+    <li>{{ tag_name }} ({{ display_count }})</li>
   {% endif %}
 {% endfor %}
 </ul>
