@@ -1,11 +1,9 @@
 ---
 layout: default
-title: "Tag Usage Tracker"
+title: "Tag Usage Tracker (Raw Padded)"
 ---
 
-# Tag Usage Tracker
-
-Tags sorted by count descending (ties arbitrary).
+# Raw Padded Tag Counts
 
 {% assign all_tags = "" %}
 {% for item in site.data.links %}
@@ -47,10 +45,7 @@ Tags sorted by count descending (ties arbitrary).
 <ul>
 {% for item in sorted_array %}
   {% if item != "" %}
-    {% assign display_count = item | slice: 0,4 | remove_first: "0" | remove_first: "0" | remove_first: "0" | remove_first: "0" %}
-    {% if display_count == "" %}{% assign display_count = "0" %}{% endif %}
-    {% assign tag_name = item | slice: 4, 100 %}
-    <li>{{ tag_name }} ({{ display_count }})</li>
+    <li>{{ item }}</li>
   {% endif %}
 {% endfor %}
 </ul>
