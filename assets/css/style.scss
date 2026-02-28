@@ -67,9 +67,12 @@ ul {
 li {
   margin: 0;
   padding: 0.1em 0;    
-  line-height: 1.2;     
 }
 
-body, li, h2, small, a {
+* {
   line-height: 1.2;         
+}
+
+small {
+  line-height: inherit;
 }
