@@ -1,5 +1,5 @@
 We're physicalists. You're going to have a very hard time getting us to care about unfalsifiable propositions, and making such utterances is just likely to annoy us.  
-We're atheists. There is no strong evidence of any deity, and we do our best not to believe in things we don't have a good reason to believe.  
+We're atheists. There is no strong evidence of any deity, and we do our best not to believe in things we don't have a good reason to believe. Also, if a deity exists, the world is trash, could be made better, and they are definitely not worthy of worshipping.  
 We're qualia eliminativists. Qualia is very obviously not a useful concept -- just, why would someone believe that it is?  
 We're epistemologically Bayesian or something fairly close to it, in that we believe the best way to conceptualise knowledge is in the manner of subjective probabilities.   
 We're consequentialists, because the outcome is the only thing that matters.   
