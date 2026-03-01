@@ -1,6 +1,21 @@
 ---
 layout: default
 ---
+{% assign total_entries = 0 %}
+{% assign untagged_entries = 0 %}
+
+{% for item in site.data.links %}
+  {% assign total_entries = total_entries | plus: 1 %}
+  {% if item.tags == nil or item.tags.size == 0 %}
+    {% assign untagged_entries = untagged_entries | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+<p>
+total ({{ total_entries }})<br>
+untagged ({{ untagged_entries }})
+</p>
+
 {% assign all_tags = "" %}
 {% for item in site.data.links %}
   {% if item.tags %}
