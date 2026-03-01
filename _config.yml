@@ -17,6 +17,7 @@ tag_schema:
     - blog
     - channel
     - browser-extension
+    - dataset
 
   cw:
     - cw
