@@ -26,8 +26,8 @@ A common objection is that utilitarianism does not care about fairness -- we can
 This line of thought does appeal to some real intuitions, not that we think intuitions should be guiding moral reasoning.  
 Still, we have some responses.  
 
-  a -- Utilitarians do not assign a terminal value to equality, but we absolutely care about it instrumentally. In practice, we seem to care about it a lot more than other moral philosophies do. With a given amount of resources, the good-maximising distribution is generally to those who are the least well-off, because you benefit more from resources the fewer of them you have. Implementations of utilitarianism have a natural tendency of becoming egalitarian. This makes equality very, very important.
-  b -- You should bite the bullet. The first world looks straightforwardly better. I don't think you can justify taking X utils from someone to give nine-tenths of that to another person, such a preference seems straightforwardly incoherent. 
+  a -- Utilitarians do not assign a terminal value to equality, but we absolutely care about it instrumentally. In practice, we seem to care about it a lot more than other moral philosophies do. With a given amount of resources, the good-maximising distribution is generally to those who are the least well-off, because you benefit more from resources the fewer of them you have. Implementations of utilitarianism have a natural tendency of becoming egalitarian. This makes equality very, very important.   
+  b -- You should bite the bullet. The first world looks straightforwardly better. I don't think you can justify taking X utils from someone to give nine-tenths of that to another person, such a preference seems straightforwardly incoherent.   
 
 6 -- Luck.   
 
