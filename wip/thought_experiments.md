@@ -61,12 +61,12 @@ ones not shared by the "taking a pill that makes one permanently happy without o
 
 6 -- Pascal's wager.
 
-This one is not taken from Wikipedia, but I don't think anyone will have issues with my presentation. Assume that if you believe in the Christian god and she exists, you go to heaven, if she exists and you don't, you go to hell.  
+This one is not taken from Wikipedia, but I don't think anyone will have issues with my presentation. Assume that if you believe in the Christian god and she exists, you go to heaven, and if she exists and you don't, you go to hell.  
 If you believe in the Christian god and she exists, you gain infinite value.  
 If you believe and she doesn't exist, you lose finite value, from having to act in accordance to the faith and such.  
 If you don't believe and she exists, you lose infinite value. 
 If you don't believe and she doesn't exist, you gain finite value.  
 Therefore, you should believe in her, because with any non-zero probability of her existing, the expected value of doing so is positive infinity, and the expected value of not believing is negative infinity.  
 
-One problem. There are a lot of potential gods, and the anti-Christian one is just as likely to exist as the Christian one from my perspective. She's anti-Christian, so the universe would look exactly the same as with the Christian one, making physical evidence irrelevant. The only difference is that, if I believed in the Christian god, I go to hell, and if I didn't, I go to heaven.  
+There are a lot of potential gods, and the anti-Christian one is just as likely to exist as the Christian one from my perspective. She's anti-Christian, so the universe would look exactly the same as with the Christian one, making physical evidence irrelevant. The only difference is that, if I believed in the Christian god, I go to hell, and if I didn't, I go to heaven.  
 We have equal evidence for both hypotheses, so the expected values cancel out. I'll take my finite gain, please.  
