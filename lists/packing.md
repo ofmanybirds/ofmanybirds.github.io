@@ -1,3 +1,10 @@
+---
+layout: default
+section: lists
+list: true
+list_title: What to pack for various kinds of situations.
+---
+
 This is a list of things you're supposed to pack for various kinds of travel. Each list also contains all of the content of the prior lists -- you're always supposed to pack water, for example.  
 
 ##### Extremely light.  
