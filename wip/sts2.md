@@ -6,7 +6,7 @@ We've been playing some Slay the Spire 2 recently, and it's been really fun. Her
 At Common, you have Armaments. And I suppose True Grit. The Vulnerable synergy space, being 
 
 ##### Silent.   
-At Common,
+At Common, Snakebite, Poisoned Stab, Deadly Poison.  
 
 ##### Regent.  
 At Common,
