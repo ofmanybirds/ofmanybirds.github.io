@@ -13,4 +13,4 @@ We have some heart issues. They're fairly minor.
 We have severe hyperacusis. This is probably the most significant disability we have, in terms of day-to-day negative impact on our lives. We very quickly get dizzy around even moderately loud or high-pitched noises, and can pass out if it's sufficiently bad. Vomiting can also happen. It's also incredibly painful.   
 We have tinnitus. This means we sometimes experience short, somewhat debilitating spikes of pain.   
 We have some type of anxiety disorder. If you find us skittishly looking over our shoulder, constantly glancing to see if doors are opening, or jumping at the slighest sound, that's generally normal.  
-
+We have a fine manual dexterity disorder, mainly of the hand. We're very clumsy sometimes.  
