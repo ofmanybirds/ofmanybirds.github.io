@@ -15,3 +15,6 @@ This isn't very interesting, I'm just showcasing lower bounds.
 
 There's a large collection of seven-character, single-field solutions. The set CMM has collector numbers from 1 to 1067, the set WHO has collector numbers from 1 to 1165, and the set PIP has collector numbers from 1 to 1056. There's also the set SLD, which has collector numbers into the thousands, but has a lot of gaps. And there's also promos, which aren't really relevant.  
 This means that there's often collector numbers only two cards share. An example is all of 1069 through 1084. 1085 contains a card from The List, though, and as such isn't valid. I don't know how many of these there are, I just think it's neat there are a lot of them.  
+
+Solutions which I've done while playing and potentially showcase interesting techniques:  
+`"e,"ni nd` -- [Jace, Ingenious Mind Mage + Soundwave, Sonic Spy // Soundwave, Superior Captain](https://scryfall.com/search?q=%22e%2C%22ni+nd&unique=cards&as=grid&order=name). Happens to be the standing record. Very heavy use of digraphs, also showcases how `"foo"` takes up one less character than you'd expect in practice. Doesn't work without the quotation marks, the `,` is just interpreted as a space otherwise.  
