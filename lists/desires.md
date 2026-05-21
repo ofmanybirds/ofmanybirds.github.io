@@ -27,3 +27,8 @@ TTRPGs, and thinking abot TTRPGs.
 Reading.  
 Communicating with people.  
 Making this site.  
+
+#### Material things we'd enjoy having.  
+A few more sex toys, some variety would be really nice. I'd kind of like to get a Lovense, too.  
+A new laptop, could really use one.  
+High-quality ear plugs.  
