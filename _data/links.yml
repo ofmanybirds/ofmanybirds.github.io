@@ -1,3 +1,4 @@
+
 - title: "The Association for Computational Heresy."
   url: "https://sigbovik.org/" 
   category: "larger repositories."
@@ -694,3 +695,12 @@
   url: "https://agarriga.substack.com/p/statistical-tests-are-complicated" 
   category: "nonfiction, short form."
   tags: ["statistics"]
+- title: "The joys of cash benchmarking."
+  url: "https://thingofthings.substack.com/p/the-joys-of-cash-benchmarking" 
+  category: "nonfiction, short form."
+  tags: ["statistics", "social"]
+- title: "The bitter lesson."
+  url: "http://www.incompleteideas.net/IncIdeas/BitterLesson.html" 
+  category: "nonfiction, short form."
+  tags: ["ai", "programming"]
+
