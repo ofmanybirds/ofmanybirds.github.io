@@ -703,4 +703,9 @@
   url: "http://www.incompleteideas.net/IncIdeas/BitterLesson.html" 
   category: "nonfiction, short form."
   tags: ["ai", "programming"]
+- title: "Andy Tockman."
+  url: "https://tck.mn/blog/" 
+  category: "other personal sites or content repositories."
+  tags: ["programming", "fun"]
+
 
